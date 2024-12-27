@@ -30,7 +30,7 @@ You are welcome to access and [comment on the full paper here](https://docs.goog
 ## **Getting Started**
 
 1. Get started by cloning this repository
-2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/GAMEPLAY.md) to understand the rules.
+2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
 3. Start playing and share your experiences in the Inguro Slack Community!
 
 ---
@@ -39,7 +39,7 @@ You are welcome to access and [comment on the full paper here](https://docs.goog
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
-For full licensing details, see the [LICENSE.md](https://github.com/Inguro-OU/debiased-self/LICENSE.md) file.
+For full licensing details, see the [https://github.com/Inguro-OU/debiased-self/blob/main/LICENSE.md) file.
 
 ---
 
