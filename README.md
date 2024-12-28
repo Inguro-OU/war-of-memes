@@ -21,6 +21,16 @@ cd <debiased-self>
 
 Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
 
+___
+
+## Join the Inguro Community
+
+- Share your experiences playing the game.
+- Collaborate on r**efining the debiasing method** and the game rules.
+- Help us bring **debiasing as a universal right** closer to reality.
+
+To join, [click here](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw)
+
 ## **Theoretical Foundation**
 
 This project is based on the theoretical framework:
@@ -30,14 +40,6 @@ This project is based on the theoretical framework:
 You are welcome to access and [comment on the full paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing).
 
 ---
-
-## Join the Inguro Community
-
-- Share your experiences playing the game.
-- Collaborate on r**efining the debiasing method** and the game rules.
-- Help us bring **debiasing as a universal right** closer to reality.
-
-To join, [click here](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw)
 
 ## Licensing
 
