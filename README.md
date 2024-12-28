@@ -17,29 +17,17 @@ cd <debiased-self>
 
 ---
 
+## **Getting Started**
+
+Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
+
 ## **Theoretical Foundation**
 
 This project is based on the theoretical framework:
 
-- Debiasing Self by Ladischneski, CEO of Inguro OÜ. Based on the theoretical framework described in Ladischneski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
+- Ladischneski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
 
 You are welcome to access and [comment on the full paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing).
-
----
-
-## **Getting Started**
-
-1. Get started by cloning this repository
-2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
-3. Start playing and share your experiences in the Inguro Slack Community!
-
----
-
-## Licensing
-
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
-
-For full licensing details, see the [License](https://github.com/Inguro-OU/debiased-self/blob/main/LICENSE.md) file.
 
 ---
 
@@ -50,3 +38,11 @@ For full licensing details, see the [License](https://github.com/Inguro-OU/debia
 - Help us bring **debiasing as a universal right** closer to reality.
 
 To join, [click here](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw)
+
+## Licensing
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+
+For full licensing details, see the [License](https://github.com/Inguro-OU/debiased-self/blob/main/LICENSE.md) file.
+
+---
