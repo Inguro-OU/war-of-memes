@@ -1,3 +1,5 @@
+Read the [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
+
 ## **Flexible Gameplay**
 
 1. **Free Movement:** In events of any size, players can move freely between groups and engage in one-on-one or small-group discussions.
