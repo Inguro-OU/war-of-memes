@@ -8,13 +8,14 @@ Read the [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md
 
 ---
 
-## **Three Difficulty Levels**
+## **Four Difficulty Levels**
 
 The game offers three levels of play to suit different group sizes and complexities:
 
 1. **Basic Level:** Core rules for casual groups or first-time players.
 2. **Intermediate Level:** Adds structure with moderators and optional tools like idea cards. Ideal for small groups around a table.
-3. **Advanced Level:** Includes expanded mechanics (e.g., intellectual humility figures, trustworthiness points) for deeper insights and competitive play. Suited for small groups of experienced players.
+3. **Advanced Level:** Includes expanded mechanics for deeper insights and competitive play. Suited for small groups of experienced players.
+4. **Mastery Level:** for expert level players who like to deepen their experience
 
 ---
 
