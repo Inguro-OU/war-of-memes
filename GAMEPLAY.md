@@ -73,23 +73,23 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ## **Intermediate Rules (Optional)**
 
-### **8. Idea Cards**
+### **9. Idea Cards**
 
 - A player draws a card from a shared game deck.
 - The card introduces an **idea** for discussion. Players reflect, thinking (to themselves): “Which biases might I have?”
 
-### **9. Declare Opinion**
+### **10. Declare Opinion**
 
 - Players verbally declare their opinion on the card. There are only three options: **True**, **False**, or **Don’t Know.**
 - If played at the table, the group can use **truth figures** and place them on the right option, expressing their opinion visually for others to see. Only one truth figure is allowed per player per card.
 
-### **10. Explain Opinion**
+### **11. Explain Opinion**
 
 - If all players have the same opinion on a given idea, they can move to the next card without explaining their opinion.
 - If players disagree, each player has a set time (e.g., 1 minute) to explain the reasoning behind their opinion.
 - Players can change their opinion anytime, which they celebrate as a **debiasing moment** with collective recognition (e.g., a clap).
 
-### **11. Moderator Role**
+### **12. Moderator Role**
 
 - Ensures **time limits** (e.g., 1 minute to explain an opinion, 2 minutes for active listening challenges).
 - Leads **Recognition Claps** for acknowledgments.
@@ -101,21 +101,21 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ## **Advanced Rules (Optional)**
 
-### **12. Bring Your Deck**
+### **13. Bring Your Deck**
 
 - Players may create their own cards and bring them to the game.
 - Each card’s backside may list the topic.
 - Players can draw from another player’s deck instead of the main deck.
 - Recommended tool: Use [Custom GPT to refine your ideas](https://chatgpt.com/g/g-676ec9d174608191a176779173a7a9e2-idea-refiner-for-debiased-self) before writing them on a card.
 
-### **13. Create Cards on the Fly**
+### **14. Create Cards on the Fly**
 
 - Players can express their ideas by writing them on a new card mid-game.
 - Any card in play must have **at least one player** validating it as true. Otherwise, it goes to the **“Graveyard.”**
 - Others can declare their opinion **True**, **False**, or **Don’t Know** (via truth figures or verbally).
 - Players can choose whether they **allow** or **prohibit** their name to appear on new cards (e.g., “Edward misunderstands confirmation bias”).
 
-### **14. End Game With a Donation Card**
+### **15. End Game With a Donation Card**
 
 Inspired by Peter Singer’s work on effective altruism, we suggest that the moderator end the game with a Donation Card (from the game deck).
 
@@ -128,13 +128,13 @@ Inspired by Peter Singer’s work on effective altruism, we suggest that the mod
 
 ## **Mastery Rules (Optional)**
 
-### **15. Cognitive Trust Figures**
+### **16. Cognitive Trust Figures**
 
 - Use chess figures to represent **“Cognitive Trust” -** is grounded in moral and epistemic impartiality, enabling individuals to overcome short-term self-interest for long-term cooperation.
 - Each player starts with five **pawns** marked as theirs (e.g., with color-coding)
 - After the end of each round (before dismissing a card and moving to the next one), players redistribute their cognitive trust figures to other players.
 
-### **16. Scoring Player’s Trustworthiness**
+### **17. Scoring Player’s Trustworthiness**
 
 - **Cognitive Trustworthiness** is the capacity to inspire cognitive trust by earning a reputation through consistent and observable trust-building behaviors.
 - **Truth figures carry** cognitive trustworthiness scores of their players - for visual purposes, players can write their score on a paper and attach it to their truth figures.
@@ -149,6 +149,6 @@ Inspired by Peter Singer’s work on effective altruism, we suggest that the mod
         - Knight: 3 points
         - Rook: 5 points
 
-### **17. Competitive Team Play**
+### **18. Competitive Team Play**
 
 - Combine trustworthiness points within each team for friendly competition.
