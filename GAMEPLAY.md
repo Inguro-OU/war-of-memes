@@ -2,7 +2,7 @@
 
 ## **Flexible Gameplay**
 
-1. **Small Group:** A small group of participants can play while seated around a table offline or online. For online gameplay, you can use this [Miro Template](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
+1. **Small Group:** A small group of participants can play while seated around a table offline or online. For online gameplay, you can use this [MIRO TEMPLATE](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
 2. **Casual 1-on-1:** Once familiar with the game, participants can call someone’s **ideal self-name** on the Fly for constructive responses.
 3. **Events with Free Movement:** In events of any size, players can move freely between groups and engage in one-on-one or small-group discussions.
 
