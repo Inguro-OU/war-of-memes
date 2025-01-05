@@ -2,7 +2,7 @@
 
 ## **Flexible Gameplay**
 
-1. **Small Group:** A small group of participants can play while seated around a table offline or online. For online gameplay, you can [use this MIRO TEMPLATE](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
+1. **Small Group:** A small group of participants can play while seated around a table. For online gameplay, you can use this [MIRO TEMPLATE](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
 2. **Casual 1-on-1:** Once familiar with the game, participants can call someone’s **ideal self-name** on the Fly for constructive responses.
 3. **Events with Free Movement:** In events of any size, players can move freely between groups and engage in one-on-one or small-group discussions.
 
@@ -79,7 +79,7 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ### **10. Declare Opinion**
 
-- Players verbally declare their opinion on the card. There are only three options: **True**, **False**, or **Don’t Know.**
+- Players verbally declare their opinion on the card. There are only two options: **True or** **False.**
 - If played at the table, the group can use **truth figures** and place them on the right option, expressing their opinion visually for others to see. Only one truth figure is allowed per player per card.
 
 ### **11. Explain Opinion**
@@ -93,7 +93,6 @@ The game offers three levels of play to suit different group sizes and complexit
 - Ensures **time limits** (e.g., 1 minute to explain an opinion, 2 minutes for active listening challenges).
 - Leads **Recognition Claps** for acknowledgments.
 - Resolves disputes and clarifies rules.
-- To introduce new players, the moderator can start with game cards numbered **0, 1, and 2** to explain the value of the golden rule, cognitive empathy, and intellectual humility.
 - Once experienced, moderators can improvise with topic-specific discussions, new game decks, and modified rules (e.g., as a warm-up before the game starts, players could celebrate sharing a recent past mistake while taking full responsibility for it without justifications).
 
 ---
@@ -109,9 +108,9 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ### **14. Create Cards on the Fly**
 
-- Players can express their ideas by writing them on a new card mid-game.
+- Players can express their ideas by writing them on a new card mid-game. We recommend for each player to create a new card if they disagree with a given idea to explain their position in a short clear way.
 - Any card in play must have **at least one player** validating it as true. Otherwise, it goes to the **“Graveyard.”**
-- Others can declare their opinion **True**, **False**, or **Don’t Know** (via truth figures or verbally).
+- Others can declare their opinion as **True or False** (via truth figures or verbally).
 - Players can choose whether they **allow** or **prohibit** their name to appear on new cards (e.g., “Edward misunderstands confirmation bias”).
 
 ### **15. End Game With a Donation Card**
