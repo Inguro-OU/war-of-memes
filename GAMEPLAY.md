@@ -15,7 +15,7 @@ The game offers three levels of play to suit different group sizes and complexit
 1. **Basic Level:** Core rules for casual groups or first-time players.
 2. **Intermediate Level:** Adds structure with moderators and optional tools like idea cards. Ideal for small groups around a table.
 3. **Advanced Level:** Includes expanded mechanics for deeper insights and competitive play. Suited for small groups of experienced players.
-4. **Mastery Level:** for expert level players who like to deepen their experience
+4. **Mastery Level:** for expert-level players who like to deepen their experience
 
 ---
 
@@ -54,11 +54,11 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ### **6. Challenge Active Listening**
 
-- **Setup**: The challenger calls the challenged player by their **ideal self-name**.
+- **Setup**: The challenger calls the challenged player by their **ideal self-name.** If the game is played at a table the challenger puts an armband on the table to signal that the other player can earn it. ****
 - **Active Listening**: The challenged player paraphrases the challenger’s perspective and asks open-ended clarifying questions.
     - **Understanding Success**: If the challenger feels understood, they give the challenged player one **armband**.
     - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
-- **Wording:** Suggested wording for clarity: “*[Nickname], sorry, you seem to disagree before reaching an understanding*.”
+- **Wording:** Suggested wording for clarity: “*[Nickname], thanks for active listening.*”
 
 ### **7. Voluntary Self-Challenge**
 
