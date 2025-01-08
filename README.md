@@ -1,12 +1,16 @@
-**Debiasing Self** is a gamified **debiasing method** that helps individuals and teams uncover cognitive biases—predictable errors in judgment arising from our brains’ reliance on mental shortcuts. It fosters **cognitive empathy**, **intellectual humility**, **trustworthiness**, and **enhanced problem-solving capacity**. Players sharpen **active listening** and **critical thinking** skills through meaningful discussions and peer-initiated challenges while **exchanging knowledge** more effectively. Players collectively celebrate mistakes and grow closer to their **ideal, debiased selves**. **Debiasing Self** is adaptable to a variety of contexts, including:
+# War of Memes
 
-- **Conflict Resolution** – Debiasing helps resolve conflicts by clarifying right vs. wrong and true vs. false.
-- **Soft Skills, Sales, and Negotiation Training** – Debiasing enhances essential people-focused skills.
-- **Self-Improvement** – Debiasing reduces distortions in how you perceive yourself, others, and reality.
-- **Psychotherapy** – Debiasing aids in overcoming mental challenges and healing from past traumas.
-- **Assess and Grow Cognitive Trust** – Use debiasing as a team-building tool and a way to evaluate cognitive trustworthiness.
-- **Exchange Knowledge More effectively** – Debiasing make knowledge exchange more effective. In particular, it helps to give and receive feedback more effectively, reach better decisions, and reduce predictable errors.
-- **Enhance Collective Problem-Solving** – Debiasing helps larger groups solve problems more effectively together.
+## There Are No Bad People, Only Bad Ideas. This Game Unites Players to Prove Harmful Real-World Ideas False Before They Turn People Against Each Other
+
+War of Memes is a gamified **debiasing method** that helps individuals and teams reduce cognitive biases' negative impact—predictable judgment errors arising from our brains’ reliance on mental shortcuts. It fosters **cognitive empathy**, **intellectual humility**, **trustworthiness**, and **enhanced problem-solving capacity**. Players sharpen **active listening** and **critical thinking** skills through meaningful discussions and peer-initiated challenges while **exchanging knowledge** more effectively. Players collectively celebrate mistakes and grow closer to their **ideal, debiased selves**. War of Memes is adaptable to a variety of contexts and offers multiple benefits, including:
+
+- **Conflict Resolution** – The game helps resolve epistemic (true vs. false) and moral (right vs. wrong) conflicts more effectively
+- **Soft Skills, Sales, and Negotiation Training** – The game enhances essential people-focused skills like understanding and persuasion.
+- **Self-Improvement** – The game reduces distortions in how you perceive yourself, others, and reality.
+- **Peer-To-Peer Psychotherapy** – The game helps to overcome mental challenges and heal from past traumas.
+- **Assess Truthwortiness and Accelerate Trust-Building** – Use the game in your hiring assessments and as a team-building exercise
+- **Exchange Knowledge and Feedback More Effectively** – Game mechanics make knowledge exchange more effective. In particular, it helps to better give and receive feedback, make better decisions, and reduce predictable errors.
+- **Enhance Collective Problem-Solving** – The game helps larger groups to cooperate and solve problems more effectively together.
 
 ---
 
