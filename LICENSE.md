@@ -15,7 +15,7 @@ Under these conditions:
 
 - **Attribution** – credit the original creator with the following note:
     
-    > "Debiasing Self by Ladischenski, CEO of Inguro OÜ. More information: https://github.com/Inguro-OU/war-of-memes/ Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
+    > "Debiasing Self by Ladischenski, CEO of Inguro OÜ. More information: [https://github.com/Inguro-OU/war-of-memes/] Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
     > 
 - **Non-Commercial Use Only** – do not use the material for commercial purposes.
 - **ShareAlike** – if you modify or build upon the material, distribute your work under the same license.
