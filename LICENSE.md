@@ -1,4 +1,4 @@
-## **Licensing Terms for Debiasing Self**
+## **Licensing Terms for War of Memes**
 
 **Copyright © 2024 Ladischenski, CEO of Inguro OÜ.**
 
