@@ -1,7 +1,7 @@
 # War of Memes
 
-## There Are No Bad People, Only Bad Ideas. 
-### Players Unite to Prove Harmful Real-World Ideas False Before They Turn People Against Each Other
+## There Are No Bad People, Only Bad Ideas.
+### Players Unite to Prove Harmful Real-World Ideas False Before They Turn People Against Each Other.
 
 War of Memes is a gamified **debiasing method** that helps individuals and teams reduce cognitive biases' negative impact—predictable judgment errors arising from our brains’ reliance on mental shortcuts. It fosters **cognitive empathy**, **intellectual humility**, **trustworthiness**, and **enhanced problem-solving capacity**. Players sharpen **active listening** and **critical thinking** skills through meaningful discussions and peer-initiated challenges while **exchanging knowledge** more effectively. Players collectively celebrate mistakes and grow closer to their **ideal, debiased selves**. War of Memes is adaptable to a variety of contexts and offers multiple benefits, including:
 
