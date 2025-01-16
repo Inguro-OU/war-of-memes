@@ -25,7 +25,7 @@ Debiasing transforms you and your impact through ten key benefits:
 
 1. Exchange knowledge more effectively
 2. Enhance collective problem-solving capacity
-3. Foster idea of meritocracy where the best ideas win regardless of the source
+3. Foster culture of idea-meritocracy where the best ideas win regardless of the source
 
 # Manifesto
 
