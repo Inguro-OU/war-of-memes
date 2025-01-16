@@ -1,4 +1,6 @@
-# War of Memes: Debiasing Game - Break Free from Errors We're Born With
+# War of Memes
+
+## Debiasing Game - Break Free from Errors We're Born With
 
 Evil memes - patterns of thought that divide us and cause harm - are humanity's greatest challenge. They turn people against each other, stifle progress, and multiply suffering. This manifesto explains how we can eliminate them through systematic debiasing.
 
