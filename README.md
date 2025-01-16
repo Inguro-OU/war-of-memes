@@ -78,6 +78,7 @@ The **Silver Rule**—“Do not treat others in ways you don’t want to be trea
 **Debiasing isn’t optional—evil memes are humanity’s greatest existential threat.**
 
 Our vision is a world where **evil memes are eradicated before they spread**, and the majority of people respect the **Silver Rule**, even with those who are far or different from them.
+
 ---
 
 ## **Getting Started**
