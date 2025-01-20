@@ -12,21 +12,20 @@ Evil memes - patterns of thought and behavior - are humanity's greatest challeng
 
 **Communication**
 
-1. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
-2. Reduce the number and severity of epistemic (true/false) and moral (right/wrong) conflicts
-3. Receive and share knowledge and feedback more effectively
+4. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
+5. Reduce the number and severity of epistemic (true/false) and moral (right/wrong) conflicts
+6. Receive and share knowledge and feedback more effectively
 
 **Trustworthiness**
-
-1. Increase your objective trustworthiness
-2. Assess the objective trustworthiness of other people more effectively
-3. Increase your capacity to trust others while minimizing the risk of others taking advantage of you 
+7. Increase your objective trustworthiness
+8. Assess the objective trustworthiness of other people more effectively
+9. Increase your capacity to trust others while minimizing the risk of others taking advantage of you 
 
 **Collaboration**
 
-1. Accelerate trust-building between members of a team
-2. Enhance the problem-solving capacity of small and large teams
-3. Foster a culture of idea meritocracy where the best ideas win regardless of the source
+10. Accelerate trust-building between members of a team
+11. Enhance the problem-solving capacity of small and large teams
+12. Foster a culture of idea meritocracy where the best ideas win regardless of the source
 
 # Manifesto
 
