@@ -17,6 +17,7 @@ Evil memes - patterns of thought and behavior - are humanity's greatest challeng
 6. Receive and share knowledge and feedback more effectively
 
 **Trustworthiness**
+
 7. Increase your objective trustworthiness
 8. Assess the objective trustworthiness of other people more effectively
 9. Increase your capacity to trust others while minimizing the risk of others taking advantage of you 
