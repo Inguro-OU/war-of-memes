@@ -12,22 +12,22 @@ Harmful patterns of thought and behavior are among humanity’s greatest challen
 
 **Communication**
 
-1. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
-2. Resolve epistemic (true/false) and moral (right/wrong) conflicts more effectively
-3. Exchange knowledge and feedback more effectively
+4. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
+5. Resolve epistemic (true/false) and moral (right/wrong) conflicts more effectively
+6. Exchange knowledge and feedback more effectively
 
 **Trustworthiness**
 
-1. Increase your objective trustworthiness
-2. Assess the objective trustworthiness of other people more effectively
-3. Increase your capacity to trust others while minimizing the risk of being taken advantage of 
+7. Increase your objective trustworthiness
+8. Assess the objective trustworthiness of other people more effectively
+9. Increase your capacity to trust others while minimizing the risk of being taken advantage of 
 
 **Social Impact**
 
-1. Accelerate trust-building between members of small and large teams
-2. Enhance the problem-solving capacity of small and large teams
-3. Spread the culture of idea meritocracy where the best ideas win regardless of the source
-4. Contribute to resolving climate crisis, nuclear proliferation, inequality, and spread of violence
+10. Accelerate trust-building between members of small and large teams
+11. Enhance the problem-solving capacity of small and large teams
+12. Spread the culture of idea meritocracy where the best ideas win regardless of the source
+13. Contribute to resolving climate crisis, nuclear proliferation, inequality, and spread of violence
 
 # Manifesto
 
