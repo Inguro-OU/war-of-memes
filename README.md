@@ -81,19 +81,16 @@ Just as we recognize food security as a human right because hunger causes unnece
 
 Do you think these two statements below are `true` or `false`?
 
-<aside>
 👉 **Statement 1:** The same person is more **worthy of your trust** in case A rather than B:
 
 - In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
 - In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.”
-</aside>
 
-<aside>
+
 👉 **Statement 2:** The same person is more **worthy of your trust** in case A rather than B:
 
 - In case A, this person gives you the feeling that she understands your perspective.
 - In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
-</aside>
 
 Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive—even when engaging with people who hold different or distant opinions.
 
