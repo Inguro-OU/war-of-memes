@@ -1,46 +1,57 @@
 # War of Memes: A gamified debiasing method
 
-Evil memes - patterns of thought and behavior - are humanity's greatest challenge. They cause division, harm, and turn people against each other. This gamified debiasing method empowers players to help each other eradicate these evil memes.
+Harmful patterns of thought and behavior are among humanity’s greatest challenges. They create division, cause harm, and turn people against each other. This gamified approach empowers players to work together to overcome these destructive influences.
 
 ## Your Benefits
 
 **Self**
 
-1. Increase your financial gains and problem-solving capacity
+1. Increase your problem-solving capacity and, as a result, your earnings potential 
 2. Reduce the number of mistakes you make
 3. Overcome your mental blocks and challenges more effectively 
 
 **Communication**
 
-4. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
-5. Reduce the number and severity of epistemic (true/false) and moral (right/wrong) conflicts
-6. Receive and share knowledge and feedback more effectively
+1. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
+2. Resolve epistemic (true/false) and moral (right/wrong) conflicts more effectively
+3. Exchange knowledge and feedback more effectively
 
 **Trustworthiness**
 
-7. Increase your objective trustworthiness
-8. Assess the objective trustworthiness of other people more effectively
-9. Increase your capacity to trust others while minimizing the risk of others taking advantage of you 
+1. Increase your objective trustworthiness
+2. Assess the objective trustworthiness of other people more effectively
+3. Increase your capacity to trust others while minimizing the risk of being taken advantage of 
 
-**Collaboration**
+**Social Impact**
 
-10. Accelerate trust-building between members of a team
-11. Enhance the problem-solving capacity of small and large teams
-12. Foster a culture of idea meritocracy where the best ideas win regardless of the source
+1. Accelerate trust-building between members of small and large teams
+2. Enhance the problem-solving capacity of small and large teams
+3. Spread the culture of idea meritocracy where the best ideas win regardless of the source
+4. Contribute to resolving climate crisis, nuclear proliferation, inequality, and spread of violence
 
 # Manifesto
 
-## 1. Everyone Makes Mistakes
+## 1. Everyone's Intuition Makes Mistakes
 
-This universal truth is the foundation of effective debiasing: We all make mistakes. The most dangerous mistake is believing any idea, behavior, or cultural pattern cannot be wrong. Recognizing your own and other’s fallibility opens the door to continuous improvement.
+This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all make mistakes. The most perilous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning and improvement.
 
-## 2. Memes Live In Our Brains
+## 2. What Is a Meme
 
-A meme is a pattern of thought, behavior, or culture that spreads through human minds by imitation. Like genes in biological evolution, memes replicate, mutate, and compete for survival in the ecosystem of human minds. We naturally adopt memes from those we trust and admire, leading to their propagation through social networks. Understanding meme transmission is key to controlling their impact.
+Humans naturally copy behaviors, ideas, and patterns from each other—like children imitating words or actions. This copying forms the basis of **memetic theory**, a scientific explanation of how culture spreads and evolves.
+
+Most people think of “memes” as just jokes or GIFs. These are memes, but they’re only the most obvious examples—like the bright and visible sun blinding us from seeing the stars. In this case, the stars are the countless memes we copy in daily life, big and small. Every interaction with another person involves memes: **words, ideas, behaviors, traditions, or even practical knowledge like driving a car or generating electricity.**
+
+From our perspective, it feels like we actively choose to copy memes. But like in Einstein’s theory of relativity, there’s another way to see it: from the meme’s perspective. Memes “move” through the world, seeking survival. A useful meme—like how to cook food or build a house—spreads because it helps people. A fun meme spreads by entertaining, like a joke or a dance. 
+
+Like genes in biological evolution, memes replicate, mutate, and compete for attention and adoption in the ecosystem of human minds. We naturally adopt memes from those we trust and admire, leading to their propagation through social networks. Understanding meme transmission is key to controlling their impact.
 
 ## 3. There Are No Evil People, Only Evil Memes
 
-Memes vary in their fitness - their ability to survive and spread. The most dangerous memes combine high local fitness (benefiting individuals or small groups locally in time or locally in space) with low global fitness (harming humanity's long-term interests when widely adopted across space or durable in time). They persist and spread because they offer temporary high advantages for people who carry them at the cost of even greater disadvantages to the rest of humanity. This understanding shifts blame from individuals to the memes they carry in their brains.
+From the meme’s perspective, the world is a playground where survival means being adopted and shared. Memes with **high fitness** spread easily, whether they benefit humanity (like the idea of human rights) or harm it (like false or harmful beliefs). Dangerous or “evil” memes thrive when they offer short-term advantages to individuals or groups but harm humanity in the long run.
+
+By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it up well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
+
+Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust acts as a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and sharing valuable ideas, leaving problems unsolved and suffering unaddressed.
 
 ## 4. Cognitive Biases Reinforce Evil Memes
 
@@ -52,19 +63,11 @@ Every person has more than 200+ cognitive biases - predictable judgment errors e
 
 These biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.
 
-## 5. Mistrust Is a Defense Against Evil Memes
+## 5. Debiasing Is a Human Right
 
-Mistrust emerges as a natural defense against evil memes. The problem is that mistrust is a fundamental negative multiplier of our collective problem-solving capacity. It blocks new knowledge creation and effective knowledge sharing.
+Humanity as a whole knows which memes are evil, but individuals often lack access to this collective wisdom. With good ideas and the right knowledge (memes), most of our problems are solvable.
 
-## 6. Debiasing Eradicates Evil
-
-Debiasing systematically reduces cognitive biases' impact, addressing three fundamental challenges for humanity: 
-
-1. The **Hard Problem of Cooperation** is the challenge of fostering cooperation between agents—**individuals** or **groups**—where each can gain at the expense of others. Each agent pursuing their **own interests** often leads to **collective failure**.
-2. The **Tragedy of the Commons** occurs when individuals overuse **public goods** or shared resources for personal gain, depleting them for everyone. Each person acts rationally in their own short-term interest, but collectively, this behavior leads to resource collapse, harming all. 
-3. The Tragedy of Rationality occurs when actions rational for agents—individuals or groups—lead to irrational outcomes for the collective. 
-
-## 7. Debiasing Is a Human Right
+Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas. 
 
 Living with cognitive biases creates cascading harm:
 
@@ -74,12 +77,36 @@ Living with cognitive biases creates cascading harm:
 
 Just as we recognize food security as a human right because hunger causes unnecessary suffering, we must recognize debiasing as a human right because cognitive biases cause unnecessary suffering. The cost of helping others debias is minimal compared to the massive benefits generated.
 
-## 8. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
+## 6. Recognize the Value of Active Listening and Critical Thinking
 
-- **Our vision** is a world where violations of the Silver Rule-'Do not treat others in ways you don't want to be treated'- are increasingly rare, even between people accross different cultures and large distances."
-- **Our goal** is to lower the cost of assessing Cognitive Trustworthiness - an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
-- **Outcome**: As Cognitive Trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
-  
+Do you think these two statements below are `true` or `false`?
+
+<aside>
+👉
+
+**Statement 1:** The same person is more **worthy of your trust** in case A rather than B:
+
+- In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
+- In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.”
+</aside>
+
+<aside>
+👉
+
+**Statement 2:** The same person is more **worthy of your trust** in case A rather than B:
+
+- In case A, this person gives you the feeling that she understands your perspective.
+- In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
+</aside>
+
+Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive—even when engaging with people who hold different or distant opinions.
+
+## 7. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
+
+- **Our vision** is a world where violations of the Silver Rule—'Do not treat others in ways you don't want to be treated'—are increasingly rare, even among people across different cultures and large distances.
+- **Our goal** is to lower the cost of assessing cognitive trustworthiness, an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency, and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
+- **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
+
 ---
 
 ## **Getting Started**
