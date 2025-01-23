@@ -12,22 +12,22 @@ Harmful patterns of thought and behavior are among humanity’s greatest challen
 
 **Communication**
 
-4. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
-5. Resolve epistemic (true/false) and moral (right/wrong) conflicts more effectively
-6. Exchange knowledge and feedback more effectively
+1. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
+2. Resolve epistemic (true/false) and moral (right/wrong) conflicts more effectively
+3. Exchange knowledge and feedback more effectively
 
 **Trustworthiness**
 
-7. Increase your objective trustworthiness
-8. Assess the objective trustworthiness of other people more effectively
-9. Increase your capacity to trust others while minimizing the risk of being taken advantage of 
+1. Increase your objective trustworthiness
+2. Assess the objective trustworthiness of other people more effectively
+3. Increase your capacity to trust others while minimizing the risk of being taken advantage of 
 
 **Social Impact**
 
-10. Accelerate trust-building between members of small and large teams
-11. Enhance the problem-solving capacity of small and large teams
-12. Spread the culture of idea meritocracy where the best ideas win regardless of the source
-13. Contribute to resolving climate crisis, nuclear proliferation, inequality, and spread of violence
+1. Accelerate trust-building between members of small and large teams
+2. Enhance the problem-solving capacity of small and large teams
+3. Spread the culture of idea meritocracy where the best ideas win regardless of the source
+4. Contribute to resolving climate crisis, nuclear proliferation, inequality, and spread of violence
 
 # Manifesto
 
@@ -63,7 +63,7 @@ Every person has more than 200+ cognitive biases - predictable judgment errors e
 
 These biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.
 
-## 5. Recognize the Value of Active Listening and Critical Thinking
+## 5. How to Recognize Good Memes with Active Listening and Critical Thinking
 
 Do you think these two statements below are `true` or `false`?
 
@@ -72,13 +72,16 @@ Do you think these two statements below are `true` or `false`?
 - In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
 - In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.”
 
-
 👉 **Statement 2:** The same person is more **worthy of your trust** in case A rather than B:
 
 - In case A, this person gives you the feeling that she understands your perspective.
 - In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
 
-Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive—even when engaging with people who hold different or distant opinions.
+Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive.
+
+To recognize **good memes**, we must first cultivate two key traits: **cognitive empathy**—the ability to understand others’ perspectives—and **intellectual humility**—the willingness to admit when we’re wrong and adapt to better evidence. These traits lead to behaviors like **active listening** and **critical thinking**, which are essential for evaluating memes.
+
+**Falsification** is the process of actively trying to prove that a meme is **evil**—harmful or divisive. Instead of assuming a meme is **good**, we rigorously test it by looking for evidence of harm, misuse, or unintended consequences. If a meme withstands these efforts, it’s more likely to be **good**—helpful and constructive.
 
 ## 6. Debiasing Is a Human Right
 
@@ -99,7 +102,7 @@ Just as we recognize food security as a human right because hunger causes unnece
 - **Our vision** is a world where violations of the Silver Rule—'Do not treat others in ways you don't want to be treated'—are increasingly rare, even among people across different cultures and large distances.
 - **Our goal** is to lower the cost of assessing cognitive trustworthiness, an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency, and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
 - **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
-
+  
 ---
 
 ## **Getting Started**
