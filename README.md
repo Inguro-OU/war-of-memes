@@ -63,21 +63,7 @@ Every person has more than 200+ cognitive biases - predictable judgment errors e
 
 These biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.
 
-## 5. Debiasing Is a Human Right
-
-Humanity as a whole knows which memes are evil, but individuals often lack access to this collective wisdom. With good ideas and the right knowledge (memes), most of our problems are solvable.
-
-Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas. 
-
-Living with cognitive biases creates cascading harm:
-
-- Individuals suffer through poor decisions
-- Society is damaged through broken relationships
-- Everybody suffers more because problems remain unresolved
-
-Just as we recognize food security as a human right because hunger causes unnecessary suffering, we must recognize debiasing as a human right because cognitive biases cause unnecessary suffering. The cost of helping others debias is minimal compared to the massive benefits generated.
-
-## 6. Recognize the Value of Active Listening and Critical Thinking
+## 5. Recognize the Value of Active Listening and Critical Thinking
 
 Do you think these two statements below are `true` or `false`?
 
@@ -93,6 +79,20 @@ Do you think these two statements below are `true` or `false`?
 - In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
 
 Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive—even when engaging with people who hold different or distant opinions.
+
+## 6. Debiasing Is a Human Right
+
+Humanity as a whole knows which memes are evil, but individuals often lack access to this collective wisdom. With good ideas and the right knowledge (memes), most of our problems are solvable.
+
+Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas. 
+
+Living with cognitive biases creates cascading harm:
+
+- Individuals suffer through poor decisions
+- Society is damaged through broken relationships
+- Everybody suffers more because problems remain unresolved
+
+Just as we recognize food security as a human right because hunger causes unnecessary suffering, we must recognize debiasing as a human right because cognitive biases cause unnecessary suffering. The cost of helping others debias is minimal compared to the massive benefits generated.
 
 ## 7. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
 
