@@ -73,3 +73,14 @@ Just as we recognize food security as a human right because hunger causes unnece
 - **Our vision** is a world where violations of the Silver Rule—'Do not treat others in ways you don't want to be treated'—are increasingly rare, even among people across different cultures and large distances.
 - **Our goal** is to lower the cost of assessing cognitive trustworthiness, an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency, and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
 - **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
+- 
+
+## **Theoretical Foundation**
+
+This project is based on the theoretical framework:
+
+- Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
+
+You are welcome to access and [comment on the full paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing).
+
+---
