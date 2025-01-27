@@ -52,6 +52,6 @@ This project is based on the theoretical framework:
 
 - Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
 
-You are welcome to access and [comment on the full paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing).
+Access the [latest version of this scientific paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing) and feel free to comment on it.
 
 ---
