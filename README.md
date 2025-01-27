@@ -33,7 +33,7 @@ Harmful patterns of thought and behavior are among humanity’s greatest challen
 
 ## **Getting Started**
 
-1. Read [our manifesto and learn about memetic evolution through ~~natural~~ humanistic selection](https://github.com/Inguro-OU/war-of-memes/blob/main/manifesto.md) 
+1. Learn basics of memetic evolution through ~~natural~~ humanistic selection in [Our Manigesto](https://github.com/Inguro-OU/war-of-memes/blob/main/manifesto.md) 
 2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
 3. Join our [Inguro Slack Community](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw)
 
