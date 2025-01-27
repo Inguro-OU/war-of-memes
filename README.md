@@ -1,4 +1,5 @@
 # War of Memes: A gamified debiasing method
+## Together We Prevent Tomorrow’s Errors Today. 
 
 Harmful patterns of thought and behavior are among humanity’s greatest challenges. They create division, cause harm, and turn people against each other. This gamified debiasing method empowers players to work together to overcome these destructive patterns.
 
