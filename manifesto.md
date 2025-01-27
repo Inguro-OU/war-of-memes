@@ -75,6 +75,8 @@ Just as we recognize food security as a human right because hunger causes unnece
 - **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
 - 
 
+__
+
 ## **Theoretical Foundation**
 
 This project is based on the theoretical framework:
