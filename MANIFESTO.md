@@ -2,9 +2,12 @@
 
 # Manifesto
 
-## 1. Everyone's Intuition Makes Mistakes
+## 1. Two Cognitive Systems
 
-This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all make mistakes. The most perilous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning and improvement.
+The **System 1 and System 2** framework describes two complementary systems of human cognition:
+
+- **Fast Thinking (System 1):** Instinctive, habitual, and automatic—perfect for simple decisions or tasks.
+- **Slow Thinking (System 2):** Analytical, deliberate, and effortful—necessary for complex problems and critical thinking.
 
 ## 2. What Is a Meme
 
@@ -16,49 +19,57 @@ From our perspective, it feels like we actively choose to copy memes. But like i
 
 Like genes in biological evolution, memes replicate, mutate, and compete for attention and adoption in the ecosystem of human minds. We naturally adopt memes from those we trust and admire, leading to their propagation through social networks. Understanding meme transmission is key to controlling their impact.
 
-## 3. There Are No Evil People, Only Evil Memes
+## 3. What are Cognitive Biases
 
-From the meme’s perspective, the world is a playground where survival means being adopted and shared. Memes with **high fitness** spread easily, whether they benefit humanity (like the idea of human rights) or harm it (like false or harmful beliefs). Dangerous or “evil” memes thrive when they offer short-term advantages to individuals or groups but harm humanity in the long run.
-
-By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it up well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
-
-Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust acts as a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and sharing valuable ideas, leaving problems unsolved and suffering unaddressed.
-
-## 4. Cognitive Biases Reinforce Evil Memes
-
-Every person has more than 200+ cognitive biases - predictable judgment errors encoded in our brains through evolution. The most dangerous self-reinforcing triad is: 
+Every person has more than 200+ cognitive biases - predictable judgment errors encoded in our System 1 (fast thinking) through evolution. You can think of biases as memes that were useful for hundreds of thousands of years and so became encoded in our human nature. All people are born with these biases. Arguable that the most dangerous self-reinforcing triad of biases are: 
 
 1. Confirmation bias makes us seek evidence supporting our existing beliefs,
 2. Myside bias evaluates evidence based on group identity rather than merit
 3. Naïve realism convinces us we see objective reality while others are biased. 
 
-These biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.
+These and other biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.  
 
-## 5. How to Recognize Good Memes with Active Listening and Critical Thinking
+## 4. Everyone Makes Mistakes
 
-Do you think these two statements below are `true` or `false`?
+This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all have cognitive biases and so we all make mistakes. The most dangerous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning, improvement and effective debiasing.
 
-👉 **Statement 1:** The same person is more **worthy of your trust** in case A rather than B:
+## 5. There Are No Evil People, Only Evil Memes
 
-- In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
-- In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.”
+From the meme’s perspective, the world is a playground where survival means being adopted and shared. Memes with **high fitness** spread easily, whether they benefit humanity (like the idea of human rights) or harm it (like false or harmful beliefs). Dangerous or “evil” memes thrive when they offer short-term advantages to individuals or groups but harm humanity in the long run.
 
-👉 **Statement 2:** The same person is more **worthy of your trust** in case A rather than B:
+By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it up well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
 
-- In case A, this person gives you the feeling that she understands your perspective.
-- In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
+Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust acts as a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and the sharing of valuable ideas, leaving problems unsolved and suffering unaddressed.
 
-Like most people, you likely agree with both statements and see them as true. **Debiasing** is the process of peers helping each other act more like those in Case A—open, constructive, and understanding—and less like those in Case B—reactive, dismissive, or defensive.
+## 5. Local vs. Global Fitness and Meme Evolution
 
-To recognize **good memes**, we must first cultivate two key traits: **cognitive empathy**—the ability to understand others’ perspectives—and **intellectual humility**—the willingness to admit when we’re wrong and adapt to better evidence. These traits lead to behaviors like **active listening** and **critical thinking**, which are essential for evaluating memes.
+The **fitness of a meme** depends on how well its interests align:
 
-**Falsification** is the process of actively trying to prove that a meme is **evil**—harmful or divisive. Instead of assuming a meme is **good**, we rigorously test it by looking for evidence of harm, misuse, or unintended consequences. If a meme withstands these efforts, it’s more likely to be **good**—helpful and constructive.
+- **Local Fitness:** A meme has high local fitness if its interests align with those of an individual or group, often providing short-term or localized benefits.
+    - **Example in Time:** A lying meme might help someone avoid immediate consequences but erodes trust over time, causing harm to relationships.
+    - **Example in Space:** A warlike meme may help a group gain power or resources, but as it spreads, it destabilizes societies, spreading conflict and destruction.
+- **Global Fitness:** A meme has high global fitness if its interests align with humanity’s long-term well-being, fostering sustainable progress and cooperation.
+    - **Example:** The meme of human rights aligns with global fitness because it promotes fairness and dignity, benefiting individuals while improving societal harmony.
 
-## 6. Debiasing Is a Human Right
+The **natural selection of memes** means people tend to adopt memes with high local fitness—those that fit into their culture, existing knowledge, or short-term interests. However, this often leads to the spread of harmful or "evil memes" that prioritize local benefits while causing broader harm.
+
+We propose a shift to the **evolution of memes through humanistic selection**, which promotes memes with high global fitness. By doing so, we align cultural evolution with humanity’s collective long-term interests. This approach is central to the game, helping players practice and spread behaviors that foster trust, creativity, and progress for all.
+
+## 6 How The Game Helps To Identify and and Eliminate Evil Memes
+
+In memetics theory, ideas evolve much like genes—through **replication, mutation, and selection**. We introduce three core alter egos in the game: **Emo**, **Ratio** and **Creo (see game rules).**
+
+- Emo - Emotional (right) part of the brain. Stay metaphorically speaking for the trait of cognitive empathy and the behavior of active listening. In memetics theory it is responsible for accurate meme replication.
+- Ration - Rational (left) part of the brain. Stays metaphorically speaking for the trait of Intellectual Humility and the corresponding behavior of critical thinking. In memetics theory it is responsible for meme selection.
+- Creo - Creative part of our brain. Stays metaphorically speaking for the trait of Openess and the behavior of improvisation. In memetics theory it is responsible for meme mutation.
+
+We suggest that System 2 (slow thinin) encompasses all three alter egos above. By strengthening the main parts that are responsible for replicaiton, selection and mutation of the memes we can accelerate meme evolution. In particular, instead of relying on meme evolution through natural selection, we can upgrade to meme evolution through humanistic selection. 
+
+## 7. Debiasing Is a Human Right
 
 Humanity as a whole knows which memes are evil, but individuals often lack access to this collective wisdom. With good ideas and the right knowledge (memes), most of our problems are solvable.
 
-Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas. 
+Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas.
 
 Living with cognitive biases creates cascading harm:
 
@@ -68,9 +79,8 @@ Living with cognitive biases creates cascading harm:
 
 Just as we recognize food security as a human right because hunger causes unnecessary suffering, we must recognize debiasing as a human right because cognitive biases cause unnecessary suffering. The cost of helping others debias is minimal compared to the massive benefits generated.
 
-## 7. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
+## 8. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
 
 - **Our vision** is a world where violations of the Silver Rule—'Do not treat others in ways you don't want to be treated'—are increasingly rare, even among people across different cultures and large distances.
 - **Our goal** is to lower the cost of assessing cognitive trustworthiness, an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency, and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
 - **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
-- 
