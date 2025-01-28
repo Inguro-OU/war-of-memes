@@ -6,7 +6,7 @@
 
 Humans naturally copy behaviors, ideas, and patterns from each other—like children imitating words or actions. This copying forms the basis of **memetic theory**, a scientific explanation of how culture spreads and evolves.
 
-Most people think of “memes” as just jokes or GIFs. These are memes, but they’re only the most obvious examples—like the bright and visible sun blinding us from seeing the stars. In this case, the stars are the countless memes we copy in daily life, big and small. Every interaction with another person involves memes: **words, ideas, behaviors, traditions, or even practical knowledge like driving a car or generating electricity.**
+Most people think of “memes” as just jokes or GIFs. These are memes, but they’re only the most obvious examples—like the bright and visible sun blinding us from seeing the stars. In this case, the stars are the countless memes we copy daily, big and small. Every interaction with another person involves memes: **words, ideas, behaviors, traditions, or even practical knowledge like driving a car or generating electricity.**
 
 From our perspective, it feels like we actively choose to copy memes. But like in Einstein’s theory of relativity, there’s another way to see it: from the meme’s perspective. Memes “move” through the world, seeking survival. A useful meme—like how to cook food or build a house—spreads because it helps people. A fun meme spreads by entertaining, like a joke or a dance. 
 
@@ -14,7 +14,7 @@ Like genes in biological evolution, memes replicate, mutate, and compete for att
 
 ## 2. What are Cognitive Biases
 
-Every person has more than 200+ cognitive biases - predictable judgment errors encoded in our System 1 (fast thinking) through evolution. You can think of biases as memes that were useful for hundreds of thousands of years and so became encoded in our human nature. All people are born with these biases. Arguable that the most dangerous self-reinforcing triad of biases are: 
+Every person has more than 200+ cognitive biases - predictable judgment errors encoded in our System 1 (fast thinking) through evolution. You can think of biases as useful memes for hundreds of thousands of years, and so they have become encoded in our human nature. All people are born with these biases. Arguably that the most dangerous self-reinforcing triad of biases are: 
 
 1. Confirmation bias makes us seek evidence supporting our existing beliefs,
 2. Myside bias evaluates evidence based on group identity rather than merit
@@ -24,15 +24,15 @@ These and other biases operate below conscious awareness and feel natural even a
 
 ## 3. Everyone Makes Mistakes
 
-This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all have cognitive biases and so we all make mistakes. The most dangerous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning, improvement and effective debiasing.
+This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all have cognitive biases, so we all make mistakes. The most dangerous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning, improvement, and effective debiasing.
 
 ## 4. There Are No Evil People, Only Evil Memes
 
 From the meme’s perspective, the world is a playground where survival means being adopted and shared. Memes with **high fitness** spread easily, whether they benefit humanity (like the idea of human rights) or harm it (like false or harmful beliefs). Dangerous or “evil” memes thrive when they offer short-term advantages to individuals or groups but harm humanity in the long run.
 
-By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it up well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
+By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
 
-Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust acts as a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and the sharing of valuable ideas, leaving problems unsolved and suffering unaddressed.
+Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust is a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and sharing valuable ideas, leaving problems unsolved and suffering unaddressed.
 
 ## 5. Two Cognitive Systems
 
@@ -41,7 +41,7 @@ The **System 1 and System 2** framework explains two complementary modes of huma
 - **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions.
     - **Memetic Role:** System 1 stores and reinforces existing memes—habits, ideas, and cultural patterns that define the self. It favors memes that fit with what is already known, resisting those that challenge the current status quo.
 - **Slow Thinking (System 2):** Analytical, deliberate, and effortful—used for solving complex problems and questioning assumptions.
-    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits.
+    - **Memetic Role:** System 2 enables creating, selecting, and adopting memes that offer long-term benefits but may conflict with existing beliefs or habits.
 
 ## 5. Local vs. Global Fitness and Meme Evolution
 
@@ -53,21 +53,21 @@ The **fitness of a meme** depends on how well its interests align:
 - **Global Fitness:** A meme has high global fitness if its interests align with humanity’s long-term well-being, fostering sustainable progress and cooperation.
     - **Example:** The meme of human rights aligns with global fitness because it promotes fairness and dignity, benefiting individuals while improving societal harmony.
 
-Fast Thinking (System 1) ensures stability by maintaining locally “fit” memes, while Slow Thinking (System 2) drives progress by fostering globally beneficial memes. Strengthening System 2 allows us to deliberately evolve ideas aligned with humanity’s long-term interests, overcoming System 1’s bias toward the familiar.
+Fast Thinking (System 1) ensures stability by maintaining local “fit” memes, while Slow Thinking (System 2) drives progress by fostering globally beneficial memes. Strengthening System 2 allows us to deliberately evolve ideas aligned with humanity’s long-term interests, overcoming System 1’s bias toward the familiar.
 
 The **natural selection of memes** means people tend to adopt memes with high local fitness—those that fit into their culture, existing knowledge, or short-term interests. However, this often leads to the spread of harmful or "evil memes" that prioritize local benefits while causing broader harm.
 
 The game helps with a shift to the **evolution of memes through humanistic selection**, which promotes memes with high global fitness. By doing so, we align cultural evolution with humanity’s collective long-term interests. This approach is central to the game, helping players practice and spread behaviors that foster trust, creativity, and progress for all.
 
-## 6 How The Game Helps To Identify and and Eliminate Evil Memes
+## 6 How The Game Helps To Identify and Eliminate Evil Memes
 
-In memetics theory, ideas evolve much like genes—through **replication, mutation, and selection**. We introduce three core alter egos in the game: **Emo**, **Ratio** and **Creo (see game rules).**
+In memetics theory, ideas evolve like genes—through **replication, mutation, and selection**. We introduce three core alter egos in the game: **Emo**, **Ratio** and **Creo (see game rules).**
 
-- Emo - Emotional (right) part of the brain. Stay metaphorically speaking for the trait of cognitive empathy and the behavior of active listening. In memetics theory it is responsible for accurate meme replication.
-- Ration - Rational (left) part of the brain. Stays metaphorically speaking for the trait of Intellectual Humility and the corresponding behavior of critical thinking. In memetics theory it is responsible for meme selection.
-- Creo - Creative part of our brain. Stays metaphorically speaking for the trait of Openess and the behavior of improvisation. In memetics theory it is responsible for meme mutation.
+- Emo - Emotional (right) part of the brain. Stay metaphorically speaking for the trait of cognitive empathy and active listening behavior. In memetics theory, it is responsible for accurate meme replication.
+- Ration - Rational (left) part of the brain. Stays metaphorically speaking for the trait of Intellectual Humility and the corresponding behavior of critical thinking. In memetics theory, it is responsible for meme selection.
+- Creo - Creative part of our brain. Stays metaphorically speaking for the trait of Openness and the behavior of improvisation. In memetics theory, it is responsible for meme mutation.
 
-We suggest that System 2 (slow thinin) encompasses all three alter egos above. By strengthening the main parts that are responsible for replicaiton, selection and mutation of the memes we can accelerate meme evolution. In particular, instead of relying on meme evolution through natural selection, we can upgrade to meme evolution through humanistic selection. 
+We suggest System 2 (slow thinking) encompasses all three alter egos above. By strengthening the main parts responsible for the memes' replication, selection, and mutation, we can accelerate meme evolution. In particular, instead of relying on meme evolution through natural selection, we can upgrade to meme evolution through humanistic selection. 
 
 ## 7. Debiasing Is a Human Right
 
