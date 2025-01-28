@@ -55,16 +55,19 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 2. How often do you personally experience **Case A** versus **B**?
 3. How often do you let those around you experience **Case A** or **B**?
 
+---
 👉 **Statement 1:** You like the same person more in case A rather than B:
 
 - In case A, this person gives you the feeling that she understands your perspective.
 - In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
 
+---
 👉 **Statement 2:** You like the same person more in case A rather than B:
 
 - In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
 - In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
 
+---
 👉 **Statement 3:** You like the same person more in case A rather than B:
 
 - Case A: This person helps you explore and expand your ideas, uncover new possibilities, and refine them together.
