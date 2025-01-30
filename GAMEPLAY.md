@@ -27,8 +27,8 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Name tag**: Players wear a badge with their real name. The name tag can be a heart associated with System 1—intuitive, automatic, and fast thinking.
 - **Game Badge**: Players wear to signal participation. The game badge displays three parts of their Alter-Egos:
     
-    ![image.png](attachment:1a5657e5-d186-4a02-8fec-b818d02088f1:image.png)
-    
+![image](https://github.com/user-attachments/assets/ffffeeab-6788-4a98-9643-b2efec66a3c3)
+
     - **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
     - **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
     - **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
