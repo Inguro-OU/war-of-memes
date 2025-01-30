@@ -89,3 +89,16 @@ Since the cost of helping others to debias is minimal compared to the massive so
     - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
     - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
 - **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
+- 
+
+___
+
+## **Theoretical Foundation**
+
+This project is based on the theoretical framework:
+
+- Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
+
+Access the [latest version of this scientific paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing) and feel free to comment on it.
+
+---
