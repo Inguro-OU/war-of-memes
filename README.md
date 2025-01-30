@@ -67,7 +67,6 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 
 - Case A: This person helps you explore and expand your ideas, uncover new possibilities, and refine them together.
 - Case B: This person dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks and limiting exploration.
-- 
 
 ## **How War of Memes Helps You Win**
 
