@@ -1,4 +1,5 @@
-[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
+1. [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
+2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn the basics of memetic evolution through ~~egoistic~~ humanistic selection.
 
 ## **Flexible Gameplay**
 
