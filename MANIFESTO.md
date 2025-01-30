@@ -4,87 +4,88 @@
 
 ## 1. What Is a Meme
 
-Humans naturally copy behaviors, ideas, and patterns from each other—like children imitating words or actions. This copying forms the basis of **memetic theory**, a scientific explanation of how culture spreads and evolves.
+Humans naturally copy behaviors, ideas, and patterns—like children imitating words or actions. This copying forms the basis of [**memetic theory**](https://en.wikipedia.org/wiki/Memetics), which explains how culture spreads and evolves.
 
-Most people think of “memes” as just jokes or GIFs. These are memes, but they’re only the most obvious examples—like the bright and visible sun blinding us from seeing the stars. In this case, the stars are the countless memes we copy daily, big and small. Every interaction with another person involves memes: **words, ideas, behaviors, traditions, or even practical knowledge like driving a car or generating electricity.**
+Most people think of memes as jokes or GIFs, but these are the most visible examples. Memes include **words, traditions, behaviors, and practical knowledge**—from driving a car to generating electricity. Every interaction involves memes, shaping our thoughts and actions.
 
-From our perspective, it feels like we actively choose to copy memes. But like in Einstein’s theory of relativity, there’s another way to see it: from the meme’s perspective. Memes “move” through the world, seeking survival. A useful meme—like how to cook food or build a house—spreads because it helps people. A fun meme spreads by entertaining, like a joke or a dance. 
+We often believe we choose which memes to adopt, but memes behave like **self-replicating entities**, competing for survival in human minds. A useful meme—like how to cook food—spreads because it helps people. A fun meme spreads through entertainment, like a joke or dance.
 
-Like genes in biological evolution, memes replicate, mutate, and compete for attention and adoption in the ecosystem of human minds. We naturally adopt memes from those we trust and admire, leading to their propagation through social networks. Understanding meme transmission is key to controlling their impact.
+Like genes in biological evolution, memes **replicate, mutate, and compete** for attention and adoption. We naturally adopt memes from those we **trust** and **admire**, reinforcing their spread. Understanding meme transmission helps us **control their impact**—whether positive or harmful.
 
 ## 2. What are Cognitive Biases
 
-Every person has more than 200+ cognitive biases - predictable judgment errors encoded in our System 1 (fast thinking) through evolution. You can think of biases as useful memes for hundreds of thousands of years, and so they have become encoded in our human nature. All people are born with these biases. Arguably that the most dangerous self-reinforcing triad of biases are: 
+Humans are wired with over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)—systematic errors in judgment shaped by evolution. Three of the most dangerous, self-reinforcing biases are:
 
-1. Confirmation bias makes us seek evidence supporting our existing beliefs,
-2. Myside bias evaluates evidence based on group identity rather than merit
-3. Naïve realism convinces us we see objective reality while others are biased. 
+•	**Confirmation Bias** – Seeking evidence that supports our existing beliefs.
 
-These and other biases operate below conscious awareness and feel natural even as they strengthen harmful memes and resist correction.  
+•	**Myside Bias** – Evaluating ideas based on group identity rather than merit.
+
+•	**Naïve Realism** – Assuming we see reality objectively, while others are biased.
+
+These biases operate **below conscious awareness**, making harmful memes feel natural and resistant to correction.
 
 ## 3. Everyone Makes Mistakes
 
-This universal truth forms the foundation of effective debiasing: human intuition is imperfect. We all have cognitive biases, so we all make mistakes. The most dangerous mistake is assuming that any person, organization, idea, behavior, or cultural pattern is beyond error. Acknowledging your own and others’ fallibility paves the way for continuous learning, improvement, and effective debiasing.
+The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**.
 
-## 4. There Are No Evil People, Only Evil Memes
+Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
 
-From the meme’s perspective, the world is a playground where survival means being adopted and shared. Memes with **high fitness** spread easily, whether they benefit humanity (like the idea of human rights) or harm it (like false or harmful beliefs). Dangerous or “evil” memes thrive when they offer short-term advantages to individuals or groups but harm humanity in the long run.
+## 4. There Are No Evil People, Only Harmful Memes
 
-By understanding memes, we shift the blame from individuals to the harmful ideas and thoughts they carry. Mark Twain summed it well: *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”*
+From a meme’s perspective, survival depends on being **adopted and spread**. Some memes thrive because they benefit humanity (e.g., human rights), while others spread despite being **harmful** (e.g., false beliefs, divisive ideologies).
 
-Mistrust emerges as a natural defense mechanism against people who might carry harmful or “evil” memes. However, mistrust is a **negative multiplier** on our ability to solve problems together. It blocks the creation of new knowledge and sharing valuable ideas, leaving problems unsolved and suffering unaddressed.
+Dangerous memes offer **short-term advantages** to individuals or groups but harm humanity in the long run. As Mark Twain noted, *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”* False beliefs persist because they are **easier to adopt than challenge**.
 
-## 5. Two Cognitive Systems
+By shifting blame from individuals to the **harmful memes they carry**, we can focus on eliminating destructive patterns of thought and behavior rather than vilifying people.
 
-The **System 1 and System 2** framework explains two complementary modes of human cognition:
+## 5. Three Types of Meme Fitness
+
+A meme’s ability to spread is called its **fitness**. It can be categorized into three types:
+
+- **Classical Meme Fitness** – A meme survives by replicating itself widely, whether beneficial or not.
+- **Local Meme Fitness** – A meme benefits an individual or group but may harm others.
+    - **Example in Time**: A lying meme may help someone avoid immediate consequences (e.g., deceit in politics).
+    - **Example in Space**: A warlike meme may help a group gain power but cause broader harm (e.g., xenophobia).
+- **Global Meme Fitness** – A meme benefits humanity in the long run.
+    - **Example**: The meme of **human rights** aligns with global fitness.
+
+Understanding meme fitness helps us **filter out harmful memes** while promoting those aligned with long-term well-being.
+
+## 6. Role of Two Cognitive Systems in Memetics
+
+The **System 1 and System 2** framework from Kahneman and Tversky explains two complementary modes of human cognition:
 
 - **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions.
-    - **Memetic Role:** System 1 stores and reinforces existing memes—habits, ideas, and cultural patterns that define the self. It favors memes that fit with what is already known, resisting those that challenge the current status quo.
-- **Slow Thinking (System 2):** Analytical, deliberate, and effortful—used for solving complex problems and questioning assumptions.
+    - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
+- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex problems with high uncertainty.
     - **Memetic Role:** System 2 enables creating, selecting, and adopting memes that offer long-term benefits but may conflict with existing beliefs or habits.
 
-## 5. Local vs. Global Fitness and Meme Evolution
+People tend to adopt **memes with high local fitness** because they fit within existing beliefs or short-term interests. However, this often spreads **harmful memes** at the expense of collective well-being.
 
-The **fitness of a meme** depends on how well its interests align:
+By strengthening **System 2 thinking**, we can shift from meme evolution through **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
-- **Local Fitness:** A meme has high local fitness if its interests align with those of an individual or group, often providing short-term or localized benefits.
-    - **Example in Time:** A lying meme might help someone avoid immediate consequences but erodes trust over time, causing harm to relationships.
-    - **Example in Space:** A warlike meme may help a group gain power or resources, but as it spreads, it destabilizes societies, spreading conflict and destruction.
-- **Global Fitness:** A meme has high global fitness if its interests align with humanity’s long-term well-being, fostering sustainable progress and cooperation.
-    - **Example:** The meme of human rights aligns with global fitness because it promotes fairness and dignity, benefiting individuals while improving societal harmony.
+## 6 How Do We Eliminate Harmful Memes
 
-Fast Thinking (System 1) ensures stability by maintaining local “fit” memes, while Slow Thinking (System 2) drives progress by fostering globally beneficial memes. Strengthening System 2 allows us to deliberately evolve ideas aligned with humanity’s long-term interests, overcoming System 1’s bias toward the familiar.
+In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
-The **natural selection of memes** means people tend to adopt memes with high local fitness—those that fit into their culture, existing knowledge, or short-term interests. However, this often leads to the spread of harmful or "evil memes" that prioritize local benefits while causing broader harm.
+- **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
+- **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
+- **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
 
-The game helps with a shift to the **evolution of memes through humanistic selection**, which promotes memes with high global fitness. By doing so, we align cultural evolution with humanity’s collective long-term interests. This approach is central to the game, helping players practice and spread behaviors that foster trust, creativity, and progress for all.
-
-## 6 How The Game Helps To Identify and Eliminate Evil Memes
-
-In memetics theory, ideas evolve like genes—through **replication, mutation, and selection**. We introduce three core alter egos in the game: **Emo**, **Ratio** and **Creo (see game rules).**
-
-- Emo - Emotional (right) part of the brain. Stay metaphorically speaking for the trait of cognitive empathy and active listening behavior. In memetics theory, it is responsible for accurate meme replication.
-- Ration - Rational (left) part of the brain. Stays metaphorically speaking for the trait of Intellectual Humility and the corresponding behavior of critical thinking. In memetics theory, it is responsible for meme selection.
-- Creo - Creative part of our brain. Stays metaphorically speaking for the trait of Openness and the behavior of improvisation. In memetics theory, it is responsible for meme mutation.
-
-We suggest System 2 (slow thinking) encompasses all three alter egos above. By strengthening the main parts responsible for the memes' replication, selection, and mutation, we can accelerate meme evolution. In particular, instead of relying on meme evolution through natural selection, we can upgrade to meme evolution through humanistic selection. 
+Together, **Emo, Ratio, and Creo** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
 
 ## 7. Debiasing Is a Human Right
 
-Humanity as a whole knows which memes are evil, but individuals often lack access to this collective wisdom. With good ideas and the right knowledge (memes), most of our problems are solvable.
+While humanity accumulates wisdom on which memes are harmful, individuals often lack access to this knowledge. With the right knowledge (good memes), most of our problems are solvable.
 
-Debiasing in the sense of eliminating evil memes is a human right. No one should be left to struggle with harmful biases alone. It’s our moral obligation—if we can, and it’s cost-effective—to help each other weed out bad ideas.
+Debiasing should be considered a human right. Just as food security is a right because hunger causes suffering, access to debiasing tools is crucial because misinformation and bias also cause suffering.
 
-Living with cognitive biases creates cascading harm:
+Since the cost of helping others to debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
 
-- Individuals suffer through poor decisions
-- Society is damaged through broken relationships
-- Everybody suffers more because problems remain unresolved
+## 8. Vision: A humanist Future Where Trust and Truth Flourish
 
-Just as we recognize food security as a human right because hunger causes unnecessary suffering, we must recognize debiasing as a human right because cognitive biases cause unnecessary suffering. The cost of helping others debias is minimal compared to the massive benefits generated.
-
-## 8. Vision: A World Where Violations of The Silver Rule Are Rapidly Decreasing
-
-- **Our vision** is a world where violations of the Silver Rule—'Do not treat others in ways you don't want to be treated'—are increasingly rare, even among people across different cultures and large distances.
-- **Our goal** is to lower the cost of assessing cognitive trustworthiness, an individual's ability to act with moral and epistemic impartiality, demonstrated through trust behaviors like promise-keeping, active listening, critical thinking, transparency, and long-term thinking. We also aim to increase incentives for people to increase their objective cognitive trustworthiness by allowing them to build lasting reputations and making adherence to the Silver Rule more beneficial than its violation.
-- **Outcome**: As cognitive trustworthiness grows, individuals will more effectively correct their cognitive biases and prevent the spread of harmful patterns of thought and behavior ('evil memes'). Eradicating these evil memes more effectively will create a world of greater prosperity, happiness, progress, and equality.
+- **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
+- **Our goal:**
+    - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
+    - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
+- **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
