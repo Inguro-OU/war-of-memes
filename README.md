@@ -30,7 +30,7 @@ Life doesn’t just lose meaning when these needs go unfulfilled **—it becomes
 
 ### 🛑  **Social Challenges**
 
-- Relationships suffer when people violate the “silver rule,” treating others in ways **they wouldn’t like to be treated themselves**.
+- Relationships suffer when people violate the “silver rule,” treating others in ways they wouldn’t like to be treated themselves.
 - Conflicts persist over what’s true or false, right or wrong.
 - Misunderstanding becomes the norm, creating a spiral of isolation and disconnection.
 
