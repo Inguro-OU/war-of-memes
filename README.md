@@ -50,10 +50,12 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 4. Can you behave as in case A, even with people you don’t like or disagree with?
 
 
+
 👉 **Statement 1:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
 
 - In case A, this person gives you the feeling that she understands your perspective.
 - In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
+
 
 
 ✔ Trait: Cognitive empathy
@@ -63,10 +65,12 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 ✔ Super-ego: Emotional 
 
 
+
 👉 **Statement 2:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
 
 - In case A, this person easily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
 - In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
+
 
 
 ✔ Trait: Intellectual humility
@@ -76,10 +80,12 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 ✔ Super-ego: Rational 
 
 
+
 👉 **Statement 3:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
 
 - Case A: This person helps you explore and expand your ideas, uncover new possibilities, and refine them together.
 - Case B: This person dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks and limiting exploration.
+
 
 
 ✔ Trait: Creativity
