@@ -31,9 +31,10 @@ The game offers four levels of play to suit different group sizes and complexiti
 ![badge2](https://github.com/user-attachments/assets/087b8ec7-738f-4dd7-ba53-528531128314)
 
 
-    - **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
-    - **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
-    - **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
+- **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
+- **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
+- **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
+  
 - **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
 
 ### **2. Armbands as Rewards**
