@@ -53,7 +53,7 @@ Understanding meme fitness helps us **filter out harmful memes** while promoting
 
 ## 6. Role of Two Cognitive Systems in Memetics
 
-The **System 1 and System 2** framework from Kahneman and Tversky explains two complementary modes of human cognition:
+The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) explains two complementary modes of human cognition:
 
 - **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions.
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
