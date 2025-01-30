@@ -28,7 +28,8 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Game Badge**: Players wear to signal participation. The game badge displays three parts of their Alter-Egos:
     
 
-![badge2](https://github.com/user-attachments/assets/087b8ec7-738f-4dd7-ba53-528531128314)
+![badge3](https://github.com/user-attachments/assets/2230efaf-7918-410e-b3db-d96ba54cda88)
+
 
 
 - **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
