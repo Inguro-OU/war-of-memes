@@ -1,4 +1,4 @@
-# War of Memes: A gamified debiasing method
+# War of Memes: A Gamified Debiasing Method
 
 ## 🚀 Together, We Prevent Tomorrow’s Errors Today.
 
