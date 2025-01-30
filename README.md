@@ -57,7 +57,9 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 
 
 ✔ Trait: Cognitive empathy
+
 ✔ Behavior: Active listening
+
 ✔ Super-ego: Emotional 
 
 
@@ -68,7 +70,9 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 
 
 ✔ Trait: Intellectual humility
+
 ✔ Behavior: Critical Thinking 
+
 ✔ Super-ego: Rational 
 
 
@@ -79,8 +83,11 @@ What are these **surprisingly simple** yet **powerful** behaviors that fulfill o
 
 
 ✔ Trait: Creativity
+
 ✔ Behavior: Improvisation 
+
 ✔ Super-ego: Creative 
+
 
 ## **How War of Memes Helps You Win**
 
