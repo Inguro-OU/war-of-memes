@@ -18,7 +18,7 @@ Beyond basic survival, humans crave:
 
 Yet, despite their importance, many feel **isolated, unheard, and misunderstood**. Ironically, these needs are **not scarce resources**—the more we help others meet them, the more we gain ourselves. The problem? **Most people lack the habits that make this possible.**
 
-Life doesn’t just lose meaning when these needs go unfulfilled**—it becomes exponentially harder.**
+Life doesn’t just lose meaning when these needs go unfulfilled **—it becomes exponentially harder.**
 
 ## **What Happens When These Needs Go Unmet?**
 
