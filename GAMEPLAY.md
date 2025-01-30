@@ -4,19 +4,19 @@
 ## **Flexible Gameplay**
 
 1. **Small Group:** A small group of participants can play while seated around a table. For online gameplay, you can use this [MIRO TEMPLATE](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
-2. **Casual 1-on-1:** Once familiar with the game, participants can call someone’s **ideal self-name** on the Fly for constructive responses.
+2. **Casual 1-on-1:** Once familiar with the game, participants can play the game on the fly for constructive responses.
 3. **Events with Free Movement:** In events of any size, players can move freely between groups and engage in one-on-one or small-group discussions.
 
 ---
 
 ## **Four Difficulty Levels**
 
-The game offers three levels of play to suit different group sizes and complexities:
+The game offers four levels of play to suit different group sizes and complexities:
 
-1. **Basic Level:** Core rules for casual groups or first-time players.
-2. **Intermediate Level:** Adds structure with moderators and optional tools like idea cards. Ideal for small groups around a table.
-3. **Advanced Level:** Includes expanded mechanics for deeper insights and competitive play. Suited for small groups of experienced players.
-4. **Mastery Level:** for expert level players who like to deepen their experience
+1. **Basic Level:** includes core rules for casual groups or first-time players.
+2. **Intermediate Level:** adds structure with moderators and optional tools like idea cards. It is ideal for small groups around a table.
+3. **Advanced Level:** includes expanded mechanics for deeper insights and competitive play. It is suitable for small groups of experienced players.
+4. **Mastery Level:** for expert-level players who like to deepen their experience
 
 ---
 
@@ -24,50 +24,57 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ### **1. Voluntary Participation**
 
-- **Ideal Self-Name**: Each player chooses a name representing their aspirational, unbiased self (e.g., “Zweistein,” “Dalai Mama,” “Kunfulius”).
-- **Badges**: Players wear a badge with their ideal self-name to signal participation.
-- **Opt-Out Anytime**: Players may remove their badge to pause playing the game if they feel fatigued.
+- **Name tag**: Players wear a badge with their real name. The name tag can be a heart associated with System 1—intuitive, automatic, and fast thinking.
+- **Game Badge**: Players wear to signal participation. The game badge displays three parts of their Alter-Egos:
+    
+    ![image.png](attachment:1a5657e5-d186-4a02-8fec-b818d02088f1:image.png)
+    
+    - **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
+    - **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
+    - **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
+- **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
 
 ### **2. Armbands as Rewards**
 
-- **Starting Supply**: Each player begins with five **armbands** on their left hand.
+- **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered as gifts from other players - they represent an opportunity for other [players to act as Case A from the statements we presented in the README.](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#three-behaviors-that-change-everything)
 - **Anti-Hoarding Rule**: A player may hold a maximum of **10 armbands**. Players must donate extra armbands.
 
-### **3. Develop Cognitive Empathy**
+### **3. Cultivate Cognitive Empathy**
 
-1. **The left hand** symbolizes the trait “**Cognitive empathy**”—the ability to understand someone else’s thoughts and feelings.
-2. **Reward Active Listening**: Players reward one armband from their left hand to the left hand of another person who successfully gave them the feeling of being understood.
-3. **Wording:** Suggested wording for clarity: “*[Nickname], thanks for active listening*.”
+1. Players can initiate an *active listening* challenge by calling another player **“Emo + [Name].”** To make the challenge more visual, the challenger places an armband on the table, signaling that the challenged player can earn it.
+2. **Reward Active Listening**: 
+    - **Understanding Success**: If the challenger feels understood, give the challenged player one **armband**.
+    - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
+3. **Suggested Wording**: *”[Emo + Name], thanks for actively listening.”*
 
-### **4. Develop Intellectual Humility**
+### **4. Foster Intellectual Humility**
 
-- **The right hand** symbolizes “**Intellectual humility**”—the willingness to acknowledge the limits of knowledge and the openness to new ideas or evidence, even when it challenges one’s beliefs.
-- **Reward Intellectual Humility**: When a player wants to reward another for intellectual humility, they permit the transfer of an armband from the left hand to the right hand of another player.
-- **Wording:** Suggested wording for clarity: “*[Nickname], thanks for critical thinking*.”
+1. Players can initiate a critical thinking challenge by calling another player “**Ratio + [Name]**.” To make it more visual, the challenger places an armband on the table as a potential reward.
+2. **Reward Intellectual Humility:** If the challenged player openly considers being wrong, acknowledges mistakes, or adjusts their viewpoint, they earn the armband.
+3. **Suggested Wording:** ”*[Ratio + Name], thanks for thinking critically.*”
 
-### **5. Disagreements After Understanding**
+### **4. Cultivate Creativity**
+
+1. Players can initiate an *improvisation* challenge by calling another player **“Creo + [Name].”** To make it more visual, the challenger places an armband on the table as a potential reward.
+2. **Reward Creativity**: If the challenged player helps expand ideas, uncover new possibilities, or refine concepts collaboratively, they earn the armband.
+3. **Suggested Wording**: *”[Creo + Name], thanks for your creativity.”*
+
+### **5. Disagreements After Earning and Armband**
 
 1. **Purpose of Disagreement**: Players disagree to exchange knowledge and collectively discern if an idea is true or false.
-2. **Disagreement Rule**: To disagree with Player B, Player A must **earn an armband** from B (via active listening or donation).
+2. **Disagreement Rule**: To disagree with Player B, Player A must **earn an armband** from B on the given topic or obtain explicit permission to disagree without earning an armband.
 3. **Standard Penalty**: If Player A disagrees without first earning B’s armband, A must **pay one armband** to B.
-4. **Wording:** Suggested wording for clarity: “*[Nickname], sorry you seem to disagree before reaching an understanding*.”
+4. Suggested wording: “*[Name], sorry for disagreeing*.”
 5. **Zero-Armband Penalty**: A player with zero **armbands** who disagrees without having earned B’s armband incurs a **5-minute silence penalty**, increasing by 5 minutes for repeated violations.
-
-### **6. Challenge Active Listening**
-
-- **Setup**: The challenger calls the challenged player by their **ideal self-name.** If the game is played at a table the challenger puts an armband on the table to signal that the other player can earn it. ****
-- **Active Listening**: The challenged player paraphrases the challenger’s perspective and asks open-ended clarifying questions.
-    - **Understanding Success**: If the challenger feels understood, they give the challenged player one **armband**.
-    - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
 
 ### **7. Voluntary Self-Challenge**
 
-- Any player may **spontaneously paraphrase** another’s perspective or ask open questions.
-- If the other player **feels understood**, they reward the self-challenger with one **armband**.
+- Any player may **spontaneously challenge himself on any of the three aspects of the game**.
+- If the other player **feels it**, they can reward the self-challenger with one **armband**.
 
 ### **8. Celebration of Mistakes**
 
-- Whenever a player makes a mistake, admits an error, changes their opinion, or acknowledges bias, other players say thanks, offer a **short clap** or **give an armband** to celebrate the moment of intellectual humility.
+- Whenever a player makes a mistake, admits an error, changes their opinion, or acknowledges bias, other players say thanks, offer a **short clap,** or **give an armband** to celebrate the moment of intellectual humility.
 
 ---
 
@@ -80,14 +87,14 @@ The game offers three levels of play to suit different group sizes and complexit
 
 ### **10. Declare Opinion**
 
-- Players verbally declare their opinion on the card. There are only two options: **True or** **False.**
-- If played at the table, the group can use **truth figures** and place them on the right option, expressing their opinion visually for others to see. Only one truth figure is allowed per player per card.
+- Players verbally declare their opinion on the card. There are only two options: **True or** **False.** Players can withhold declaring their opinion, indicating their uncertainty.
+- If played at the table, the group can use **truth figures** and place them on the right option, expressing their opinion visually for others to see. Only one truth figure is allowed per player per idea card.
 
 ### **11. Explain Opinion**
 
-- If all players have the same opinion on a given idea, they can move to the next card without explaining their opinion.
+- If all players agree on a given idea, they can move to the next card without explaining their opinion.
 - If players disagree, each player has a set time (e.g., 1 minute) to explain the reasoning behind their opinion.
-- Players can change their opinion anytime, which they celebrate as a **debiasing moment** with collective recognition (e.g., a clap).
+- Players can change their opinion anytime, which they celebrate with collective recognition (e.g., a clap) as a debiasing moment.
 
 ### **12. Moderator Role**
 
@@ -104,15 +111,15 @@ The game offers three levels of play to suit different group sizes and complexit
 
 - Players may create their own cards and bring them to the game.
 - Each card’s backside may list the topic.
-- Players can draw from another player’s deck instead of the main deck.
-- Recommended tool: Use [Custom GPT to refine your ideas](https://chatgpt.com/g/g-676ec9d174608191a176779173a7a9e2-idea-refiner-for-debiased-self) before writing them on a card.
+- Players can draw from another player’s rather than the main deck.
+- Recommended tool: Use [Custom GPT to refine your ideas](https://chatgpt.com/g/g-676ec9d174608191a176779173a7a9e2-idea-refiner-for-war-of-memes) before writing them on a card.
 
 ### **14. Create Cards on the Fly**
 
-- Players can express their ideas by writing them on a new card mid-game. We recommend for each player to create a new card if they disagree with a given idea to explain their position in a short clear way.
+- Players can express their ideas by writing them on a new card mid-game. We recommend that each player create a new card if they disagree with a given idea to explain their position in a short, clear way.
 - Any card in play must have **at least one player** validating it as true. Otherwise, it goes to the **“Graveyard.”**
-- Others can declare their opinion as **True or False** (via truth figures or verbally).
-- Players can choose whether they **allow** or **prohibit** their name to appear on new cards (e.g., “Edward misunderstands confirmation bias”).
+- Others can declare their opinion **True or False** (via truth figures or verbally).
+- Players can choose whether to **allow** or **prohibit** their name from appearing on new cards (e.g., “Edward misunderstands confirmation bias”).
 
 ### **15. End Game With a Donation Card**
 
@@ -120,7 +127,7 @@ Inspired by Peter Singer’s work on effective altruism, we suggest that the mod
 
 1. **Optional Donations:** Players may pool financial contributions of any size.
 2. **Propose Charities:** Each player suggests a charity or cause.
-3. **Discuss and Vote:** Players discuss and vote. For voting purposes, players can use their trustworthiness scores as **weights**. **If no agreement is reached within a dedicated time (e.g., 10 minutes),** the player with the **highest trustworthiness score** makes the final decision.
+3. **Discuss and Vote:** Players discuss and vote. Players can use their trustworthiness scores as **weights**for voting purposes. **If no agreement is reached within a dedicated time (e.g., 10 minutes),** the player with the **highest trustworthiness score** makes the final decision.
 4. **Responsibility for Donation:** The player with the **highest intellectual humility score** is appointed and will be responsible for transferring the donation to the chosen charity on behalf of the group.
 
 ---
@@ -129,14 +136,14 @@ Inspired by Peter Singer’s work on effective altruism, we suggest that the mod
 
 ### **16. Cognitive Trust Figures**
 
-- Use chess figures to represent **“Cognitive Trust” -** is grounded in moral and epistemic impartiality, enabling individuals to overcome short-term self-interest for long-term cooperation.
+- Use chess figures to represent **“Cognitive Trust,” which** is grounded in moral and epistemic impartiality and enables individuals to overcome short-term self-interest for long-term cooperation.
 - Each player starts with five **pawns** marked as theirs (e.g., with color-coding)
 - After the end of each round (before dismissing a card and moving to the next one), players redistribute their cognitive trust figures to other players.
 
 ### **17. Scoring Player’s Trustworthiness**
 
 - **Cognitive Trustworthiness** is the capacity to inspire cognitive trust by earning a reputation through consistent and observable trust-building behaviors.
-- **Truth figures carry** cognitive trustworthiness scores of their players - for visual purposes, players can write their score on a paper and attach it to their truth figures.
+- **Truth figures carry** the cognitive trustworthiness scores of their players. For visual purposes, players can write their scores on a piece of paper and attach them to their truth figures.
 - **Score Calculation**:
     1. **Rank Players by Pawns:** Count total pawns for each player.
     2. **Award Top Players with Bonus Trust Figures:** 
