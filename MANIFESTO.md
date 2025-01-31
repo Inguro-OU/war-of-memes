@@ -6,7 +6,7 @@
 
 Humans naturally copy behaviors, ideas, and patterns—like children imitating words or actions. This copying forms the basis of [**memetic theory**](https://en.wikipedia.org/wiki/Memetics), which explains how culture spreads and evolves.
 
-Most people think of memes as jokes or GIFs, but these are the most visible examples. Memes include **words, traditions, behaviors, and practical knowledge**—from driving a car to generating electricity. Every interaction involves memes, shaping our thoughts and actions.
+Most people think of memes as jokes or GIFs, but these are the most visible examples. Memes include **ideas, thoughts, words, traditions, behaviors, and practical knowledge**—from driving a car to generating electricity. Every interaction involves memes, shaping our thoughts and actions.
 
 We often believe we choose which memes to adopt, but memes behave like **self-replicating entities**, competing for survival in human minds. A useful meme—like how to cook food—spreads because it helps people. A fun meme spreads through entertainment, like a joke or dance.
 
