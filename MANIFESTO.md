@@ -1,14 +1,12 @@
 [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
 
-# Manifesto
-
 ## 1. What Is a Meme
 
 Humans naturally copy behaviors, ideas, and patterns—like children imitating words or actions. This copying forms the basis of [**memetic theory**](https://en.wikipedia.org/wiki/Memetics), which explains how culture spreads and evolves.
 
-Most people think of memes as jokes or GIFs, but these are the most visible examples. Memes include **ideas, thoughts, words, traditions, behaviors, and practical knowledge**—from driving a car to generating electricity. Every interaction involves memes, shaping our thoughts and actions.
+Most people think of memes as jokes or GIFs, but these are the most visible examples. Memes include **words, ideas, thoughts, traditions, behaviors, and practical knowledge**—from driving a car to generating electricity. Every interaction involves memes, shaping our thoughts and actions.
 
-We often believe we choose which memes to adopt, but memes behave like **self-replicating entities**, competing for survival with each other in human minds. A useful meme—like how to cook food—spreads because it helps people. A fun meme spreads through entertainment, like a joke or dance.
+We often believe we choose which memes to adopt, but memes behave like **self-replicating entities**, competing for survival in human minds. A useful meme—like how to cook food—spreads because it helps people. A fun meme spreads through entertainment, like a joke or dance.
 
 Like genes in biological evolution, memes **replicate, mutate, and compete** for attention and adoption. We naturally adopt memes from those we **trust** and **admire**, reinforcing their spread. Understanding meme transmission helps us **control their impact**—whether positive or harmful.
 
@@ -57,14 +55,14 @@ The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.w
 
 - **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions.
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
-- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex problems with high uncertainty.
-    - **Memetic Role:** System 2 enables creating, selecting, and adopting memes that offer long-term benefits but may conflict with existing beliefs or habits.
+- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex or problems with high uncertainty.
+    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits.
 
 People tend to adopt **memes with high local fitness** because they fit within existing beliefs or short-term interests. However, this often spreads **harmful memes** at the expense of collective well-being.
 
 By strengthening **System 2 thinking**, we can shift from meme evolution through **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
-## 6 How Do We Eliminate Harmful Memes
+## 7. How Do We Eliminate Harmful Memes
 
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
@@ -74,22 +72,25 @@ In memetics theory, ideas evolve through **replication, mutation, and selection*
 
 Together, **Emo, Ratio, and Creo** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
 
-## 7. Debiasing Is a Human Right
+## 8 How To Find Good Memes
+
+Good memes are **anti-fragile**—the more they are challenged, the stronger they become. If an idea thrives despite intense scrutiny, it’s likely valuable. Like scientific theories, good memes **withstand falsification attempts** and make useful predictions. If disproving a meme fails despite rigorous effort, it signals truth and long-term utility. Bad memes collapse when exposed to evidence; good memes **adapt, persist, and illuminate reality**. Seeking truth means testing memes ruthlessly—only those that **benefit humanity, in the long run,** will shine.
+
+## 9. Debiasing Is a Human Right
 
 While humanity accumulates wisdom on which memes are harmful, individuals often lack access to this knowledge. With the right knowledge (good memes), most of our problems are solvable.
 
 Debiasing should be considered a human right. Just as food security is a right because hunger causes suffering, access to debiasing tools is crucial because misinformation and bias also cause suffering.
 
-Since the cost of helping others to debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
+Since the cost of helping others debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
 
-## 8. Vision: [A humanist Future](https://en.wikipedia.org/wiki/Humanist_Manifesto) Where Trust and Truth Flourish
+## 10. Vision: [A humanist Future](https://en.wikipedia.org/wiki/Humanist_Manifesto) Where Trust and Truth Flourish
 
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
 - **Our goal:**
     - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
-    - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
+    - **Increase incentives for cognitive trustworthiness**—by enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
 - **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
-- 
 
 ___
 
