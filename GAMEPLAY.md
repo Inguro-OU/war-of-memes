@@ -29,7 +29,7 @@ The game offers four levels of play to suit different group sizes and complexiti
     
 
 
-![Screenshot_20250205_225145_Gmail](https://github.com/user-attachments/assets/c0cfb6ff-c36e-4922-9834-1fd938dabfaf)
+![99](https://github.com/user-attachments/assets/624baa33-3e05-4b71-b79f-0fdc9006e0a4)
 
 
 
