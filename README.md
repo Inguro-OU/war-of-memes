@@ -1,4 +1,4 @@
-# War of Memes: A Gamified Trust-Building Debiasing Method
+# War of Memes: A Trust-Building Game 
 
 ## 🚀 Together, We Prevent Tomorrow’s Errors Today.
 
