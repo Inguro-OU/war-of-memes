@@ -70,7 +70,7 @@ In memetics theory, ideas evolve through **replication, mutation, and selection*
 
 Together, **Emo, Ratio, and Creo** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
 
-## 8 How To Find Good Memes
+## 8. How To Find Good Memes
 
 Good memes are **anti-fragile**—the more they are challenged, the stronger they become. If an idea thrives despite intense scrutiny, it’s likely valuable. Like scientific theories, good memes **withstand falsification attempts** and make useful predictions. If disproving a meme fails despite rigorous effort, it signals truth and long-term utility. Bad memes collapse when exposed to evidence; good memes **adapt, persist, and illuminate reality**. Seeking truth means testing memes ruthlessly—only those that **benefit humanity, in the long run,** will shine.
 
@@ -87,7 +87,7 @@ Since the cost of helping others debias is minimal compared to the massive socie
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
 - **Our goal:**
     - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
-    - **Increase incentives for cognitive trustworthiness**—by enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
+    - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
 - **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
 
 ___
