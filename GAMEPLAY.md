@@ -28,7 +28,8 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Game Badge**: Players wear to signal participation. The game badge displays three parts of their Alter-Egos:
     
 
-![badge3](https://github.com/user-attachments/assets/2230efaf-7918-410e-b3db-d96ba54cda88)
+![image](https://github.com/user-attachments/assets/8f784727-5e22-4576-b33f-28c7def0afff)
+
 
 
 
