@@ -28,15 +28,7 @@ The foundation of effective debiasing is recognizing human imperfection. We all 
 
 Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
 
-## 4. There Are No Evil People, Only Harmful Memes
-
-From a meme’s perspective, survival depends on being **adopted and spread**. Some memes thrive because they benefit humanity (e.g., human rights), while others spread despite being **harmful** (e.g., false beliefs, divisive ideologies).
-
-Dangerous memes offer **short-term advantages** to individuals or groups but harm humanity in the long run. As Mark Twain noted, *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”* False beliefs persist because they are **easier to adopt than challenge**.
-
-By shifting blame from individuals to the **harmful memes they carry**, we can focus on eliminating destructive patterns of thought and behavior rather than vilifying people.
-
-## 5. Three Types of Meme Fitness
+## 4. Three Types of Meme Fitness
 
 A meme’s ability to spread is called its **fitness**. It can be categorized into three types:
 
@@ -49,16 +41,22 @@ A meme’s ability to spread is called its **fitness**. It can be categorized in
 
 Understanding meme fitness helps us **filter out harmful memes** while promoting those aligned with long-term well-being.
 
+## 5. There Are No Evil People, Only Harmful Memes
+
+From a meme’s perspective, survival depends on being **adopted and spread**. Some memes thrive because they benefit humanity (e.g., human rights), while others spread despite being **harmful** (e.g., false beliefs, divisive ideologies).
+
+Harmful memes have **high local fitness and negative global fitness**, meaning they offer **short-term advantages** to individuals or groups but harm humanity in the long run. As Mark Twain noted, *“The problem isn’t that we know too little—it’s that we know things that aren’t true.”* False beliefs persist because they are **easier to adopt than challenge**.
+
+By shifting blame from individuals to the **harmful memes they carry**, we can focus on eliminating destructive patterns of thought and behavior rather than vilifying people.
+
 ## 6. Role of Two Cognitive Systems in Memetics
 
 The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) explains two complementary modes of human cognition:
 
-- **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions.
+- **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
-- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex or problems with high uncertainty.
-    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits.
-
-People tend to adopt **memes with high local fitness** because they fit within existing beliefs or short-term interests. However, this often spreads **harmful memes** at the expense of collective well-being.
+- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex or problems with high uncertainty. Responsible brain regions: dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC)
+    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits. 
 
 By strengthening **System 2 thinking**, we can shift from meme evolution through **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
