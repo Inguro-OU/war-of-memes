@@ -40,7 +40,7 @@ Life doesn’t just lose meaning when these needs go unfulfilled **—it becomes
 - Mistrust diminishes the collective problem-solving capacity.
 - Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
-## Three Behaviors That Change Everything
+## Three Trust Behaviors That Make A Difference
 
 What are these **surprisingly simple** yet **powerful** behaviors that fulfill our social needs? We refer to them as **Case A** (when our needs are fulfilled) and **Case B** (when we feel hurt). As you read the statements below, consider:
 
