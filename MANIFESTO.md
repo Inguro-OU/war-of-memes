@@ -94,6 +94,9 @@ Since the cost of helping others debias is minimal compared to the massive socie
 
 ___
 
+Ready to continue? Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the game rules.
+___
+
 ## **Theoretical Foundation**
 
 This project is based on the theoretical framework:
