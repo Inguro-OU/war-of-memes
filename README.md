@@ -106,7 +106,7 @@ Trust is **transformative**—it restores connection, inspires action, and unloc
 
 ## **Getting Started**
 
-1. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn the basics of memetic evolution through ~~egoistic~~ humanistic selection.
+1. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn about the aim and background of the game.
 2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
 3. Join [Inguro Slack Community](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw) to exchange ideas and to connect with others.
 
