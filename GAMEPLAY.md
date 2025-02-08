@@ -1,5 +1,5 @@
 1. [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
-2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn the basics of memetic evolution through ~~egoistic~~ humanistic selection.
+2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn about the aim and background.
 
 ## **Flexible Gameplay**
 
@@ -25,9 +25,8 @@ The game offers four levels of play to suit different group sizes and complexiti
 ### **1. Voluntary Participation**
 
 - **Name tag**: Players wear a badge with their real name. The name tag can be a heart associated with System 1—intuitive, automatic, and fast thinking.
-- **Game Badge**: Players wear to signal participation. The game badge displays three parts of their Alter-Egos:
+- **Game Badge**: Players wear to signal participation:
     
-
 
 ![99](https://github.com/user-attachments/assets/624baa33-3e05-4b71-b79f-0fdc9006e0a4)
 
