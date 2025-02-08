@@ -32,10 +32,9 @@ The game offers four levels of play to suit different group sizes and complexiti
 ![99](https://github.com/user-attachments/assets/624baa33-3e05-4b71-b79f-0fdc9006e0a4)
 
 
-
-- **Listener** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
-- **Thinker** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
-- **Creator** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
+- **Listen Actively** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
+- **Think Critically** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
+- **Improvize** – The **creative exploration and improvization**. Represents **openness** and enables **meme mutation**.
   
 - **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
 
@@ -46,23 +45,23 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 ### **3. Cultivate Cognitive Empathy**
 
-1. Players can initiate an *active listening* challenge by calling another player **“Emo + [Name].”** To make the challenge more visual, the challenger places an armband on the table, signaling that the challenged player can earn it.
+1. Players can initiate an *active listening* challenge by saying to another player **“Listen Actively + [Name].”** To make the challenge more visual, the challenger places an armband on the table, signaling that the challenged player can earn it.
 2. **Reward Active Listening**: 
     - **Understanding Success**: If the challenger feels understood, give the challenged player one **armband**.
     - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
-3. **Suggested Wording**: *”[Emo + Name], thanks for actively listening.”*
+3. **Suggested Wording**: *”[Name], thanks for actively listening.”*
 
 ### **4. Foster Intellectual Humility**
 
-1. Players can initiate a critical thinking challenge by calling another player “**Ratio + [Name]**.” To make it more visual, the challenger places an armband on the table as a potential reward.
+1. Players can initiate a critical thinking challenge by saying to another player, “**Think Critically + [Name]**.” To make it more visual, the challenger places an armband on the table as a potential reward.
 2. **Reward Intellectual Humility:** If the challenged player openly considers being wrong, acknowledges mistakes, or adjusts their viewpoint, they earn the armband.
-3. **Suggested Wording:** ”*[Ratio + Name], thanks for thinking critically.*”
+3. **Suggested Wording:** ”*[Name], thanks for thinking critically.*”
 
 ### **4. Cultivate Creativity**
 
-1. Players can initiate an *improvisation* challenge by calling another player **“Creo + [Name].”** To make it more visual, the challenger places an armband on the table as a potential reward.
+1. Players can initiate an *improvisation* challenge by saying to another player **“Improvize + [Name].”** To make it more visual, the challenger places an armband on the table as a potential reward.
 2. **Reward Creativity**: If the challenged player helps expand ideas, uncover new possibilities, or refine concepts collaboratively, they earn the armband.
-3. **Suggested Wording**: *”[Creo + Name], thanks for your creativity.”*
+3. **Suggested Wording**: *”[Name], thanks for your improvization.”*
 
 ### **5. Disagreements After Earning and Armband**
 
