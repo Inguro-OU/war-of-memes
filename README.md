@@ -82,7 +82,7 @@ What are these **surprisingly simple** yet **powerful** trust-building behaviors
 
 ## **Your Benefits**
 
-By reinforcing **Case A trust-building behaviors** and minimizing **Case B's trust-breaking behaviors**, players unlock advantages across three domains:
+By reinforcing **Case A trust-building behaviors** and minimizing **Case B's trust-breaking behaviors**, participants unlock advantages across three domains:
 
 🔹**Personal Gains**
 
