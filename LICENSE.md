@@ -1,4 +1,4 @@
-## **Licensing Terms for War of Memes**
+## **Licensing Terms for Trust-Building Communication**
 
 **Copyright © 2024 Ladischenski, CEO of Inguro OÜ.**
 
@@ -15,14 +15,14 @@ Under these conditions:
 
 - **Attribution** – credit the original creator with the following note:
     
-    > "War of Memes by Ladischenski, CEO of Inguro OÜ. More information: [https://github.com/Inguro-OU/war-of-memes/] Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
+    > "Trust-Building Communication by Ladischenski, CEO of Inguro OÜ. More information: [https://github.com/Inguro-OU/war-of-memes/] Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
     > 
 - **Non-Commercial Use Only** – do not use the material commercially.
 - **ShareAlike** – if you modify or build upon the material, distribute your work under the same license.
 
 ### Commercial Collaboration Opportunities
 
-We are happy to discuss all kinds of commercial collaboration opportunities. If you are interested in using **War of Memes** for commercial purposes (e.g., paid workshops, corporate training, or product integration), please reach out to us:
+We are happy to discuss all kinds of commercial collaboration opportunities. If you are interested in using **Trust-Building Communication** for commercial purposes (e.g., paid workshops, corporate training, or product integration), please reach out to us:
 
 **Email:** preprint AT inguro DOT com
 
