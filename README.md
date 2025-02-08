@@ -110,8 +110,8 @@ By reinforcing **Case A trust-building behaviors** and minimizing **Case B's tru
 
 Trust-building communication is more than a skill—it’s the foundation of a **trustworthy community.** Membership in such a community requires individuals to:
 
-- **Treat fellow members as you wish to be treated (Case A).**
-- **Avoid treating community outsiders in ways you wouldn’t want to be treated (Case B).**
+- **Treat fellow members as you wish to be treated—by practicing Case A trust-building behaviors.**
+- **Refrain from treating outsiders in ways you wouldn’t want to be treated—by avoiding Case B trust-breaking behaviors.**
   
 ---
 
