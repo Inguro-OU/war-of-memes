@@ -53,9 +53,9 @@ By shifting blame from individuals to the **harmful memes they carry**, we can f
 
 The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) explains two complementary modes of human cognition:
 
-- **Fast Thinking (System 1):** Automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
+- **Fast Thinking (System 1):** Efficient, automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
-- **Slow Thinking (System 2):** Analytical, deliberate, and useful for solving complex or problems with high uncertainty. Responsible brain regions: dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC)
+- **Slow Thinking (System 2):** Flexible, analytical, deliberate, and useful for solving complex problems with high uncertainty. Responsible brain regions: dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC)
     - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits. 
 
 By strengthening **System 2 thinking**, we can shift from meme evolution through **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
