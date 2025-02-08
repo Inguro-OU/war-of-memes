@@ -82,7 +82,7 @@ Debiasing should be considered a human right. Just as food security is a right b
 
 Since the cost of helping others debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
 
-## 10. Vision: [A humanist Future](https://en.wikipedia.org/wiki/Humanist_Manifesto) Where Trust and Truth Flourish
+## 10. Vision: A humanist Future Where Trust and Truth Flourish
 
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
 - **Our goal:**
