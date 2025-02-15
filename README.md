@@ -17,7 +17,7 @@ Here is a more detailed explanation of key concepts:
 
 # 2. Why it matters?
 
-**TL;DR**: With this method you can **predictably increase the chance** of experiencing **trustworthy communication & behaviors** and **decrease the chance** of experiencing **untrustworthy communication & behaviours**. 
+**TL;DR**: With this method you can **predictably increase the chance** of experiencing **trustworthy communication & behaviors** and **decrease the chance** of experiencing **untrustworthy communication & behaviors**. 
 
 So, what are these simple but powerful habits for trustworthy communication and behaviors?
 
