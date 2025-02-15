@@ -1,21 +1,21 @@
 # What is it? 
 
-TL;DR: A cognitively trustworthy communication method for evolving ideas for evolving ideas that multiply everyone's happiness.
+## TL;DR  
+A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
 
-We all seek **interpersonal trust** - the belief that an individual or group’s actions will advance the collective benefit. Trust allows cooperation even in the face of vulnerability and uncertainty. It fulfills essential human needs, including:
+## More accurate and slightly longer explanation
 
-🔹 **Belonging** – Feeling truly heard and understood.
+- **Trust** is a belief that someone or something is **worthy** of trust.  
+- **Trustworthiness** is **actually being worthy** of that belief.  
 
-🔹 **Respect** – Being valued for our ideas and contributions.
+### Four Types of Trust  
+1. **Cognitive Trust** – Based on fair treatment of people and ideas.  
+2. **Affective Trust** – Rooted in sympathy and similarity.  
+3. **Competence-Based Trust** – Built on proven skills and expertise.  
+4. **Institutional Trust** – Confidence in organizations, systems, and rules.  
 
-🔹 **Growth** – Expanding our knowledge and seeing reality more clearly.
-
-Despite the importance of these needs, many people feel isolated, unheard, and misunderstood. Ironically, trust doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack trust-building behaviors, making their relationships and lives increasingly difficult.
-
-## **Consequences of Mistrust**
-
-**Interpersonal Mistrust** is the belief that an individual or group actions might undermine the collective benefit, increasing perceived risk and fostering suspicion and uncertainty.
-
+## Cognitively Trustworthy Communication  
+This method focuses on **cognitively trustworthy** communication—meaning a way of interacting that makes a person **actually worthy** of **cognitive trust**.
 ### 🛑 **Personal Challenges**
 
 - Problems become harder to solve, mistakes accumulate, earning potential declines
