@@ -15,56 +15,61 @@ What does it mean? Here is a more detailed explanation:
  
 - This **communication method** makes its users **truly worthy** of the **belief** that they will treat people and their ideas equitably and without prejudice.
 
-# 2. How does it help you?
+# 2. Why it matters?
 
 **TL;DR**: With this method you can **predictably increase the chance** of experiencing **trustworthy communication & behaviors** and **decrease the chance** of experiencing **untrustworthy communication & behaviours**. 
 
-### Trustworthy and untrustworthy communication
+### Trustworthy communication
 
 Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
 
-👉 **Active Listening:** Your college, friend, family member, or stranger is:
+1. **Active Listening:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she gives you the feeling that she understands your perspective.
-- **Less worthy** of your trust when she doesn’t answer, breaks communication, and intentionally ignores your perspective
+- **More worthy** of your trust when they give you the feeling that they understand your perspective.
+- **Less worthy** of your trust when they don’t answer, break communication, and intentionally ignore your perspective
 
-👉 **Critical Thinking:** Your college, friend, family member, or stranger is:
+2. **Critical Thinking:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she admits the possibility of being wrong, recognizes her mistakes, and changes her opinion when presented with objectively better evidence.
-- **Less worthy** of your trust when she refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
+- **More worthy** of your trust when they admit the possibility of being wrong, recognize their mistakes, and change their opinion when presented with objectively better evidence.
+- **Less worthy** of your trust when they refuse to admit the possibility of being wrong, deny or ignore her mistakes, and cling to her opinions even when faced with objectively better evidence.
 
-👉 **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
+3. **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she helps you explore and expand your ideas, uncover new possibilities, and refine them together.
-- **Less worthy** of your trust when she dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
+- **More worthy** of your trust when they help you explore and expand your ideas, uncover new possibilities, and refine them together.
+- **Less worthy** of your trust when they dismiss your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
 ### Trustworthy and untrustworthy behaviors
 
-👉 **Statement 4:** Your college, friend, family member, or stranger is:
+4. **Promise-keeping** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she keeps her promises despite her high cost.
-- **Less worthy** of your trust when she makes promises she intends to break.
+- **More worthy** of your trust when they keep her promises despite her high cost.
+- **Less worthy** of your trust when they make promises she intends to break.
 
-👉 **Statement 5:** Your college, friend, family member, or stranger is:
+5. **Honesty:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she tells you the truth despite her high cost.
-- **Less worthy** of your trust when she intentionally lies to you when it serves her interests.
+- **More worthy** of your trust when they tell you the truth despite her high cost.
+- **Less worthy** of your trust when they intentionally lie to you when it serves their interests.
 
-👉 **Statement 6:** Your college, friend, family member, or stranger is:
+6. **Long-term thinking:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she looks decades ahead and considers the long-term effects of her actions
-- **Less worthy** of your trust when she doesn’t look ahead and ignores the long-term effects of her actions.
+- **More worthy** of your trust when they look decades ahead and consider the long-term effects of their actions
+- **Less worthy** of your trust when they don’t look ahead and ignore the long-term effects of her actions.
 
-👉 **Statement 7:** Your college, friend, family member, or stranger is:
+7. **Moral development:** Your college, friend, family member, or stranger is:
 
-- **More worthy** of your trust when she empowers others to be more trustworthy.
-- **Less worthy** of your trust when she ignores when people behave in an untrustworthy way.
+- **More worthy** of your trust when they empower others to be more trustworthy.
+- **Less worthy** of your trust when they ignore when people behave in an untrustworthy way.
 
-# 3. Consequences of untrustworthy communication:
+# 3. How does it help you?
 
-1. How often do you personally experience untrustworthy behaviors from the statements above?
-2. How often do you personally behave in an untrustworthy way?
-3. How would you feel if your colleagues, friends, family members, or even strangers behave trustworthy, even with people you don’t like or disagree with?
+Consider the consequences of untrustworthy communication and behaviors:
+
+1. How often do you personally experience **untrustworthy communication & behaviors** described in the seven statements above?
+2. How often do you personally communicate or behave in an **untrustworthy** way?
+3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a more trustworthy way, even with people they don't like or disagree with?
+4. How would your colleagues, friends, family members, and strangers feel if **you communicated and behaved in a more trustworthy way**, even with people you don't like or disagree with?
+
+**Untrustworthy communication and behaviors** lead to personal, social, and work challenges:
 
 ### 🛑 **Personal Challenges**
 
@@ -84,11 +89,9 @@ Imagine a particular college friend, partner, family member, or stranger. Do you
 - Mistrust diminishes the collective problem-solving capacity.
 - Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
-## **Your Benefits**
+**Trustworthy communication and behaviors** lead to personal, social, and work benefits:
 
-By reinforcing **Case A trust-building behaviors** and minimizing **Case B's trust-breaking behaviors**, participants unlock advantages across three domains:
-
-🔹**Personal Gains**
+🔹**Personal Benefits**
 
 1. Increase your problem-solving capacity and, as a result, your earnings potential
 2. Reduce the number of mistakes you make
@@ -96,14 +99,14 @@ By reinforcing **Case A trust-building behaviors** and minimizing **Case B's tru
 4. Increase your objective trustworthiness
 5. Improve your soft skills (e.g., active listening, communication, sales, negotiation, persuasion, critical thinking, and more)
 
-🔹**Social Gains**
+🔹**Social Benefits**
 
 1. Help the people close to you reduce the number of times they violate the Silver Rule by treating you in ways they wouldn’t want to be treated themselves.
 2. Resolve epistemic conflicts (about what’s true and false) and moral conflicts (about what’s right or wrong) more effectively
 3. Assess the objective trustworthiness of other people more effectively
 4. Increase your capacity to trust others while minimizing the risk of being taken advantage of
 
-🔹**Professional Gains**
+🔹**Professional Benefits**
 
 1. Exchange knowledge and feedback more effectively
 2. Accelerate trust-building between members of small and large teams
@@ -112,18 +115,21 @@ By reinforcing **Case A trust-building behaviors** and minimizing **Case B's tru
 
 ## Trustworthy Community
 
-Trust-building communication is more than a skill—it’s the foundation of a **trustworthy community.** Membership in such a community requires individuals to:
+Trustworthy communication is more than just a set of skills. It’s the foundation of our happiness because it fulfills essential human needs, including:
 
-- **Treat fellow members as you wish to be treated—by practicing Case A trust-building behaviors.**
-- **Refrain from treating outsiders in ways you wouldn’t want to be treated—by avoiding Case B trust-breaking behaviors.**
+🔹 **Need for Belonging** – Feeling truly heard and understood.
+🔹 **Need for Respect** – Being valued for our ideas and contributions.
+🔹 **Need for Growth** – Expanding our knowledge and seeing reality more clearly.
+
+Despite the importance of these needs, many people feel isolated, unheard, and misunderstood. Ironically, trustworthy communication doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack the habit of communicating trustworthy, making their relationships and lives increasingly difficult.
   
 ---
 
 ## **Getting Started**
 
 1. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn about the aim and background of the game.
-2. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
-3. Join [Inguro Slack Community](https://join.slack.com/t/ingurocommunity/shared_invite/zt-2x4w0640h-3_PIEqz1LphRzan9R5gXWw) to exchange ideas and to connect with others.
+2. Read the [How It Works Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
+
 
 ## Licensing
 
