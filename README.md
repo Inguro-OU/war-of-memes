@@ -1,4 +1,6 @@
-# Trust-Building Communication
+# What is it? 
+
+TL;DR: A cognitively trustworthy communication method for evolving ideas for evolving ideas that multiply everyone's happiness.
 
 We all seek **interpersonal trust** - the belief that an individual or group’s actions will advance the collective benefit. Trust allows cooperation even in the face of vulnerability and uncertainty. It fulfills essential human needs, including:
 
