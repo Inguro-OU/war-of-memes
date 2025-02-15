@@ -64,11 +64,11 @@ By strengthening **System 2 thinking**, we can shift from meme evolution through
 
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
-- **Emo** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
-- **Ratio** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
-- **Creo** – The **creative** mind. Represents **openness** and **improvisation**, enabling **meme mutation**.
+- **Active listening** – Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
+- **Critical thinking** – Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
+- **Improvization** – Represents **exploration of ideas** and enables **meme mutation**.
 
-Together, **Emo, Ratio, and Creo** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
+Together, **Active listening, Critical thinking, and Improvisation** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
 
 ## 8. How To Find Good Memes
 
