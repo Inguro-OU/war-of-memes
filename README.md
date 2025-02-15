@@ -113,22 +113,22 @@ Consider the consequences of untrustworthy communication and behaviors:
 3. Enhance the problem-solving capacity of small and large teams
 4. Spread the culture of idea meritocracy where the best ideas win regardless of their source
 
-## Trustworthy Community
+🔹**Foundation for fulfilling universal human needs**
 
 Trustworthy communication is more than just a set of skills. It’s the foundation of our happiness because it fulfills essential human needs, including:
 
-🔹 **Need for Belonging** – Feeling truly heard and understood.
-🔹 **Need for Respect** – Being valued for our ideas and contributions.
-🔹 **Need for Growth** – Expanding our knowledge and seeing reality more clearly.
+1. **Need for Belonging** – Feeling truly heard and understood.
+2. **Need for Respect** – Being valued for our ideas and contributions.
+3. **Need for Growth** – Expanding our knowledge and seeing reality more clearly.
 
-Despite the importance of these needs, many people feel isolated, unheard, and misunderstood. Ironically, trustworthy communication doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack the habit of communicating trustworthy, making their relationships and lives increasingly difficult.
+Despite the importance of these universal human needs, many people feel isolated, unheard, and misunderstood. Ironically, trustworthy communication doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack the habit of communicating trustworthy, making their relationships and lives increasingly difficult.
   
 ---
 
 ## **Getting Started**
 
 1. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand how the cognitively trustworthy communication method works.
-2. For a deeper understanding of the aims and background read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md).
+2. For a deeper understanding of the aims and background, read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md).
 
 ## Licensing
 
