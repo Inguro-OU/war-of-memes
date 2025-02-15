@@ -21,7 +21,7 @@ Here is a more detailed explanation of key concepts:
 
 So, what are these simple but powerful habits for trustworthy communication and behaviors?
 
-**Three Simple Habits for Trustworthy Communication**
+**Three Simple Habits for Trustworthy Communication**:
 
 Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
 
@@ -40,7 +40,7 @@ Imagine a particular college friend, partner, family member, or stranger. Do you
 - **More worthy** of your trust when they help you explore and expand your ideas, uncover new possibilities, and refine them together.
 - **Less worthy** of your trust when they dismiss your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
-**Four Advanced Habits for Trustworthy Behavior**
+**Four Advanced Habits for Trustworthy Behavior**:
 
 👉4. **Promise-keeping** Your college, friend, family member, or stranger is:
 
