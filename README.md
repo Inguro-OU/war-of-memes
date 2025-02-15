@@ -2,7 +2,7 @@
 
 **TL;DR**: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.  
 
-**More Detailed Explanation:**  
+What does it mean? Here is a more detailed explanation:
 
 - **Trust** is the belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
