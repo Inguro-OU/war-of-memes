@@ -1,9 +1,8 @@
 # What is it? 
 
-## TL;DR  
-A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
+### TL;DR: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
 
-## More accurate and slightly longer explanation:
+### More detailed explanation:
 
 - **Trust** is a belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.  
