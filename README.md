@@ -17,47 +17,45 @@ What does it mean? Here is a more detailed explanation:
 
 # 2. How does it help you?
 
-**TL;DR**: It helps those who use this method to predictably **increase the chance** of experiencing **trustworthy behaviors** and **decrease the chance** of experiencing **untrustworthy behaviours**. 
-
-What are these **trustworthy** and **untrustworthy** behaviors? Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following eight statements? 
+**TL;DR**: With this method you can **predictably increase the chance** of experiencing **trustworthy communication & behaviors** and **decrease the chance** of experiencing **untrustworthy communication & behaviours**. 
 
 ### Trustworthy and untrustworthy communication
 
-**Do you agree or disagree?**
+Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
 
-👉 **Active Listening:** Your college, friend, family member, or even stranger is:
+👉 **Active Listening:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she gives you the feeling that she understands your perspective.
 - **Less worthy** of your trust when she doesn’t answer, breaks communication, and intentionally ignores your perspective
 
-👉 **Critical Thinking:** Your college, friend, family member, or even stranger is:
+👉 **Critical Thinking:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she admits the possibility of being wrong, recognizes her mistakes, and changes her opinion when presented with objectively better evidence.
 - **Less worthy** of your trust when she refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
 
-👉 **Improvisation & Exploration:** Your college, friend, family member, or even stranger is:
+👉 **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she helps you explore and expand your ideas, uncover new possibilities, and refine them together.
 - **Less worthy** of your trust when she dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
-### Trustworthy and untrustworthy behaivors
+### Trustworthy and untrustworthy behaviors
 
-👉 **Statement 4:** Your college, friend, family member, or even stranger is:
+👉 **Statement 4:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she keeps her promises despite her high cost.
 - **Less worthy** of your trust when she makes promises she intends to break.
 
-👉 **Statement 5:** Your college, friend, family member, or even stranger is:
+👉 **Statement 5:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she tells you the truth despite her high cost.
 - **Less worthy** of your trust when she intentionally lies to you when it serves her interests.
 
-👉 **Statement 6:** Your college, friend, family member, or even stranger is:
+👉 **Statement 6:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she looks decades ahead and considers the long-term effects of her actions
 - **Less worthy** of your trust when she doesn’t look ahead and ignores the long-term effects of her actions.
 
-👉 **Statement 7:** Your college, friend, family member, or even stranger is:
+👉 **Statement 7:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when she empowers others to be more trustworthy.
 - **Less worthy** of your trust when she ignores when people behave in an untrustworthy way.
