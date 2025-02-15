@@ -2,7 +2,9 @@
 
 **TL;DR**: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.  
 
-What does it mean? Here is a more detailed explanation:
+In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. 
+
+Here is a more detailed explanation of key concepts:
 
 - **Trust** is the **belief** that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
@@ -12,8 +14,6 @@ What does it mean? Here is a more detailed explanation:
 2. **Affective Trustworthiness** – Between people and based on sympathy and similarity.
 3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.  
 4. **Institutional Trustworthiness** – With an institution and based on the institution's size, reputation, and brand.
- 
-- This **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice.
 
 # 2. Why it matters?
 
