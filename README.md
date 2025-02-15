@@ -23,39 +23,39 @@ What does it mean? Here is a more detailed explanation:
 
 Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
 
-1. **Active Listening:** Your college, friend, family member, or stranger is:
+👉1. **Active Listening:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they give you the feeling that they understand your perspective.
 - **Less worthy** of your trust when they don’t answer, break communication, and intentionally ignore your perspective
 
-2. **Critical Thinking:** Your college, friend, family member, or stranger is:
+👉2. **Critical Thinking:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they admit the possibility of being wrong, recognize their mistakes, and change their opinion when presented with objectively better evidence.
 - **Less worthy** of your trust when they refuse to admit the possibility of being wrong, deny or ignore her mistakes, and cling to her opinions even when faced with objectively better evidence.
 
-3. **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
+👉3. **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they help you explore and expand your ideas, uncover new possibilities, and refine them together.
 - **Less worthy** of your trust when they dismiss your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
 ### Trustworthy and untrustworthy behaviors
 
-4. **Promise-keeping** Your college, friend, family member, or stranger is:
+👉4. **Promise-keeping** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they keep her promises despite her high cost.
 - **Less worthy** of your trust when they make promises she intends to break.
 
-5. **Honesty:** Your college, friend, family member, or stranger is:
+👉5. **Honesty:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they tell you the truth despite her high cost.
 - **Less worthy** of your trust when they intentionally lie to you when it serves their interests.
 
-6. **Long-term thinking:** Your college, friend, family member, or stranger is:
+👉6. **Long-term thinking:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they look decades ahead and consider the long-term effects of their actions
 - **Less worthy** of your trust when they don’t look ahead and ignore the long-term effects of her actions.
 
-7. **Moral development:** Your college, friend, family member, or stranger is:
+👉7. **Moral development:** Your college, friend, family member, or stranger is:
 
 - **More worthy** of your trust when they empower others to be more trustworthy.
 - **Less worthy** of your trust when they ignore when people behave in an untrustworthy way.
