@@ -1,39 +1,22 @@
-# What is it?  
+# 1. What is it?  
 
 **TL;DR**: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.  
 
 **More Detailed Explanation:**  
 
 - **Trust** is the belief that someone or something is **worthy** of trust.  
-- **Trustworthiness** is **actually being worthy** of that belief.  
-- **Four Types of Trust**:
+- **Trustworthiness** is **actually being worthy** of that belief.
+
+**There are Four Types of Trustworthiness**:
   
-1. **Cognitive Trust** – Based on fair treatment of people and ideas, without prejudice.  
-2. **Affective Trust** – Rooted in sympathy and similarity.  
-3. **Competence-Based Trust** – Built on proven skills and expertise.  
-4. **Institutional Trust** – Confidence in organizations, systems, and rules.
+1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
+2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
+3. **Cognitive Trustworthiness** – Interpersonal and based on fair treatment of people and their ideas, without prejudice.  
+4. **Institutional Trustworthiness** – Institutional and often based on the institution's size, reputation, and brand.
  
-- This method focuses on **communicating in a way that makes you truly worthy** of others' trust—ensuring they believe you will treat them and their ideas **fairly and without prejudice**.  
+- This method focuses on **interpersonal communication** that makes one **truly worthy** of other people's **belief** that they and their ideas will be treated fairly without prejudice.
 
-### 🛑 **Personal Challenges**
-
-- Problems become harder to solve, mistakes accumulate, earning potential declines
-- Self-doubt and mental blocks limit potential and growth.
-- Soft skills—like active listening, negotiation, or collaboration—stagnate.
-
-### 🛑 **Social Challenges**
-
-- Relationships suffer when people violate the “silver rule,” treating others in ways they wouldn’t like to be treated themselves.
-- Conflicts persist over what’s true or false, right or wrong.
-- Misunderstanding becomes the norm, creating a spiral of isolation and disconnection.
-
-### 🛑 **Work Challenges**
-
-- Collaboration breaks down, knowledge-sharing and feedback loops disappear.
-- Mistrust diminishes the collective problem-solving capacity.
-- Instead of the best ideas winning, the loudest or most powerful voices dominate.
-
-## 8 Trust-Building Behaviors
+# 2. How it helps you?
 
 What are these **surprisingly simple** yet **powerful** trust-building behaviors? We refer to them as **Case A** (when trust is built) and **Case B** (when trust is broken). As you read the statements below, consider:
 
@@ -80,6 +63,26 @@ What are these **surprisingly simple** yet **powerful** trust-building behaviors
 
 - **Case A:** This person empowers people to treat others how they want to be treated themselves.
 - **Case B:** This person ignores when people treat each other in ways they **would not** want to be treated.
+
+# 3. Consequences of non-trustworthy communication:
+
+### 🛑 **Personal Challenges**
+
+- Problems become harder to solve, mistakes accumulate, earning potential declines
+- Self-doubt and mental blocks limit potential and growth.
+- Soft skills—like active listening, negotiation, or collaboration—stagnate.
+
+### 🛑 **Social Challenges**
+
+- Relationships suffer when people violate the “silver rule,” treating others in ways they wouldn’t like to be treated themselves.
+- Conflicts persist over what’s true or false, right or wrong.
+- Misunderstanding becomes the norm, creating a spiral of isolation and disconnection.
+
+### 🛑 **Work Challenges**
+
+- Collaboration breaks down, knowledge-sharing and feedback loops disappear.
+- Mistrust diminishes the collective problem-solving capacity.
+- Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
 ## **Your Benefits**
 
