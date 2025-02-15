@@ -6,8 +6,8 @@
 
 - **Trust** is the belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
-
-**There are Four Types of Trustworthiness**:
+  
+There are Four Types of Trustworthiness:
   
 1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
 2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
@@ -16,55 +16,58 @@
  
 - This method focuses on **interpersonal communication** that makes one **truly worthy** of other people's **belief** that they and their ideas will be treated fairly without prejudice.
 
-# 2. How it helps you?
+# 2. How does it help you?
 
-What are these **surprisingly simple** yet **powerful** trust-building behaviors? We refer to them as **Case A** (when trust is built) and **Case B** (when trust is broken). As you read the statements below, consider:
+**TL;DR**: It helps those who use this method to predictably **increase the chance** of experiencing **trustworthy behaviors** and **decrease the chance** of experiencing **untrustworthy behaviours**. 
 
-1. How often do you personally experience **Case A** versus **B**?
-2. How often do you behave as **Case A** or **B**?
-3. Can you behave as in case A, even with people you don’t like or disagree with?
+What are these **trustworthy** and **untrustworthy** behaviors? Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following eight statements? 
 
-👉 **Statement 1:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+### Trustworthy and untrustworthy communication
 
-- In case A, this person gives you the feeling that she understands your perspective.
-- In case B, this person doesn’t answer, breaks communication, and intentionally ignores your perspective
+**Do you agree or disagree?**
 
-👉 **Statement 2:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+👉 **Active Listening:** Your college, friend, family member, or even stranger is:
 
-- In case A, this person readily admits the possibility of being wrong, easily recognizes her mistakes, and willingly changes her opinion when presented with objectively better evidence.
-- In case B, this person refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
+- **More worthy** of your trust when she gives you the feeling that she understands your perspective.
+- **Less worthy** of your trust when she doesn’t answer, breaks communication, and intentionally ignores your perspective
 
-👉 **Statement 3:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+👉 **Critical Thinking:** Your college, friend, family member, or even stranger is:
 
-- Case A: This person helps you explore and expand your ideas, uncover new possibilities, and refine them together.
-- Case B: This person dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks and limiting exploration.
+- **More worthy** of your trust when she admits the possibility of being wrong, recognizes her mistakes, and changes her opinion when presented with objectively better evidence.
+- **Less worthy** of your trust when she refuses to admit the possibility of being wrong, denies or ignores her mistakes, and clings to her opinions even when faced with objectively better evidence.
 
-👉 **Statement 4:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+👉 **Improvisation & Exploration:** Your college, friend, family member, or even stranger is:
 
-- Case A: This person keeps her promises despite her high cost.
-- Case B: This person makes promises that she intends to break.
+- **More worthy** of your trust when she helps you explore and expand your ideas, uncover new possibilities, and refine them together.
+- **Less worthy** of your trust when she dismisses your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
-👉 **Statement 5:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+### Trustworthy and untrustworthy behaivors
 
-- Case A: This person tells you the truth despite her high cost.
-- Case B: This person intentionally lies to you when it serves her interests.
+👉 **Statement 4:** Your college, friend, family member, or even stranger is:
 
-👉 **Statement 6:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+- **More worthy** of your trust when she keeps her promises despite her high cost.
+- **Less worthy** of your trust when she makes promises she intends to break.
 
-- **Case A:** This person looks decades ahead and considers the long-term effects of her actions
-- **Case B:** This person doesn’t look ahead and ignores the long-term effects of her actions.
+👉 **Statement 5:** Your college, friend, family member, or even stranger is:
 
-👉 **Statement 7:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+- **More worthy** of your trust when she tells you the truth despite her high cost.
+- **Less worthy** of your trust when she intentionally lies to you when it serves her interests.
 
-- **Case A:** This person looks decades ahead and considers the long-term effects of her actions
-- **Case B:** This person doesn’t look ahead and ignores the long-term effects of her actions.
+👉 **Statement 6:** Your college, friend, family member, or even stranger is:
 
-👉 **Statement 8:** Is it `true` or `false` that you would **like the same person more** in Case A than in Case B?
+- **More worthy** of your trust when she looks decades ahead and considers the long-term effects of her actions
+- **Less worthy** of your trust when she doesn’t look ahead and ignores the long-term effects of her actions.
 
-- **Case A:** This person empowers people to treat others how they want to be treated themselves.
-- **Case B:** This person ignores when people treat each other in ways they **would not** want to be treated.
+👉 **Statement 7:** Your college, friend, family member, or even stranger is:
 
-# 3. Consequences of non-trustworthy communication:
+- **More worthy** of your trust when she empowers others to be more trustworthy.
+- **Less worthy** of your trust when she ignores when people behave in an untrustworthy way.
+
+# 3. Consequences of untrustworthy communication:
+
+1. How often do you personally experience untrustworthy behaviors from the statements above?
+2. How often do you personally behave in an untrustworthy way?
+3. How would you feel if your colleagues, friends, family members, or even strangers behave trustworthy, even with people you don’t like or disagree with?
 
 ### 🛑 **Personal Challenges**
 
