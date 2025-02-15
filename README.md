@@ -13,7 +13,7 @@ What does it mean? Here is a more detailed explanation:
 3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.  
 4. **Institutional Trustworthiness** – With an institution and based on the institution's size, reputation, and brand.
  
-- This **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any kind of ideas equitably and without prejudice.
+- This **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice.
 
 # 2. Why it matters?
 
