@@ -6,13 +6,12 @@
 
 - **Trust** is the belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
+- There are **Four Types of Trustworthiness**:
   
-There are Four Types of Trustworthiness:
-  
-1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
-2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
-3. **Cognitive Trustworthiness** – Interpersonal and based on fair treatment of people and their ideas, without prejudice.  
-4. **Institutional Trustworthiness** – Institutional and often based on the institution's size, reputation, and brand.
+  1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
+  2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
+  3. **Cognitive Trustworthiness** – Interpersonal and based on fair treatment of people and their ideas, without prejudice.  
+  4. **Institutional Trustworthiness** – Institutional and often based on the institution's size, reputation, and brand.
  
 - This method focuses on **interpersonal communication** that makes one **truly worthy** of other people's **belief** that they and their ideas will be treated fairly without prejudice.
 
