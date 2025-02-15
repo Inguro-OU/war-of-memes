@@ -71,19 +71,19 @@ Consider the consequences of untrustworthy communication and behaviors:
 
 **Untrustworthy communication and behaviors** lead to personal, social, and work challenges:
 
-### 🛑 **Personal Challenges**
+🛑 **Personal Challenges**
 
 - Problems become harder to solve, mistakes accumulate, earning potential declines
 - Self-doubt and mental blocks limit potential and growth.
 - Soft skills—like active listening, negotiation, or collaboration—stagnate.
 
-### 🛑 **Social Challenges**
+🛑 **Social Challenges**
 
 - Relationships suffer when people violate the “silver rule,” treating others in ways they wouldn’t like to be treated themselves.
 - Conflicts persist over what’s true or false, right or wrong.
 - Misunderstanding becomes the norm, creating a spiral of isolation and disconnection.
 
-### 🛑 **Work Challenges**
+🛑 **Work Challenges**
 
 - Collaboration breaks down, knowledge-sharing and feedback loops disappear.
 - Mistrust diminishes the collective problem-solving capacity.
