@@ -3,19 +3,17 @@
 ## TL;DR  
 A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
 
-## More accurate and slightly longer explanation
+## More accurate and slightly longer explanation:
 
 - **Trust** is a belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.  
+- **Four Types of Trust**:
+    1. **Cognitive Trust** – Based on fair treatment of people and ideas.  
+    2. **Affective Trust** – Rooted in sympathy and similarity.  
+    3. **Competence-Based Trust** – Built on proven skills and expertise.  
+    4. **Institutional Trust** – Confidence in organizations, systems, and rules.  
+- This method focuses on **cognitively trustworthy** communication—a way of interacting with others that them feel you are **actually worthy** of their **cognitive trust**.
 
-### Four Types of Trust  
-1. **Cognitive Trust** – Based on fair treatment of people and ideas.  
-2. **Affective Trust** – Rooted in sympathy and similarity.  
-3. **Competence-Based Trust** – Built on proven skills and expertise.  
-4. **Institutional Trust** – Confidence in organizations, systems, and rules.  
-
-## Cognitively Trustworthy Communication  
-This method focuses on **cognitively trustworthy** communication—meaning a way of interacting that makes a person **actually worthy** of **cognitive trust**.
 ### 🛑 **Personal Challenges**
 
 - Problems become harder to solve, mistakes accumulate, earning potential declines
