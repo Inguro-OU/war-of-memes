@@ -68,27 +68,15 @@ In memetics theory, ideas evolve through **replication, mutation, and selection*
 - **Critical thinking** – Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
 - **Improvization** – Represents **exploration of ideas** and enables **meme mutation**.
 
-Together, **Active listening, Critical thinking, and Improvisation** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that serve humanity.
+Together, **Active listening, Critical thinking, and Improvisation** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that multiply happiness for everyone.
 
-## 8. How To Find Good Memes
+## 8. How To Uncover Good Memes
 
 Good memes are **anti-fragile**—the more they are challenged, the stronger they become. If an idea thrives despite intense scrutiny, it’s likely valuable. Like scientific theories, good memes **withstand falsification attempts** and make useful predictions. If disproving a meme fails despite rigorous effort, it signals truth and long-term utility. Bad memes collapse when exposed to evidence; good memes **adapt, persist, and illuminate reality**. Seeking truth means testing memes ruthlessly—only those that **benefit humanity, in the long run,** will shine.
 
-## 9. Debiasing Is a Human Right
-
-While humanity accumulates wisdom on which memes are harmful, individuals often lack access to this knowledge. With the right knowledge (good memes), most of our problems are solvable.
-
-Debiasing should be considered a human right. Just as food security is a right because hunger causes suffering, access to debiasing tools is crucial because misinformation and bias also cause suffering.
-
-Since the cost of helping others debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
-
-## 10. Vision: A humanist Future Where Trust and Truth Flourish
+## 9. Vision: A Future Where Trust and Truth Flourish
 
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
-- **Our goal:**
-    - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
-    - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
-- **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
 
 ___
 
