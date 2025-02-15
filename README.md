@@ -8,12 +8,12 @@ What does it mean? Here is a more detailed explanation:
 - **Trustworthiness** is **actually being worthy** of that belief.
 - There are four **Types of Trustworthiness**:
   
-1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
-2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
-3. **Cognitive Trustworthiness** – Interpersonal and based on fair treatment of people and their ideas, without prejudice.  
-4. **Institutional Trustworthiness** – Institutional and often based on the institution's size, reputation, and brand.
+1. **Competence-Based Trustworthiness** – Between people and based on proven skills and expertise in a specific field.  
+2. **Affective Trustworthiness** – Between people and based on sympathy and similarity.
+3. **Cognitive Trustworthiness** – Between people and based on fair treatment of people and their ideas, without prejudice.  
+4. **Institutional Trustworthiness** – With an institution and based on the institution's size, reputation, and brand.
  
-- This method focuses on **interpersonal communication** that makes one **truly worthy** of other people's **belief** that they and their ideas will be treated fairly without prejudice.
+- This **communication method** makes people **truly worthy** of the **belief** that they will treat others and their ideas fairly and without prejudice.
 
 # 2. How does it help you?
 
