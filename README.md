@@ -127,9 +127,8 @@ Despite the importance of these needs, many people feel isolated, unheard, and m
 
 ## **Getting Started**
 
-1. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn about the aim and background of the game.
-2. Read the [How It Works Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the rules.
-
+1. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand how the cognitively trustworthy communication method works.
+2. For a deeper understanding of the aims and background read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md).
 
 ## Licensing
 
@@ -141,10 +140,6 @@ See the [License](https://github.com/Inguro-OU/debiased-self/blob/main/LICENSE.m
 
 ## **Theoretical Foundation**
 
-This project is based on the theoretical framework:
 
-- Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583
-
-Access the [latest version of this scientific paper here](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing) and feel free to comment on it.
 
 ---
