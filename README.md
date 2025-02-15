@@ -21,7 +21,7 @@ Here is a more detailed explanation of key concepts:
 
 So, what are these simple but powerful habits for trustworthy communication and behaviors?
 
-**Three Simple Habits for Trustworthy Communication**:
+**Three Habits for Trustworthy Communication**:
 
 Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
 
@@ -40,7 +40,7 @@ Imagine a particular college friend, partner, family member, or stranger. Do you
 - **More worthy** of your trust when they help you explore and expand your ideas, uncover new possibilities, and refine them together.
 - **Less worthy** of your trust when they dismiss your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
 
-**Four Advanced Habits for Trustworthy Behavior**:
+**Four Habits for Trustworthy Behavior**:
 
 👉4. **Promise-keeping** Your college, friend, family member, or stranger is:
 
@@ -64,14 +64,14 @@ Imagine a particular college friend, partner, family member, or stranger. Do you
 
 # 3. How does it help you?
 
-Consider the consequences of untrustworthy communication and behaviors:
+Consider the consequences of **untrustworthy communication and behaviors**:
 
 1. How often do you personally experience **untrustworthy communication & behaviors** described in the seven statements above?
 2. How often do you personally communicate or behave in an **untrustworthy** way?
-3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a more trustworthy way, even with people they don't like or disagree with?
-4. How would your colleagues, friends, family members, and strangers feel if **you communicated and behaved in a more trustworthy way**, even with people you don't like or disagree with?
+3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a **more trustworthy way**, even with people they don't like or disagree with?
+4. How would your colleagues, friends, family members, and strangers feel if **you** communicated and behaved in a **more trustworthy way**, even with people you don't like or disagree with?
 
-**Untrustworthy communication and behaviors** lead to personal, social, and work challenges:
+**Untrustworthy communication and behaviors** lead to challenges:
 
 🛑 **Personal Challenges**
 
@@ -91,7 +91,7 @@ Consider the consequences of untrustworthy communication and behaviors:
 - Mistrust diminishes the collective problem-solving capacity.
 - Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
-**Trustworthy communication and behaviors** lead to personal, social, and work benefits:
+**Trustworthy communication and behaviors** lead to benefits:
 
 🔹**Personal Benefits**
 
@@ -117,7 +117,7 @@ Consider the consequences of untrustworthy communication and behaviors:
 
 🔹**Foundation for fulfilling universal human needs**
 
-Trustworthy communication is more than just a set of skills. It’s the foundation of our happiness because it fulfills essential human needs, including:
+Trustworthy communication is more than just a set of skills. It’s the foundation of human happiness because it fulfills essential human needs, including:
 
 1. **Need for Belonging** – Feeling truly heard and understood.
 2. **Need for Respect** – Being valued for our ideas and contributions.
