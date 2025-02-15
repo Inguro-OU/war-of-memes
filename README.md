@@ -4,7 +4,7 @@
 
 What does it mean? Here is a more detailed explanation:
 
-- **Trust** is the belief that someone or something is **worthy** of trust.  
+- **Trust** is the **belief** that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
 - There are four **Types of Trustworthiness**:
   
