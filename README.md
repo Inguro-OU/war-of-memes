@@ -10,10 +10,10 @@ What does it mean? Here is a more detailed explanation:
   
 1. **Competence-Based Trustworthiness** – Between people and based on proven skills and expertise in a specific field.  
 2. **Affective Trustworthiness** – Between people and based on sympathy and similarity.
-3. **Cognitive Trustworthiness** – Between people and based on fair treatment of people and their ideas, without prejudice.  
+3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.  
 4. **Institutional Trustworthiness** – With an institution and based on the institution's size, reputation, and brand.
  
-- This **communication method** makes people **truly worthy** of the **belief** that they will treat others and their ideas fairly and without prejudice.
+- This **communication method** makes its users **truly worthy** of the **belief** that they will treat people and their ideas equitably and without prejudice.
 
 # 2. How does it help you?
 
