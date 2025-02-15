@@ -6,7 +6,7 @@ What does it mean? Here is a more detailed explanation:
 
 - **Trust** is the belief that someone or something is **worthy** of trust.  
 - **Trustworthiness** is **actually being worthy** of that belief.
-- There are **Four Types of Trustworthiness**:
+- There are four **Types of Trustworthiness**:
   
 1. **Competence-Based Trustworthiness** – Interpersonal and based on proven skills and expertise in a specific field.  
 2. **Affective Trustworthiness** – Interpersonal and based on sympathy and similarity.
