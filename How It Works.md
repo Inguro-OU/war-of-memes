@@ -44,15 +44,15 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 ### 4. Lose an Armband for Perceived Untrustworthy Communication
 
-A participant can **lose an armband at any time** if another participant **perceives** their communication as untrustworthy:
+1. A participant can **lose an armband at any time** if another participant **perceives** their communication as untrustworthy:
 
 - **"Doesn't Understand"** - you disregard their perspective, make no effort to understand it, or fail to make them feel understood.
 - **"Thinks Dogmatically "**  - you avoid seeking the strongest possible evidence that could prove your beliefs false, refuse to adjust your confidence in what you believe to be true based on that evidence, or deny your mistakes when the evidence requires it.
-- **"Stifles Exploration"**  - your dismiss their ideas, limit discussion to what your already know and accept.
+- **"Stifles Exploration"** - you dismiss their ideas, limit discussion to what you already know and accept.
 
-- If Participant A perceives Participant B's communication as untrustworthy, Participant A **calls it out.**
-- Participant B **must say sorry** and **give up one armband.**
-- **Participant B does NOT have to agree**—only acknowledges that their communication was perceived as untrustworthy.
+2. If Participant A perceives Participant B's communication as untrustworthy, Participant A **calls it out.**
+3. Participant B **must say sorry** and **give up one armband.**
+4. **Participant B does NOT have to agree**—only acknowledges that their communication was perceived as untrustworthy.
 
 ✅ **Example:**
 
@@ -63,7 +63,6 @@ A participant can **lose an armband at any time** if another participant **perce
 
 - A participant **cannot repeatedly call out the same person in a short period.**
 - This prevents **overuse or weaponization** of the rule.
-
 
 ### **5. Voluntary Self-Challenge**
 
