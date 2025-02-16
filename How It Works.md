@@ -8,7 +8,7 @@
 
 ---
 
-## **Four Difficulty Levels**
+## **Three Difficulty Levels**
 
 The game offers four levels of play to suit different group sizes and complexities:
 
