@@ -25,34 +25,34 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they make an effort to understand your perspective as you have it and ensure you feel understood.
 - A person is **less** worthy of your trust if they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
 
-👉2. **Speak Honesty**
-
-- A person is more worthy of your trust if they tell you the truth despite the high cost.
-- A person is less worthy of your trust if they intentionally lie to you when it serves their interests.
-
-👉3. **Think Critically**
+👉2. **Think Critically**
 
 - A person is **more** worthy of your trust if they actively seek the strongest possible evidence that could prove their beliefs false, adjust their confidence in what they believe to be true based on that evidence, and admit their mistakes when the evidence requires it.
 - A person is **less** worthy of your trust if they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence or deny their mistakes when the evidence requires it.
 
-👉4. **Explore creatively**
+👉3. **Explore creatively**
 
 - A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
 - A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
 ### **Trustworthy Behaviors**
 
-👉5. **Promise-Keeping**
+👉4. **Speak Honesty**
+
+- A person is more worthy of your trust if they tell you the truth despite the high cost.
+- A person is less worthy of your trust if they intentionally lie to you when it serves their interests.
+
+👉5. **Keep Promises**
 
 - A person is **more** worthy of your trust if they keep their promises despite the high cost.
 - A person is **less** worthy of your trust if they make promises they intend to break.
 
-👉6. **Long-Term Thinking**
+👉6. **Think Long-Term**
 
 - A person is **more** worthy of your trust if they look decades ahead and consider the long-term consequences of their actions.
 - A person is **less** worthy of your trust if they fail to look ahead and ignore the long-term consequences of their actions.
 
-👉7. **Moral Development**
+👉7. **Develop Morally**
 
 - A person is **more** worthy of your trust if they empower others to be more trustworthy.
 - A person is **less** worthy of your trust if they tolerate untrustworthy behavior in others.
