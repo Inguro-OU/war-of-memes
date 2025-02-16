@@ -42,22 +42,22 @@ The game offers three levels of participation to suit different group sizes and 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication. The challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
 
-### 4. Lose an Armband for Perceived Untrustworthy Communication
+### 4. Give Uo an Armband for Perceived Untrustworthy Communication
 
-1. A participant can **lose an armband at any time** if another participant **perceives** their communication as untrustworthy:
+1. A participant can **gives up an armband** when another participant **perceives** their communication as untrustworthy:
 
-- **"Doesn't Understand"** - you disregard their perspective, make no effort to understand it, or fail to make them feel understood.
-- **"Thinks Dogmatically "**  - you avoid seeking the strongest possible evidence that could prove your beliefs false, refuse to adjust your confidence in what you believe to be true based on that evidence, or deny your mistakes when the evidence requires it.
-- **"Stifles Exploration"** - you dismiss their ideas, limit discussion to what you already know and accept.
+- **"Missunderstands"** - thry disregard your perspective, make no effort to understand it, or fail to make you feel understood.
+- **"Thinks Dogmatically "**  - they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
+- **"Stifles Exploration"** - thry dismiss your ideas, limit discussion to what thry already know and accept.
 
-2. If Participant A perceives Participant B's communication as untrustworthy, Participant A **calls it out.**
-3. Participant B **must say sorry** and **give up one armband.**
-4. **Participant B does NOT have to agree**—only acknowledges that their communication was perceived as untrustworthy.
+2. If Participant you perceive somebody's communication as untrustworthy, you **calls it out.**
+3. Participant ehom you called out **must say "I'm sorry"** and **give up one armband.**
+4. **This participant does NOT have to agree with you**— they only acknowledge that you perceived their communication as untrustworthy.
 
 ✅ **Example:**
 
 - *"I feel like you didn’t understand me."*
-- *Participant B must say: "Sorry for making you feel that way."*
+- *Participant must say: "I'm Sorry"*
 
 ⚠️ **Safeguard to Prevent Misuse**
 
