@@ -34,69 +34,64 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered gifts from other players - they represent an opportunity for players to demand trustworthy communication from each other.
 - **Anti-Hoarding Rule**: A player may hold a maximum of **10 armbands**. Players must donate extra armbands.
 
-
-### **3. Initiate a Trust Challenge**  
+### **3. Initiate a Challenge**  
 1. To encourage trustworthy communication, a player can call for a **challenge** by saying:  
 - **"Listen Actively + [Name]"**  
 - **"Think Critically + [Name]"**   
 - **"Explore Creatively + [Name]"**  
 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
-3. The challenged player earns the **armband** if they successfully demonstrate one or more of these key behaviors:  
-- **Listen actively** – Genuinely try to understand the other and ensure that the speaker feels understood through paraphrasing and questioning. 
-- **Think critically** – Actively seek counterevidence, adjust confidence in your beliefs accordingly, and admit mistakes when needed.  
-- **Explore creatively** – Expand the other person's ideas, uncover possibilities, and refine concepts collaboratively.
-  
-4. Acknowledge Trustworthy Communication  
-If the behavior is demonstrated successfully, the challenger:  
-- Gives the **armband** as recognition.  
-- Acknowledges the effort with suggested wording:  
-  - *“[Name], thanks for listening actively.”*  
-  - *“[Name], thanks for thinking critically.”*  
-  - *“[Name], thanks for communicating honestly.”*  
-  - *“[Name], thanks for exploring creatively.”*
+3. The challenged player earns the **armband** if they successfully demonstrate the demanded behavior.
+4. Reward Trustworthy Communication: if the behavior is demonstrated successfully, the challenger:  
+- Gives the **armband** as recognition and says  **"Thank you + [Name]"**  
 
-### **5. Disagreements After Earning and Armband**
+### 4. Lose an Armband for Perceived Untrustworthy Communication
 
-1. **Purpose of Disagreement**: Players disagree to exchange knowledge and collectively discern if an idea is true or false.
-2. **Disagreement Rule**: To disagree with Player B, Player A must **earn an armband** from B on the given topic or obtain explicit permission to disagree without earning an armband.
-3. **Standard Penalty**: If Player A disagrees without first earning B’s armband, A must **pay one armband** to B.
-4. Suggested wording: “*[Name], sorry for disagreeing*.”
-5. **Zero-Armband Penalty**: A player with zero **armbands** who disagrees without having earned B’s armband incurs a **5-minute silence penalty**, increasing by 5 minutes for repeated violations.
+A player can **lose an armband at any time** if another player **perceives** their communication as untrustworthy:
 
-### **7. Voluntary Self-Challenge**
+- If Player A perceives Player B as untrustworthy, Player A **calls it out.**
+- Player B **must say sorry** and **give up one armband.**
+- **Player B does NOT have to agree**—only acknowledges that their communication was perceived as untrustworthy.
 
-- Any player may **spontaneously challenge himself on any of the three aspects of the game**.
-- If the other player **feels it**, they can reward the self-challenger with one **armband**.
+✅ **Example:**
 
-### **8. Celebration of Mistakes**
+- *"I feel like you didn’t understand me."*
+- *Player B must say: "Sorry for making you feel that way."*
 
-- Whenever a player makes a mistake, admits an error, changes their opinion, or acknowledges bias, other players say thanks, offer a **short clap,** or **give an armband** to celebrate the moment of intellectual humility.
+⚠️ **Safeguard to Prevent Misuse**
+
+- A player **cannot call out the same person repeatedly in a short period.**
+- This prevents **overuse or weaponization** of the rule.
+
+
+### **5. Voluntary Self-Challenge**
+
+- Any player may **spontaneously challenge himself**.
+- If the other player **perceives it as trustworthy communication**, they can reward the self-challenger with an **armband**.
 
 ---
 
 ## **Intermediate Rules (Optional)**
 
-### **9. Idea Cards**
+### **6. Idea Cards**
 
 - A player draws a card from a shared game deck.
 - The card introduces an **idea** for discussion. Players reflect, thinking (to themselves): “Which biases might I have?”
 
-### **10. Declare Opinion**
+### **7. Declare Opinion**
 
 - Players verbally declare their opinion on the card. There are only two options: **True or** **False.** Players can withhold declaring their opinion, indicating their uncertainty.
 - If played at the table, the group can use **truth figures** and place them on the right option, expressing their opinion visually for others to see. Only one truth figure is allowed per player per idea card.
 
-### **11. Explain Opinion**
+### **8. Explain Opinion**
 
 - If all players agree on a given idea, they can move to the next card without explaining their opinion.
 - If players disagree, each player has a set time (e.g., 1 minute) to explain the reasoning behind their opinion.
 - Players can change their opinion anytime, which they celebrate with collective recognition (e.g., a clap) as a debiasing moment.
 
-### **12. Moderator Role**
+### **9. Moderator Role**
 
 - Ensures **time limits** (e.g., 1 minute to explain an opinion, 2 minutes for active listening challenges).
-- Leads **Recognition Claps** for acknowledgments.
 - Resolves disputes and clarifies rules.
 - Once experienced, moderators can improvise with topic-specific discussions, new game decks, and modified rules (e.g., as a warm-up before the game starts, players could celebrate sharing a recent past mistake while taking full responsibility for it without justifications).
 
@@ -104,58 +99,19 @@ If the behavior is demonstrated successfully, the challenger:
 
 ## **Advanced Rules (Optional)**
 
-### **13. Bring Your Deck**
+### **10. Bring Your Deck**
 
 - Players may create their own cards and bring them to the game.
 - Each card’s backside may list the topic.
 - Players can draw from another player’s rather than the main deck.
 - Recommended tool: Use [Custom GPT to refine your ideas](https://chatgpt.com/g/g-676ec9d174608191a176779173a7a9e2-idea-refiner-for-war-of-memes) before writing them on a card.
 
-### **14. Create Cards on the Fly**
+### **11. Create Cards on the Fly**
 
 - Players can express their ideas by writing them on a new card mid-game. We recommend that each player create a new card if they disagree with a given idea to explain their position in a short, clear way.
 - Any card in play must have **at least one player** validating it as true. Otherwise, it goes to the **“Graveyard.”**
 - Others can declare their opinion **True or False** (via truth figures or verbally).
 - Players can choose whether to **allow** or **prohibit** their name from appearing on new cards (e.g., “Edward misunderstands confirmation bias”).
-
-### **15. End Game With a Donation Card**
-
-Inspired by Peter Singer’s work on effective altruism, we suggest that the moderator end the game with a Donation Card (from the game deck).
-
-1. **Optional Donations:** Players may pool financial contributions of any size.
-2. **Propose Charities:** Each player suggests a charity or cause.
-3. **Discuss and Vote:** Players discuss and vote. Players can use their trustworthiness scores as **weights**for voting purposes. **If no agreement is reached within a dedicated time (e.g., 10 minutes),** the player with the **highest trustworthiness score** makes the final decision.
-4. **Responsibility for Donation:** The player with the **highest intellectual humility score** is appointed and will be responsible for transferring the donation to the chosen charity on behalf of the group.
-
----
-
-## **Mastery Rules (Optional)**
-
-### **16. Cognitive Trust Figures**
-
-- Use chess figures to represent **“Cognitive Trust,” which** is grounded in moral and epistemic impartiality and enables individuals to overcome short-term self-interest for long-term cooperation.
-- Each player starts with five **pawns** marked as theirs (e.g., with color-coding)
-- After the end of each round (before dismissing a card and moving to the next one), players redistribute their cognitive trust figures to other players.
-
-### **17. Scoring Player’s Trustworthiness**
-
-- **Cognitive Trustworthiness** is the capacity to inspire cognitive trust by earning a reputation through consistent and observable trust-building behaviors.
-- **Truth figures carry** the cognitive trustworthiness scores of their players. For visual purposes, players can write their scores on a piece of paper and attach them to their truth figures.
-- **Score Calculation**:
-    1. **Rank Players by Pawns:** Count total pawns for each player.
-    2. **Award Top Players with Bonus Trust Figures:** 
-        - 1st place: a rook and a knight
-        - 2nd place, two knights
-        - 3rd place: a knight
-    3. **Calculate Scores:** 
-        - Pawn: 1 point
-        - Knight: 3 points
-        - Rook: 5 points
-
-### **18. Competitive Team Play**
-
-- Combine trustworthiness points within each team for friendly competition.
-
 
 ___
 
