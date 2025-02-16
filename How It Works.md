@@ -42,7 +42,7 @@ The game offers three levels of participation to suit different group sizes and 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication. The challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
 
-### 4. Give Uo an Armband for Perceived Untrustworthy Communication
+### 4. Give Up an Armband for Perceived Untrustworthy Communication
 
 1. A participant can **gives up an armband** when another participant **perceives** their communication as untrustworthy:
 
