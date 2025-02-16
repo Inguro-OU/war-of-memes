@@ -127,16 +127,11 @@ Despite the importance of these universal human needs, many people feel isolated
 1. Read [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
 2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to better understand the aims and background. 
 
+___
+
 ## Licensing
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
 See the [License](https://github.com/Inguro-OU/debiased-self/blob/main/LICENSE.md) for full licensing details.
 
----
-
-## **Theoretical Foundation**
-
-
-
----
