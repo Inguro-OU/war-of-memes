@@ -25,7 +25,7 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they make a real effort to understand your perspective as you have it and ensure you feel understood.
 - A person is **less** worthy of your trust if they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
 
-👉 2**. Speak Honesty**
+👉2. **Speak Honesty**
 
 - A person is more worthy of your trust if they tell you the truth despite the high cost.
 - A person is less worthy of your trust if they intentionally lie to you when it serves their interests.
@@ -42,17 +42,17 @@ Imagine the person described below being a particular college, friend, family me
 
 ### **Trustworthy Behaviors**
 
-👉 5**. Promise-Keeping**
+👉5. **Promise-Keeping**
 
 - A person is more worthy of your trust if they keep their promises despite the high cost.
 - A person is less worthy of your trust if they make promises they intend to break.
 
-👉 **6. Long-Term Thinking**
+👉6. **Long-Term Thinking**
 
 - A person is more worthy of your trust if they look decades ahead and consider the long-term consequences of their actions.
 - A person is less worthy of your trust if they fail to look ahead and ignore the long-term consequences of their actions.
 
-👉 **7. Moral Development**
+👉7. **Moral Development**
 
 - A person is more worthy of your trust if they empower others to be more trustworthy.
 - A person is less worthy of your trust if they tolerate untrustworthy behavior in others.
