@@ -22,7 +22,7 @@ Imagine the person described below being a particular college, friend, family me
 
 👉1. **Listen Actively**
 
-- A person is **more** worthy of your trust if they make a real effort to understand your perspective as you have it and ensure you feel understood.
+- A person is **more** worthy of your trust if they make an effort to understand your perspective as you have it and ensure you feel understood.
 - A person is **less** worthy of your trust if they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
 
 👉2. **Speak Honesty**
