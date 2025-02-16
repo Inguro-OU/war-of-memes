@@ -38,15 +38,13 @@ The game offers four levels of play to suit different group sizes and complexiti
 ### **3. Initiate a Trust Challenge**  
 1. To encourage trustworthy communication, a player can call for a **challenge** by saying:  
 - **"Listen Actively + [Name]"**  
-- **"Think Critically + [Name]"**  
-- **"Communicate Honestly + [Name]"**  
+- **"Think Critically + [Name]"**   
 - **"Explore Creatively + [Name]"**  
 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged player earns the **armband** if they successfully demonstrate one or more of these key behaviors:  
 - **Listen actively** – Genuinely try to understand the other and ensure that the speaker feels understood through paraphrasing and questioning. 
 - **Think critically** – Actively seek counterevidence, adjust confidence in your beliefs accordingly, and admit mistakes when needed.  
-- **Speak honestly** – Express your thoughts in a kind and transparent way.  
 - **Explore creatively** – Expand the other person's ideas, uncover possibilities, and refine concepts collaboratively.
   
 4. Acknowledge Trustworthy Communication  
