@@ -28,7 +28,7 @@ The game offers three levels of participation to suit different group sizes and 
 ![badge](https://github.com/user-attachments/assets/21c27d2b-76f5-4ef2-a9c0-d9e662a5748e)
 
 
-### **2. Armbands as Rewards**
+### **2. Armbands as Giftd & Rewards**
 
 - **Starting Supply**: Each particpant begins with five **armbands** in their hand. Armbands can be considered gifts from other participants - they represent an opportunity for participants to demand trustworthy communication from each other.
 - **Anti-Hoarding Rule**: A particpant may hold a maximum of **10 armbands**. Particpants must donate extra armbands.
