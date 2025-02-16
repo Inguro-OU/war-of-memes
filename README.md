@@ -66,7 +66,7 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a **more trustworthy way**, even with people they don't like or disagree with?
 4. How would your colleagues, friends, family members, and strangers feel if **you** communicated and behaved in a **more trustworthy way**, even with people you don't like or disagree with?
 
-### **Untrustworthy communication and behaviors** lead to challenges
+### **Challenges due to untrustworthy communication**
 
 🛑 **Personal Challenges**
 
@@ -86,7 +86,7 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 - Mistrust diminishes the collective problem-solving capacity.
 - Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
-### **Trustworthy communication and behaviors** lead to benefits
+### **Benefits due to trustworthy communication**
 
 🔹**Personal Benefits**
 
