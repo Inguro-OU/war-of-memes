@@ -1,68 +1,63 @@
-# 1. What is it?  
+# 1. What is it?
 
-**TL;DR**: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.  
+**TL;DR**: A cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
 
-In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. 
+In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. Here is a more detailed explanation of key concepts:
 
-Here is a more detailed explanation of key concepts:
-
-- **Trust** is the **belief** that someone or something is **worthy** of trust.  
-- **Trustworthiness** is **actually being worthy** of that belief.
-- There are four **Types of Trustworthiness**:
-  
-1. **Competence-Based Trustworthiness** – Between people and based on proven skills and expertise in a specific field.  
+- **Trust** is the **belief** that someone or something is **worthy** of trust.
+- **Trustworthiness** is **being worthy** of that belief.
+- There are four t**ypes of Trustworthiness**:
+1. **Competence-Based Trustworthiness** – Between people and based on proven skills and expertise in a specific field.
 2. **Affective Trustworthiness** – Between people and based on sympathy and similarity.
-3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.  
-4. **Institutional Trustworthiness** – With an institution and based on the institution's size, reputation, and brand.
+3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.
+4. **Institutional Trustworthiness** – is based on the institution's size, reputation, and brand.
 
-# 2. Why it matters?
+# 2. How does it help you?
 
-**TL;DR**: With this method you can **predictably increase the chance** of experiencing **trustworthy communication & behaviors** and **decrease the chance** of experiencing **untrustworthy communication & behaviors**. 
+**TL;DR**: This method helps you reliably increase the likelihood of experiencing **trustworthy** rather than **untrustworthy** communication.
 
-So, what are these simple but powerful habits for trustworthy communication and behaviors?
+### **Trustworthy Communication**
 
-**Three Habits for Trustworthy Communication**:
+Imagine the person described below being a particular college, friend, family member, or stranger. Do you **agree** or **disagree** with the following seven statements?
 
-Imagine a particular college friend, partner, family member, or stranger. Do you **agree** or do you **disagree** with the following seven statements? 
+👉1. **Listen Actively**
 
-👉1. **Active Listening:** Your college, friend, family member, or stranger is:
+- A person is **more** worthy of your trust if they make a real effort to understand your perspective as you have it and ensure you feel understood.
+- A person is **less** worthy of your trust if they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
 
-- **More worthy** of your trust when they give you the feeling that they understand your perspective.
-- **Less worthy** of your trust when they don’t answer, break communication, and intentionally ignore your perspective
+👉 2**. Speak Honesty**
 
-👉2. **Critical Thinking:** Your college, friend, family member, or stranger is:
+- A person is more worthy of your trust if they tell you the truth despite the high cost.
+- A person is less worthy of your trust if they intentionally lie to you when it serves their interests.
 
-- **More worthy** of your trust when they admit the possibility of being wrong, recognize their mistakes, and change their opinion when presented with objectively better evidence.
-- **Less worthy** of your trust when they refuse to admit the possibility of being wrong, deny or ignore her mistakes, and cling to her opinions even when faced with objectively better evidence.
+👉3. **Think Critically**
 
-👉3. **Improvisation & Exploration:** Your college, friend, family member, or stranger is:
+- A person is **more** worthy of your trust if they actively seek the strongest possible evidence that could prove their beliefs false, adjust their confidence in what they believe to be true based on that evidence, and admit their mistakes when the evidence requires it.
+- A person is **less** worthy of your trust if they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence or deny their mistakes when the evidence requires it.
 
-- **More worthy** of your trust when they help you explore and expand your ideas, uncover new possibilities, and refine them together.
-- **Less worthy** of your trust when they dismiss your ideas, sticking rigidly to those already familiar to them, avoiding creative risks, and limiting exploration.
+👉4. **Explore creatively**
 
-**Four Habits for Trustworthy Behavior**:
+- A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
+- A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
-👉4. **Promise-keeping** Your college, friend, family member, or stranger is:
+### **Trustworthy Behaviors**
 
-- **More worthy** of your trust when they keep her promises despite her high cost.
-- **Less worthy** of your trust when they make promises she intends to break.
+👉 5**. Promise-Keeping**
 
-👉5. **Honesty:** Your college, friend, family member, or stranger is:
+- A person is more worthy of your trust if they keep their promises despite the high cost.
+- A person is less worthy of your trust if they make promises they intend to break.
 
-- **More worthy** of your trust when they tell you the truth despite her high cost.
-- **Less worthy** of your trust when they intentionally lie to you when it serves their interests.
+👉 **6. Long-Term Thinking**
 
-👉6. **Long-term thinking:** Your college, friend, family member, or stranger is:
+- A person is more worthy of your trust if they look decades ahead and consider the long-term consequences of their actions.
+- A person is less worthy of your trust if they fail to look ahead and ignore the long-term consequences of their actions.
 
-- **More worthy** of your trust when they look decades ahead and consider the long-term effects of their actions
-- **Less worthy** of your trust when they don’t look ahead and ignore the long-term effects of her actions.
+👉 **7. Moral Development**
 
-👉7. **Moral development:** Your college, friend, family member, or stranger is:
+- A person is more worthy of your trust if they empower others to be more trustworthy.
+- A person is less worthy of your trust if they tolerate untrustworthy behavior in others.
 
-- **More worthy** of your trust when they empower others to be more trustworthy.
-- **Less worthy** of your trust when they ignore when people behave in an untrustworthy way.
-
-# 3. How does it help you?
+# 3. What are your benefits?
 
 Consider the consequences of **untrustworthy communication and behaviors**:
 
@@ -71,7 +66,7 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a **more trustworthy way**, even with people they don't like or disagree with?
 4. How would your colleagues, friends, family members, and strangers feel if **you** communicated and behaved in a **more trustworthy way**, even with people you don't like or disagree with?
 
-**Untrustworthy communication and behaviors** lead to challenges:
+### **Untrustworthy communication and behaviors** lead to challenges
 
 🛑 **Personal Challenges**
 
@@ -91,7 +86,7 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 - Mistrust diminishes the collective problem-solving capacity.
 - Instead of the best ideas winning, the loudest or most powerful voices dominate.
 
-**Trustworthy communication and behaviors** lead to benefits:
+### **Trustworthy communication and behaviors** lead to benefits
 
 🔹**Personal Benefits**
 
@@ -117,13 +112,13 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 
 🔹**Foundation for fulfilling universal human needs**
 
-Trustworthy communication is more than just a set of skills. It’s the foundation of human happiness because it fulfills essential human needs, including:
+Trustworthy communication is more than just a set of skills. It’s the foundation for human happiness because it fulfills essential human needs, including:
 
 1. **Need for Belonging** – Feeling truly heard and understood.
 2. **Need for Respect** – Being valued for our ideas and contributions.
 3. **Need for Growth** – Expanding our knowledge and seeing reality more clearly.
 
-Despite the importance of these universal human needs, many people feel isolated, unheard, and misunderstood. Ironically, trustworthy communication doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack the habit of communicating trustworthy, making their relationships and lives increasingly difficult.
+Despite the importance of these universal human needs, many people feel isolated, unheard, and misunderstood. Ironically, trustworthy communication doesn’t rely on scarce resources—it multiplies when given. The real challenge? Most people lack the right habits, making their relationships and lives increasingly difficult.
   
 ---
 
