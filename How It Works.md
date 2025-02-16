@@ -115,5 +115,5 @@ A player can **lose an armband at any time** if another player **perceives** the
 
 ___
 
-Continue reading [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md) to understand better the aim and background of this method.
+Continue reading [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to understand better the aim and background of this method.
 
