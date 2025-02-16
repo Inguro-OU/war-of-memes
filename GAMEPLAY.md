@@ -1,10 +1,9 @@
-1. [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
-2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to learn about the aim and background.
+[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
 
 ## **Flexible Gameplay**
 
-1. **Small Group:** A small group of participants can play while seated around a table. For online gameplay, you can use this [MIRO TEMPLATE](https://miro.com/app/board/uXjVLxDyvR8=/?playRecording=02de1788-3d84-4657-bf0c-f920db1ca3a3)
-2. **Casual 1-on-1:** Once familiar with the game, participants can play the game on the fly for constructive responses.
+1. **Casual 1-on-1:** Once familiar with the game, participants can play the game on the fly for constructive responses.
+2. **Small Group:** A small group of participants can play while seated around a table. 
 3. **Events with Free Movement:** In events of any size, players can move freely between groups and engage in one-on-one or small-group discussions.
 
 ---
@@ -24,27 +23,20 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 ### **1. Voluntary Participation**
 
-- **Name tag**: Players wear a badge with their real name. The name tag can be a heart associated with System 1—intuitive, automatic, and fast thinking.
-- **Game Badge**: Players wear to signal participation:
-    
+- **Game Badge**: Players wear a game badge to signal participation.
+- **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
 
 ![99](https://github.com/user-attachments/assets/624baa33-3e05-4b71-b79f-0fdc9006e0a4)
 
 
-- **Listen Actively** – The **emotional** (right) brain. Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
-- **Think Critically** – The **rational** (left) brain. Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
-- **Improvize** – The **creative exploration and improvization**. Represents **openness** and enables **meme mutation**.
-  
-- **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
-
 ### **2. Armbands as Rewards**
 
-- **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered as gifts from other players - they represent an opportunity for other [players to act as Case A from the statements we presented in the README.](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#three-behaviors-that-change-everything)
+- **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered as gifts from other players - they represent an opportunity for other [players to act in a trustworthy way](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#three-behaviors-that-change-everything)
 - **Anti-Hoarding Rule**: A player may hold a maximum of **10 armbands**. Players must donate extra armbands.
 
-### **3. Cultivate Cognitive Empathy**
+### **3. Reward Active Listening**
 
-1. Players can initiate an *active listening* challenge by saying to another player **“Listen Actively + [Name].”** To make the challenge more visual, the challenger places an armband on the table, signaling that the challenged player can earn it.
+1. Players can initiate an *active listening* challenge by saying to another player **“Listen Actively + [Name].”** To make the challenge more visual, the challenger can place an armband on the table, signaling that the challenged player can earn it.
 2. **Reward Active Listening**: 
     - **Understanding Success**: If the challenger feels understood, give the challenged player one **armband**.
     - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
