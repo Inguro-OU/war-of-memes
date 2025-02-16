@@ -1,4 +1,4 @@
-[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
+[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about what it is, why it matters, and how it helps.
 
 ## **Flexible Setup**
 
