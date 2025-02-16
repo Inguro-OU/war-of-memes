@@ -1,4 +1,4 @@
-## **Licensing Terms for Trust-Building Communication**
+## **Licensing Terms for Cognitively Trustworthy Communication Method**
 
 **Copyright © 2024 Ladischenski, CEO of Inguro OÜ.**
 
@@ -15,7 +15,7 @@ Under these conditions:
 
 - **Attribution** – credit the original creator with the following note:
     
-    > "Trust-Building Communication by Ladischenski, CEO of Inguro OÜ. More information: [https://github.com/Inguro-OU/war-of-memes/] Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
+    > "Cognitively Trustworthy Communication Method by Ladischenski, CEO of Inguro OÜ. More information: [https://github.com/Inguro-OU/war-of-memes/] Based on the theoretical framework described in Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583."
     > 
 - **Non-Commercial Use Only** – do not use the material commercially.
 - **ShareAlike** – if you modify or build upon the material, distribute your work under the same license.
