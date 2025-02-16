@@ -10,11 +10,11 @@
 
 ## **Three Difficulty Levels**
 
-The game offers four levels of play to suit different group sizes and complexities:
+The game offers three levels of participation to suit different group sizes and complexities:
 
 1. **Basic Level:** includes core rules for casual groups or first-time participants.
 2. **Intermediate Level:** adds structure with moderators and optional tools like idea cards. It is ideal for small groups around a table.
-3. **Advanced Level:** includes expanded mechanics for deeper insights and competitive play. It is suitable for small groups of experienced participants.
+3. **Advanced Level:** includes expanded mechanics for deeper insights and competitive participation. It is suitable for small groups of experienced participants.
 
 ---
 
