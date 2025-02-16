@@ -124,8 +124,8 @@ Despite the importance of these universal human needs, many people feel isolated
 
 ## **Getting Started**
 
-1. Read [How it works](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md).
-2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) for a deeper understanding of the aims and background. 
+1. Read [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
+2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to better understand the aims and background. 
 
 ## Licensing
 
