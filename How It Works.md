@@ -22,8 +22,8 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 ### **1. Voluntary Participation**
 
-- **Partcpantion Badge**: participants wear a badge to signal participation.
-- **Opt-Out Anytime**: Particpants may remove their game badge to exit their participation if they feel fatigued.
+- **Participation Badge**: participants wear a badge to signal participation.
+- **Opt-Out Anytime**: Participants may remove their game badge to exit their participation if they feel fatigued.
 
 ![badge](https://github.com/user-attachments/assets/21c27d2b-76f5-4ef2-a9c0-d9e662a5748e)
 
@@ -34,10 +34,10 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Anti-Hoarding Rule**: A particpant may hold a maximum of **10 armbands**. Particpants must donate extra armbands.
 
 ### **3. Initiate a Challenge**  
-1. To encourage trustworthy communication, a particpant can call for a **challenge** by saying:  
-- **"Listen Actively + [Name]"**  
-- **"Think Critically + [Name]"**   
-- **"Explore Creatively + [Name]"**  
+1. To encourage trustworthy communication, a participant can call for a **challenge** by saying:  
+- **"Listen Actively + [Name]"** - make a real effort to understand other's perspectives as they have them and ensure they feel understood.
+- **"Think Critically + [Name]"**  - actively seek the strongest possible evidence that could prove your beliefs false, adjust your confidence in what you believe to be true based on that evidence, and admit your mistakes when the evidence requires it.
+- **"Explore Creatively + [Name]"**  - help others explore their ideas beyond familiar possibilities.
 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication.
@@ -47,6 +47,10 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 A participant can **lose an armband at any time** if another participant **perceives** their communication as untrustworthy:
 
+- **"Doesn't Understand"** - you disregard their perspective, make no effort to understand it, or fail to make them feel understood.
+- **"Thinks Dogmatically "**  - you avoid seeking the strongest possible evidence that could prove your beliefs false, refuse to adjust your confidence in what you believe to be true based on that evidence, or deny your mistakes when the evidence requires it.
+- **"Stifles Exploration"**  - your dismiss their ideas, limit discussion to what your already know and accept.
+
 - If Participant A perceives Participant B's communication as untrustworthy, Participant A **calls it out.**
 - Participant B **must say sorry** and **give up one armband.**
 - **Participant B does NOT have to agree**—only acknowledges that their communication was perceived as untrustworthy.
@@ -54,11 +58,11 @@ A participant can **lose an armband at any time** if another participant **perce
 ✅ **Example:**
 
 - *"I feel like you didn’t understand me."*
-- *Particpant B must say: "Sorry for making you feel that way."*
+- *Participant B must say: "Sorry for making you feel that way."*
 
 ⚠️ **Safeguard to Prevent Misuse**
 
-- A particpant **cannot call out the same person repeatedly in a short period.**
+- A participant **cannot repeatedly call out the same person in a short period.**
 - This prevents **overuse or weaponization** of the rule.
 
 
@@ -112,5 +116,5 @@ A participant can **lose an armband at any time** if another participant **perce
 
 ___
 
-Continue reading [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to understand better the aim and background of this method.
+Continue reading [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to better understand this method's aim and background.
 
