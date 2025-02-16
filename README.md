@@ -124,8 +124,8 @@ Despite the importance of these universal human needs, many people feel isolated
 
 ## **Getting Started**
 
-1. Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand how the cognitively trustworthy communication method works.
-2. For a deeper understanding of the aims and background, read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md).
+1. Read [How it works](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md).
+2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) for a deeper understanding of the aims and background. 
 
 ## Licensing
 
