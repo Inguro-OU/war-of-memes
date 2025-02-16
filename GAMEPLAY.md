@@ -1,6 +1,6 @@
 [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about the game, benefits, and background.
 
-## **Flexible Gameplay**
+## **Flexible Setup**
 
 1. **Casual 1-on-1:** Once familiar with the game, participants can play the game on the fly for constructive responses.
 2. **Small Group:** A small group of participants can play while seated around a table. 
@@ -31,28 +31,32 @@ The game offers four levels of play to suit different group sizes and complexiti
 
 ### **2. Armbands as Rewards**
 
-- **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered as gifts from other players - they represent an opportunity for other [players to act in a trustworthy way](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#three-behaviors-that-change-everything)
+- **Starting Supply**: Each player begins with five **armbands** in their hand. Armbands can be considered gifts from other players - they represent an opportunity for players to demand trustworthy communication from each other.
 - **Anti-Hoarding Rule**: A player may hold a maximum of **10 armbands**. Players must donate extra armbands.
 
-### **3. Reward Active Listening**
 
-1. Players can initiate an *active listening* challenge by saying to another player **“Listen Actively + [Name].”** To make the challenge more visual, the challenger can place an armband on the table, signaling that the challenged player can earn it.
-2. **Reward Active Listening**: 
-    - **Understanding Success**: If the challenger feels understood, give the challenged player one **armband**.
-    - **Understanding Gap**: If the challenger feels misunderstood, they keep the armband.
-3. **Suggested Wording**: *”[Name], thanks for actively listening.”*
+### **3. Initiate a Trust Challenge**  
+1. To encourage trustworthy communication, a player can call for a **challenge** by saying:  
+- **"Listen Actively + [Name]"**  
+- **"Think Critically + [Name]"**  
+- **"Communicate Honestly + [Name]"**  
+- **"Explore Creatively + [Name]"**  
 
-### **4. Foster Intellectual Humility**
-
-1. Players can initiate a critical thinking challenge by saying to another player, “**Think Critically + [Name]**.” To make it more visual, the challenger places an armband on the table as a potential reward.
-2. **Reward Intellectual Humility:** If the challenged player openly considers being wrong, acknowledges mistakes, or adjusts their viewpoint, they earn the armband.
-3. **Suggested Wording:** ”*[Name], thanks for thinking critically.*”
-
-### **4. Cultivate Creativity**
-
-1. Players can initiate an *improvisation* challenge by saying to another player **“Improvize + [Name].”** To make it more visual, the challenger places an armband on the table as a potential reward.
-2. **Reward Creativity**: If the challenged player helps expand ideas, uncover new possibilities, or refine concepts collaboratively, they earn the armband.
-3. **Suggested Wording**: *”[Name], thanks for your improvization.”*
+2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
+3. The challenged player earns the **armband** if they successfully demonstrate one or more of these key behaviors:  
+- **Listen actively** – Genuinely try to understand the other and ensure that the speaker feels understood through paraphrasing and questioning. 
+- **Think critically** – Actively seek counterevidence, adjust confidence in your beliefs accordingly, and admit mistakes when needed.  
+- **Speak honestly** – Express your thoughts in a kind and transparent way.  
+- **Explore creatively** – Expand the other person's ideas, uncover possibilities, and refine concepts collaboratively.
+  
+4. Acknowledge Trustworthy Communication  
+If the behavior is demonstrated successfully, the challenger:  
+- Gives the **armband** as recognition.  
+- Acknowledges the effort with suggested wording:  
+  - *“[Name], thanks for listening actively.”*  
+  - *“[Name], thanks for thinking critically.”*  
+  - *“[Name], thanks for communicating honestly.”*  
+  - *“[Name], thanks for exploring creatively.”*
 
 ### **5. Disagreements After Earning and Armband**
 
