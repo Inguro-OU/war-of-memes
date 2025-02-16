@@ -40,8 +40,7 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **"Explore Creatively + [Name]"**  - help others explore their ideas beyond familiar possibilities.
 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
-3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication.
-4. Reward Trustworthy Communication. If the communication is demonstrated successfully, the challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
+3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication. The challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
 
 ### 4. Lose an Armband for Perceived Untrustworthy Communication
 
