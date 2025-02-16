@@ -26,7 +26,7 @@ The game offers four levels of play to suit different group sizes and complexiti
 - **Game Badge**: Players wear a game badge to signal participation.
 - **Opt-Out Anytime**: Players may remove their game badge to pause playing the game if they feel fatigued.
 
-![99](https://github.com/user-attachments/assets/624baa33-3e05-4b71-b79f-0fdc9006e0a4)
+![badge](https://github.com/user-attachments/assets/21c27d2b-76f5-4ef2-a9c0-d9e662a5748e)
 
 
 ### **2. Armbands as Rewards**
