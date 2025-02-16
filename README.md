@@ -18,7 +18,7 @@ In other words, this **communication method** makes its users **truly worthy** o
 
 ### **Trustworthy Communication**
 
-Imagine the person described below being a particular college, friend, family member, or stranger. Do you **agree** or **disagree** with the following seven statements?
+Imagine the person described below being a particular college, friend, family member, or stranger. Do you **agree** or **disagree** with the following statements?
 
 👉1. **Listen Actively**
 
