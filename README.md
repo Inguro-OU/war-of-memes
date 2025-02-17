@@ -4,7 +4,7 @@
 2. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
 3. [What are your benefits?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
 4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
-5. For a deeper dive in, in the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
+5. [In the Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
 6. [Theorectical Foundation - Scientific Paper about Trust Building Framework and Platform](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
 7. [License](https://github.com/Inguro-OU/war-of-memes/blob/main/LICENSE.md)
 
