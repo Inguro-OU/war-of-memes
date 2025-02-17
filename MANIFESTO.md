@@ -88,7 +88,7 @@ Together, [Active listening, Critical thinking, and Creative Exploration](https:
 
 Good memes are **anti-fragile**—the more they are challenged, the stronger they become. If an idea thrives despite intense scrutiny, it’s likely valuable. Like scientific theories, good memes **withstand falsification attempts** and make useful predictions. If disproving a meme fails despite rigorous effort, it signals truth and long-term utility. Bad memes collapse when exposed to evidence; good memes **adapt, persist, and illuminate reality**. Seeking truth means testing memes ruthlessly—only those that **benefit humanity, in the long run,** will shine.
 
-## 10. Vision: Increasing trustworthiness between groups
+## 10. Vision
 
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
 - **Our goal:**
