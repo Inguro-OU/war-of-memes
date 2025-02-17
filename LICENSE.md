@@ -22,7 +22,7 @@ Under these conditions:
 
 ### Commercial Collaboration Opportunities
 
-We are happy to discuss all kinds of commercial collaboration opportunities. If you are interested in using **Trust-Building Communication** for commercial purposes (e.g., paid workshops, corporate training, or product integration), please reach out to us:
+We are happy to discuss all kinds of commercial collaboration opportunities. If you are interested in using **Cognitively Trustworthy Communication Method** for commercial purposes (e.g., paid workshops, corporate training, or product integration), please reach out to us:
 
 **Email:** preprint AT inguro DOT com
 
