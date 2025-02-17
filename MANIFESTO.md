@@ -65,7 +65,7 @@ By shifting blame from individuals to the **harmful memes they carry**, we can f
 
 ## 7. Role of Two Cognitive Systems in Memetics
 
-The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) explains two complementary modes of human cognition:
+The [System 1 and System 2 framework](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) from Kahneman and Tversky explains two complementary modes of human cognition:
 
 - **Fast Thinking (System 1):** Efficient, automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
