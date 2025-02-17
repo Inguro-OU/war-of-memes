@@ -74,7 +74,7 @@ The [System 1 and System 2 framework](https://en.wikipedia.org/wiki/Thinking,_Fa
 
 By strengthening **System 2 thinking**, we can shift from **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
-## 8. How Do We Eliminate Harmful Memes
+## 8. How To Eliminate Harmful Memes
 
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
