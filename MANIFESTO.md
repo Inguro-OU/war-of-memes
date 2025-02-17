@@ -70,7 +70,7 @@ The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.w
 - **Fast Thinking (System 1):** Efficient, automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
 - **Slow Thinking (System 2):** Flexible, analytical, deliberate, and useful for solving complex problems with high uncertainty. Responsible brain regions: dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC)
-    - **Memetic Role:** System 2 enables creating, selecting, and adopting memes that offer long-term benefits but may conflict with existing beliefs or habits.
+    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits.
 
 By strengthening **System 2 thinking**, we can shift from **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
@@ -79,8 +79,8 @@ By strengthening **System 2 thinking**, we can shift from **egoistic selection**
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
 - **Listen actively** – supports accurate **meme replication**.
-- **Think critically** – supports **meme selection**.
-- **Explore creatively** – supports **meme mutation**.
+- **Think critically** – supports **meme selection** that multiples everyone's happiness.
+- **Explore creatively** – supports continuous **meme mutation**.
 
 Together, Active listening, Critical thinking, and Creative Exploration form a practical framework for debiasing. Strengthening these habits is the basis of trustworthy communication. It helps us to evolve memes that multiply everyone’s happiness.
 
