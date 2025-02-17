@@ -18,7 +18,7 @@ When identities are unstable, **trust is harder to sustain.** The instincts that
 
 ## **3.** What are Cognitive Biases?
 
-Humans have over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)—mental shortcuts shaped by evolution. While once useful for survival, these biases now fuel misinformation and division. Three of the most dangerous and self-reinforcing are:
+Humans have over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)—mental shortcuts shaped by evolution. Once useful for survival, these biases now fuel misinformation and division. Three of the most dangerous and self-reinforcing are:
 
 - **Confirmation Bias** – Seeking information that supports our beliefs while ignoring contradictions.
 - **Myside Bias** – Judging ideas based on group identity rather than merit.
