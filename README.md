@@ -24,7 +24,7 @@ In other words, this **communication method** makes its users **truly worthy** o
 
 **TL;DR**: This method helps you reliably increase the likelihood of experiencing **trustworthy** rather than **untrustworthy** communication.
 
-### **Three Core Trustworthy Communication Habits**
+### **Trustworthy Communication Habits**
 
 Imagine the person described below being a particular college, friend, family member, or stranger. Do you **agree** or **disagree** with the following statements?
 
@@ -43,7 +43,12 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
 - A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
-### **Further Reinforcing Trustworthy Values**
+Let's **pause** here for a second and reflect:
+1. How often do you experience **untrustworthy** communication from colleagues, friends, and strangers? How does it affect you?
+2. How often do you communicate in an **untrustworthy** way with strangers, people of different cultures, or contrary beliefs? How does it affect your reputation? 
+3. How do you feel when a person communicates in a **trustworthy** way, even with people from different cultures, and contrary beliefs?     
+
+### **Core Trustworthy Values**
 
 👉4. **Speak Honesty**
 
