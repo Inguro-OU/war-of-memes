@@ -3,8 +3,8 @@ This **introduction** can help you to understand:
 1. [What is it?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#1-what-is-it)
 2. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
 3. [What are your benefits?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
-4. [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
-5. [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) can help you to better understand the aims and background. 
+4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
+5. In the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) you can learn more about the aims and background 
 
 # 1. What is it?
 
@@ -132,7 +132,7 @@ Despite the importance of these universal human needs, many people feel isolated
 
 ## **Getting Started**
 
-1. Read [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
+1. Continue reading [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
 2. Read the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to better understand the aims and background. 
 
 ___
