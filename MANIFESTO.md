@@ -1,6 +1,42 @@
 [README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about what it is, why it matters, and how it helps.
 
-## 1. What Is a Meme
+## **1. How Ego Undermines Trust?**
+
+At the root of untrustworthy communication is **ego**—the mind’s instinct to protect its self-image. It resists being wrong, defends its identity, and clings to beliefs even when evidence contradicts them. When ego feels threatened, it distorts reality, rejects change, and fuels division.
+
+Trust requires openness. However, trust weakens when people defend their identity over truth, **and meaningful dialogue breaks down.** Instead of admitting mistakes, they double down on falsehoods—making trust fragile when needed most.
+
+Humans evolved to **cooperate within groups,** not to ensure fairness **between them.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
+
+---
+
+## **2. Why Do Our Moral Instincts Struggle Today?**
+
+For most of history, people lived in **stable, close-knit groups** where trust formed naturally. **Shared culture, environment, and knowledge** reinforced cooperation. Moral instincts evolved to **curb selfishness** and strengthen **group loyalty**—but they were built for stability, not rapid change.
+
+Today, identities are fluid. People shift between communities, ideologies, and careers more than ever. **What once anchored trust—stable group membership—is now unstable.** Moral instincts, designed for cohesion, struggle to adapt to a world where loyalties constantly shift.
+
+**Social mobility and access to new knowledge** blur group boundaries. Any group insider once seen as **"one of us"** may quickly become **"one of them."** Instincts that once strengthened unity now fuel division.
+
+When identities are unstable, **trust is harder to sustain.** The instincts that once bound groups together must evolve to keep up with a changing world.
+
+## **3.** What are Cognitive Biases?
+
+Humans have over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)—mental shortcuts shaped by evolution. While once useful for survival, these biases now fuel misinformation and division. Three of the most dangerous and self-reinforcing are:
+
+- **Confirmation Bias** – Seeking information that supports our beliefs while ignoring contradictions.
+- **Myside Bias** – Judging ideas based on group identity rather than merit.
+- **Naïve Realism** – Assuming we see reality objectively while others are biased.
+
+Because biases operate **below conscious awareness**, they make harmful ideas feel natural and resist correction. To be truly trustworthy communicators, we must recognize and overcome cognitive biases - this is called debiasing.
+
+The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**.
+
+Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
+
+---
+
+## 4. What Is a Meme?
 
 Humans naturally copy behaviors, ideas, and patterns—like children imitating words or actions. This copying forms the basis of [**memetic theory**](https://en.wikipedia.org/wiki/Memetics), which explains how culture spreads and evolves.
 
@@ -10,25 +46,7 @@ We often believe we choose which memes to adopt, but memes behave like **self-re
 
 Like genes in biological evolution, memes **replicate, mutate, and compete** for attention and adoption. We naturally adopt memes from those we **trust** and **admire**, reinforcing their spread. Understanding meme transmission helps us **control their impact**—whether positive or harmful.
 
-## 2. What are Cognitive Biases
-
-Humans are wired with over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)—systematic errors in judgment shaped by evolution. Three of the most dangerous, self-reinforcing biases are:
-
-•	**Confirmation Bias** – Seeking evidence that supports our existing beliefs.
-
-•	**Myside Bias** – Evaluating ideas based on group identity rather than merit.
-
-•	**Naïve Realism** – Assuming we see reality objectively, while others are biased.
-
-These biases operate **below conscious awareness**, making harmful memes feel natural and resistant to correction.
-
-## 3. Everyone Makes Mistakes
-
-The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**.
-
-Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
-
-## 4. Three Types of Meme Fitness
+## 5. Three Types of Meme Fitness
 
 A meme’s ability to spread is called its **fitness**. It can be categorized into three types:
 
@@ -41,7 +59,7 @@ A meme’s ability to spread is called its **fitness**. It can be categorized in
 
 Understanding meme fitness helps us **filter out harmful memes** while promoting those aligned with long-term well-being.
 
-## 5. There Are No Evil People, Only Harmful Memes
+## 6. There Are No Evil People, Only Harmful Memes
 
 From a meme’s perspective, survival depends on being **adopted and spread**. Some memes thrive because they benefit humanity (e.g., human rights), while others spread despite being **harmful** (e.g., false beliefs, divisive ideologies).
 
@@ -49,35 +67,48 @@ Harmful memes have **high local fitness and negative global fitness**, meaning t
 
 By shifting blame from individuals to the **harmful memes they carry**, we can focus on eliminating destructive patterns of thought and behavior rather than vilifying people.
 
-## 6. Role of Two Cognitive Systems in Memetics
+## 7. Role of Two Cognitive Systems in Memetics
 
 The [**System 1 and System 2** framework from Kahneman and Tversky](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) explains two complementary modes of human cognition:
 
 - **Fast Thinking (System 1):** Efficient, automatic, habitual, and effortless—ideal for routine tasks and quick decisions. Responsible brain regions: amygdala, ventromedial prefrontal cortex (vmPFC), and basal ganglia
     - **Memetic Role:** System 1 stores and reinforces existing memes within individuals. These memes include habits, ideas, and cultural patterns that define the self. Fast thinking favors memes that fit well with what is already known and resists those that challenge the status quo.
 - **Slow Thinking (System 2):** Flexible, analytical, deliberate, and useful for solving complex problems with high uncertainty. Responsible brain regions: dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC)
-    - **Memetic Role:** System 2 enables the creation, selection, and adoption of memes that offer long-term benefits but may conflict with existing beliefs or habits. 
+    - **Memetic Role:** System 2 enables creating, selecting, and adopting memes that offer long-term benefits but may conflict with existing beliefs or habits.
 
-By strengthening **System 2 thinking**, we can shift from meme evolution through **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
+By strengthening **System 2 thinking**, we can shift from **egoistic selection** (favoring short-term, group-serving memes) to meme evolution through **humanistic selection** (promoting memes that benefit humanity).
 
-## 7. How Do We Eliminate Harmful Memes
+## 8. How Do We Eliminate Harmful Memes
 
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
-- **Active listening** – Represents **cognitive empathy** and **active listening**, ensuring accurate **meme replication**.
-- **Critical thinking** – Represents **intellectual humility** and **critical thinking**, ensuring **meme selection**.
-- **Improvization** – Represents **exploration of ideas** and enables **meme mutation**.
+- **Listen actively** – supports accurate **meme replication**.
+- **Think critically** – supports **meme selection**.
+- **Explore creatively** – supports **meme mutation**.
 
-Together, **Active listening, Critical thinking, and Improvisation** form a practical framework for debiasing. Strengthening these faculties allows us to **reject harmful memes and create better ones**, accelerating the evolution of ideas that multiply happiness for everyone.
+Together, Active listening, Critical thinking, and Creative Exploration form a practical framework for debiasing. Strengthening these habits is the basis of trustworthy communication. It helps us to evolve memes that multiply everyone’s happiness.
 
-## 8. How To Uncover Good Memes
+## 9. How To Uncover Good Memes
 
 Good memes are **anti-fragile**—the more they are challenged, the stronger they become. If an idea thrives despite intense scrutiny, it’s likely valuable. Like scientific theories, good memes **withstand falsification attempts** and make useful predictions. If disproving a meme fails despite rigorous effort, it signals truth and long-term utility. Bad memes collapse when exposed to evidence; good memes **adapt, persist, and illuminate reality**. Seeking truth means testing memes ruthlessly—only those that **benefit humanity, in the long run,** will shine.
 
-## 9. Vision: A Future Where Trust and Truth Flourish
+## 10. Vision: Increasing trustworthiness between groups
+
+While humanity accumulates wisdom on which memes are harmful, individuals often lack access to this knowledge. With the right knowledge (good memes), most of our problems are solvable.
+
+Debiasing should be considered a human right. Just as food security is a right because hunger causes suffering, access to debiasing tools is crucial because misinformation and bias also cause suffering.
+
+Since the cost of helping others debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
+
+**Mistrust** is tearing at the fabric of our world, dividing societies, fueling conflict, and stifling progress. Challenges like **climate change**, **misinformation**, and **geopolitical tensions** demand an extraordinary response: **trust**. Without it, **cooperation collapses**, and humanity stagnates.
+
+Trust is **transformative**—it restores connection, inspires action, and unlocks shared purpose. A future without trust is one of **scarcity** and **despair**, while a future with trust unlocks **progress and possibility**.
 
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
-
+- **Our goal:**
+    - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
+    - **Increase incentives for cognitive trustworthiness**—by enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
+- **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
 ___
 
 Ready to continue? Read the [Gameplay Guide](https://github.com/Inguro-OU/debiased-self/blob/main/GAMEPLAY.md) to understand the game rules.
