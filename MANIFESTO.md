@@ -4,7 +4,7 @@
 
 At the root of untrustworthy communication is **ego**—the mind’s instinct to protect its self-image. It resists being wrong, defends its identity, and clings to beliefs even when evidence contradicts them. When ego feels threatened, it distorts reality, rejects change, and fuels division.
 
-Trust requires openness. However, trust weakens when people defend their identity over truth, **and meaningful dialogue breaks down.** Instead of admitting mistakes, they double down on falsehoods—making trust fragile when needed most.
+Trust weakens when people defend their identity over truth, **and meaningful dialogue breaks down.** Instead of admitting mistakes, they double down on falsehoods—making trust fragile when needed most.
 
 Humans evolved to **cooperate within groups,** not to ensure fairness **between them.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
 
