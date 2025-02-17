@@ -46,9 +46,9 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
 Let's **pause** here for a second and reflect:
-1. How often do you experience **untrustworthy** communication from colleagues, friends, and strangers? How does it affect you?
-2. How often do you communicate in an **untrustworthy** way with strangers, people of different cultures, or contrary beliefs? How does it affect your reputation? 
-3. How do you feel when a person communicates in a **trustworthy** way, even with people from different cultures, and contrary beliefs?     
+1. How often do you meet people **less worthy** of your trust (untrustworthy) communication from colleagues, friends, and strangers? How does it affect you?
+2. How often do you communicate in a **trustworthy** way with strangers, people of different cultures, or contrary beliefs? How does it affect your reputation? 
+3. How do you feel when someone communicates in a **trustworthy** way, even with people from different cultures and contrary beliefs?     
 
 ### **Core Trustworthy Values**
 
