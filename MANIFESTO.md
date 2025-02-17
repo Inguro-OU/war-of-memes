@@ -80,7 +80,7 @@ In memetics theory, ideas evolve through **replication, mutation, and selection*
 - **Think critically** – supports **meme selection** that multiples everyone's happiness.
 - **Explore creatively** – supports continuous **meme mutation**.
 
-Together, [Active listening, Critical thinking, and Creative Exploration](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#trustworthy-communication-habits) form a practical framework for debiasing. Strengthening these habits is the basis of trustworthy communication. It helps us to evolve memes that multiply everyone’s happiness.
+Together, [Active listening, Critical thinking, and Creative Exploration](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#trustworthy-communication-habits) form a practical framework for **effective debiasing**. One can think of debiasing as an extreme form of **Ego-Killing.** Strengthening cognitively trustworthy communication habits helps to evolve ideas (memes) that multiply everyone’s happiness.
 
 ## 9. How To Uncover Good Memes
 
