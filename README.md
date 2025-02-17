@@ -1,4 +1,4 @@
-This one-pager can help you to understand:
+This **introduction** can help you to understand:
 
 1. What is it?
 2. How does it help you?
