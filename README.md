@@ -1,8 +1,8 @@
 **Quick Navigation:**
 
 1. [What is it?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#1-what-is-it)
-2. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
-3. [What are your benefits?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
+2. [Why it matters?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
+3. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
 4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
 5. In the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
 6. [Theorectical Foundation - Scientific Paper about Trust Building Framework and Platform](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
@@ -22,7 +22,7 @@ In other words, this **communication method** makes its users **truly worthy** o
 3. **Cognitive Trustworthiness** – Between **people** and based on equitable treatment of people and their ideas, without prejudice.
 4. **Institutional Trustworthiness** – is based on the **institution's** size, reputation, and brand.
 
-# 2. How does it help you?
+# 2. Why it matters?
 
 **TL;DR**: This method helps you reliably increase the likelihood of experiencing **trustworthy** rather than **untrustworthy** communication.
 
@@ -67,7 +67,7 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they empower others to be more trustworthy.
 - A person is **less** worthy of your trust if they tolerate untrustworthy behavior in others.
 
-# 3. What are your benefits?
+# 3. How does it help you?
 
 Consider the consequences of **trustworthy and untrustworthy communication**:
 
