@@ -4,9 +4,9 @@
 
 In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. Here is a more detailed explanation of key concepts:
 
-- **Trust** is the **belief** that someone or something is **worthy** of trust.
+- **Trust** is the **belief** that an entity will act in a way that maximizes **everyone's happiness**, rather than prioritizing only their own or their group's.
 - **Trustworthiness** is **being worthy** of that belief.
-- There are four t**ypes of Trustworthiness**:
+- There are four **types of Trustworthiness**:
 1. **Competence-Based Trustworthiness** – Between people and based on proven skills and expertise in a specific field.
 2. **Affective Trustworthiness** – Between people and based on sympathy and similarity.
 3. **Cognitive Trustworthiness** – Between people and based on equitable treatment of people and their ideas, without prejudice.
