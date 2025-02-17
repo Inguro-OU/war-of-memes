@@ -4,7 +4,7 @@
 
 At the root of untrustworthy communication is **ego**—the mind’s instinct to protect its self-image. The ego resists being wrong, defends its identity, and clings to beliefs even when evidence contradicts them. When ego feels threatened, it distorts reality, rejects change, and fuels division. Mistrust is a norm when people defend their egos over truth. 
 
-Humans evolved to **cooperate within groups,** not to ensure fairness **between them.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
+Humans evolved to **cooperate within groups,** not to ensure fair treatment **between groups.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
 
 ## **2. Why Moral Instincts Are Not Enough?**
 
