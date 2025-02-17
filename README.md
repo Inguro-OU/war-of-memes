@@ -1,4 +1,4 @@
-This **introduction** will help you to understand:
+Quick Navigation:
 
 1. [What is it?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#1-what-is-it)
 2. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
