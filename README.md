@@ -16,7 +16,7 @@ In other words, this **communication method** makes its users **truly worthy** o
 
 **TL;DR**: This method helps you reliably increase the likelihood of experiencing **trustworthy** rather than **untrustworthy** communication.
 
-### **Trustworthy Communication**
+### **Trustworthy Communication Habits**
 
 Imagine the person described below being a particular college, friend, family member, or stranger. Do you **agree** or **disagree** with the following statements?
 
@@ -35,7 +35,7 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
 - A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
-### **Trustworthy Behaviors**
+### **Trustworthy Values**
 
 👉4. **Speak Honesty**
 
@@ -59,9 +59,9 @@ Imagine the person described below being a particular college, friend, family me
 
 # 3. What are your benefits?
 
-Consider the consequences of **untrustworthy communication and behaviors**:
+Consider the consequences of **untrustworthy communication**:
 
-1. How often do you personally experience **untrustworthy communication & behaviors** described in the seven statements above?
+1. How often do you personally experience **untrustworthy communication** described in the seven statements above?
 2. How often do you personally communicate or behave in an **untrustworthy** way?
 3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a **more trustworthy way**, even with people they don't like or disagree with?
 4. How would your colleagues, friends, family members, and strangers feel if **you** communicated and behaved in a **more trustworthy way**, even with people you don't like or disagree with?
@@ -110,7 +110,7 @@ Consider the consequences of **untrustworthy communication and behaviors**:
 3. Enhance the problem-solving capacity of small and large teams
 4. Spread the culture of idea meritocracy where the best ideas win regardless of their source
 
-🔹**Foundation for fulfilling universal human needs**
+🔹**Intrinsic needs**
 
 Trustworthy communication is more than just a set of skills. It’s the foundation for human happiness because it fulfills essential human needs, including:
 
