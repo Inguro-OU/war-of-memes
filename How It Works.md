@@ -114,5 +114,5 @@ The game offers three levels of participation to suit different group sizes and 
 
 ___
 
-Continue reading [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) to better understand this method's aim and background.
+Continue reading the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), where you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
 
