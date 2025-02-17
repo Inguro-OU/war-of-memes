@@ -6,7 +6,7 @@ At the root of untrustworthy communication is **ego**—the mind’s instinct to
 
 Humans evolved to **cooperate within groups,** not to ensure fair treatment **between groups.** Moral instincts like **reciprocity and loyalty** balance self-interest with group survival. However, moral instincts did not evolve to build trust **between different groups** — group outsiders are often seen as threats.
 
-## **2. How Do Moral Instincts Fail?**
+## **2. How Moral Instincts Fail?**
 
 For most of history, people lived in **stable, close-knit groups** where trust formed naturally. **Shared culture, environment, and knowledge** reinforced cooperation. Moral instincts evolved to **curb selfishness** and strengthen **group loyalty**—but they were built for stability, not rapid change.
 
