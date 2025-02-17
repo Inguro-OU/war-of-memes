@@ -22,7 +22,7 @@ Humans have over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_o
 
 - **Confirmation Bias** – Seeking information that supports our beliefs while ignoring contradictions.
 - **Myside Bias** – Judging ideas based on group identity rather than merit.
-- **Naïve Realism** – Assuming we see reality objectively while others are biased.
+- **Naive Realism** – Assuming we see reality objectively while others are biased.
 
 Because biases operate **below conscious awareness**, they make harmful ideas feel natural and resist correction. To be truly trustworthy communicators, we must recognize and overcome cognitive biases - this is called debiasing.
 
