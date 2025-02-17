@@ -12,9 +12,9 @@ For most of history, people lived in **stable, close-knit groups** where trust f
 
 Today, identities are fluid. People shift between communities, ideologies, and careers more than ever. **What once anchored trust—stable group membership—is now unstable.** Moral instincts, designed for cohesion, struggle to adapt to a world where loyalties constantly shift.
 
-**Social mobility and access to new knowledge** blur group boundaries. Any group insider once seen as **"one of us"** may quickly become **"one of them."** Instincts that once strengthened unity now fuel division.
+**Social mobility and access to new knowledge** blur group boundaries. Any group insider once seen as **"one of us"** may quickly become **"one of them."** Moral instincts that once strengthened unity now fuel division.
 
-When identities are unstable, **trust is harder to sustain.** The instincts that once bound groups together must evolve to keep up with a changing world.
+When identities, values, and shared knowledge are unstable, **trust is harder to sustain.** The moral instincts that once bound groups together are insufficient to sustain cooperation in a constantly changing world.
 
 ## **3.** What are Cognitive Biases?
 
