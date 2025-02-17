@@ -5,7 +5,7 @@
 3. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-how-does-it-help-you)
 4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
 5. In the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
-6. This project is based on the theoretical framework: [Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
+6. This method is based on the theoretical foundation: [Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
 7. [License](https://github.com/Inguro-OU/war-of-memes/blob/main/LICENSE.md) - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). 
 
 # 1. What is it?
