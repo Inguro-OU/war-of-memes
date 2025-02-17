@@ -14,7 +14,7 @@
 
 In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. Here is a more detailed explanation of key concepts:
 
-- **Trust** is the **belief** that an entity will act in a way that maximizes **everyone's happiness**, rather than prioritizing only their own or their group's.
+- **Trust** is the **belief** that an entity will act to maximize **everyone's happiness**, rather than prioritizing only their own or their group's.
 - **Trustworthiness** is **being worthy** of that belief.
 - There are four **types of Trustworthiness**:
 1. **Competence-Based Trustworthiness** – Between **people** and based on proven skills and expertise in a specific field.
@@ -38,17 +38,12 @@ Imagine the person described below being a particular college, friend, family me
 👉2. **Think Critically**
 
 - A person is **more** worthy of your trust if they actively seek the strongest possible evidence that could prove their beliefs false, adjust their confidence in what they believe to be true based on that evidence, and admit their mistakes when the evidence requires it.
-- A person is **less** worthy of your trust if they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence or deny their mistakes when the evidence requires it.
+- A person is **less** worthy of your trust if they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
 
 👉3. **Explore creatively**
 
 - A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
-- A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
-
-Let's **pause** here for a second and reflect:
-1. How often do you meet people **less worthy** of your trust (untrustworthy) communication from colleagues, friends, and strangers? How does it affect you?
-2. How often do you communicate in a **trustworthy** way with strangers, people of different cultures, or contrary beliefs? How does it affect your reputation? 
-3. How do you feel when someone communicates in a **trustworthy** way, even with people from different cultures and contrary beliefs?     
+- A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.   
 
 ### **Core Trustworthy Values**
 
@@ -74,12 +69,12 @@ Let's **pause** here for a second and reflect:
 
 # 3. What are your benefits?
 
-Consider the consequences of **untrustworthy communication**:
+Consider the consequences of **trustworthy and untrustworthy communication**:
 
-1. How often do you personally experience **untrustworthy communication** described in the seven statements above?
-2. How often do you personally communicate or behave in an **untrustworthy** way?
-3. How would **you feel** if your colleagues, friends, family members, and strangers behaved and communicated in a **more trustworthy way**, even with people they don't like or disagree with?
-4. How would your colleagues, friends, family members, and strangers feel if **you** communicated and behaved in a **more trustworthy way**, even with people you don't like or disagree with?
+1. How often do you meet people **less worthy** of your trust (untrustworthy) communication from colleagues, friends, and strangers? How does it affect you?
+2. How often do you communicate in an **untrustworthy** way with strangers, people of different cultures, or contrary beliefs? How does it affect your reputation? 
+3. How would **you feel** if your colleagues, friends, family members, and strangers communicated in a **more trustworthy** way, even with people they don't like or disagree with?
+4. How would your colleagues, friends, family members, and strangers feel if **you** communicated in a **more trustworthy** way, even with people you don't like or disagree with?
 
 ### **Challenges due to untrustworthy communication**
 
