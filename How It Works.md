@@ -1,4 +1,4 @@
-[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about what it is, why it matters, and how it helps.
+[README](https://github.com/Inguro-OU/debiased-self/blob/main/README.md) to learn more about what it is, why it matters, and how does it help you.
 
 ## **Flexible Setup**
 
