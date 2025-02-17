@@ -8,7 +8,7 @@ This **introduction** will help you to understand:
 
 # 1. What is it?
 
-**TL;DR**: This is a cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
+**TL;DR**: This is a cognitively trustworthy communication method for evolving ideas that **multiply everyone's happiness**.
 
 In other words, this **communication method** makes its users **truly worthy** of the **belief** that they will treat other people and any ideas equitably and without prejudice. Here is a more detailed explanation of key concepts:
 
