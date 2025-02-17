@@ -8,7 +8,7 @@ Trust requires openness. However, trust weakens when people defend their identit
 
 Humans evolved to **cooperate within groups,** not to ensure fairness **between them.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
 
-## **2. Why Do Our Moral Instincts Struggle Today?**
+## **2. Why Moral Instincts Are Not Enough?**
 
 For most of history, people lived in **stable, close-knit groups** where trust formed naturally. **Shared culture, environment, and knowledge** reinforced cooperation. Moral instincts evolved to **curb selfishness** and strengthen **group loyalty**—but they were built for stability, not rapid change.
 
