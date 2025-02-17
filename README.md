@@ -1,3 +1,9 @@
+This one-pager can help you to understand:
+
+1. What is it?
+2. How does it help you?
+3. What are your benefits?
+
 # 1. What is it?
 
 **TL;DR**: This is a cognitively trustworthy communication method for evolving ideas that multiply everyone's happiness.
