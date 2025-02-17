@@ -1,7 +1,7 @@
 **Quick Navigation:**
 
 1. [What is it?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#1-what-is-it)
-2. [Why it matters?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
+2. [Why it matters?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-why-it-matters)
 3. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
 4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
 5. In the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
