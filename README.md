@@ -2,7 +2,9 @@ This **introduction** can help you to understand:
 
 1. [What is it?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#1-what-is-it)
 2. [How does it help you?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#2-how-does-it-help-you)
-3. What are your benefits?
+3. [What are your benefits?](https://github.com/Inguro-OU/war-of-memes/blob/main/README.md#3-what-are-your-benefits)
+4. [How it works](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md).
+5. [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md) can help you to better understand the aims and background. 
 
 # 1. What is it?
 
