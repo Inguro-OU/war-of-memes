@@ -6,7 +6,7 @@
 4. [How does it work?](https://github.com/Inguro-OU/war-of-memes/blob/main/How%20It%20Works.md)
 5. In the [Manifesto](https://github.com/Inguro-OU/war-of-memes/blob/main/MANIFESTO.md), you will learn how ego fuels mistrust, why moral instincts fail in our interconnected world, and how memetic theory and debiasing provide a solution for improving cognitive trustworthiness.
 6. [Theorectical Foundation - Scientific Paper about Trust Building Framework and Platform](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
-7. This project is [licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**](https://github.com/Inguro-OU/war-of-memes/blob/main/LICENSE.md).
+7. This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. Read more in [License](https://github.com/Inguro-OU/war-of-memes/blob/main/LICENSE.md).
 
 # 1. What is it?
 
