@@ -90,21 +90,13 @@ Good memes are **anti-fragile**—the more they are challenged, the stronger the
 
 ## 10. Vision: Increasing trustworthiness between groups
 
-While humanity accumulates wisdom on which memes are harmful, individuals often lack access to this knowledge. With the right knowledge (good memes), most of our problems are solvable.
-
-Debiasing should be considered a human right. Just as food security is a right because hunger causes suffering, access to debiasing tools is crucial because misinformation and bias also cause suffering.
-
-Since the cost of helping others debias is minimal compared to the massive societal benefits, we have a moral obligation to make debiasing accessible to all.
-
-**Mistrust** is tearing at the fabric of our world, dividing societies, fueling conflict, and stifling progress. Challenges like **climate change**, **misinformation**, and **geopolitical tensions** demand an extraordinary response: **trust**. Without it, **cooperation collapses**, and humanity stagnates.
-
-Trust is **transformative**—it restores connection, inspires action, and unlocks shared purpose. A future without trust is one of **scarcity** and **despair**, while a future with trust unlocks **progress and possibility**.
-
 - **Our vision** is a world where violations of the Silver Rule—“Do not treat others in ways you don’t want to be treated”—are increasingly rare, even across cultures and distances.
 - **Our goal:**
     - **Lower the cost of assessing cognitive trustworthiness**—a person’s ability to think and act with moral and epistemic impartiality.
-    - **Increase incentives for cognitive trustworthiness**—by enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
-- **Outcome**: As cognitive trustworthiness grows, people will recognize and correct their cognitive biases, reducing the spread of harmful memes. This advances a humanist vision of progress, shared prosperity, and global cooperation.
+    - **Increase incentives for cognitive trustworthiness**—enabling people to build reputations based on promise-keeping, active listening, and critical thinking.
+    - **Debiasing** should be considered a **human right**. Just as food security is a right because hunger causes suffering, access to debiasing methods (e.g., this one) is crucial because cognitive biases are at the root cause of our suffering.
+
+- **Conclusion:** **Mistrust** is tearing at the fabric of our world, dividing societies, fueling conflict, and stifling progress. Challenges like **climate change**, **misinformation**, and **geopolitical tensions** demand an extraordinary response: **trust**. Trust is **transformative**—it restores connection, inspires action, and unlocks shared purpose. A future without trust is one of **scarcity** and **despair**, while a future with trust unlocks **progress and possibility**.
 ___
 
 Continue reading the theoretical foundation: [Ladischenski. (2024). Intuitive Trust-Building Framework Grounded in Moral and Epistemic Impartiality (1.0). inguro. https://doi.org/10.5281/zenodo.14548583](https://docs.google.com/document/d/1kGMJGx4Vrzi9WACDVPcFq5oxaww3oydHV54CgS6Zhmc/edit?usp=sharing)
