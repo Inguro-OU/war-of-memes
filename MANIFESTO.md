@@ -8,8 +8,6 @@ Trust requires openness. However, trust weakens when people defend their identit
 
 Humans evolved to **cooperate within groups,** not to ensure fairness **between them.** Instincts like **fairness, reciprocity, and loyalty** balance self-interest with group survival. But they were never designed to build trust **across different groups**—outsiders were often seen as threats.
 
----
-
 ## **2. Why Do Our Moral Instincts Struggle Today?**
 
 For most of history, people lived in **stable, close-knit groups** where trust formed naturally. **Shared culture, environment, and knowledge** reinforced cooperation. Moral instincts evolved to **curb selfishness** and strengthen **group loyalty**—but they were built for stability, not rapid change.
@@ -33,8 +31,6 @@ Because biases operate **below conscious awareness**, they make harmful ideas fe
 The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**.
 
 Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
-
----
 
 ## 4. What Is a Meme?
 
