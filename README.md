@@ -40,17 +40,17 @@ Imagine the person described below being a particular college, friend, family me
 - A person is **more** worthy of your trust if they actively seek the strongest possible evidence that could prove their beliefs false, adjust their confidence in what they believe to be true based on that evidence, and admit their mistakes when the evidence requires it.
 - A person is **less** worthy of your trust if they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
 
-👉3. **Explore creatively**
+👉3. **Speak Honesty**
 
-- A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
-- A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.   
+- A person is **more** worthy of your trust if they tell you what they believe to be true despite a possibly high cost to them.
+- A person is **less** worthy of your trust if they intentionally hide what they believe to be true when it serves their interests.
 
 ### **Core Trustworthy Values**
 
-👉4. **Speak Honesty**
+👉4. **Explore creatively**
 
-- A person is more worthy of your trust if they tell you the truth despite the high cost.
-- A person is less worthy of your trust if they intentionally lie to you when it serves their interests.
+- A person is **more** worthy of your trust if they help you explore your ideas beyond familiar possibilities.
+- A person is **less** worthy of your trust if they dismiss your ideas, limit discussion to what they already know and accept.
 
 👉5. **Keep Promises**
 
