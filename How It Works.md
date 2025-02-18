@@ -36,7 +36,7 @@ The game offers three levels of participation to suit different group sizes and 
 1. To encourage trustworthy communication, a participant can call for a **challenge** by saying:  
 - **"Listen Actively + [Name]"** - make a real effort to understand other's perspectives as they have them and ensure they feel understood.
 - **"Think Critically + [Name]"**  - actively seek the strongest possible evidence that could prove your beliefs false, adjust your confidence in what you believe to be true based on that evidence, and admit your mistakes when the evidence requires it.
-- **"Explore Creatively + [Name]"**  - help others explore their ideas beyond familiar possibilities.
+- **"Speak Honestly + [Name]"**  - share transparently what you believe to be true 
 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication. The challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
@@ -45,13 +45,13 @@ The game offers three levels of participation to suit different group sizes and 
 
 1. A participant can **gives up an armband** when another participant **perceives** their communication as untrustworthy:
 
-- **"Missunderstands"** - thry disregard your perspective, make no effort to understand it, or fail to make you feel understood.
-- **"Thinks Dogmatically "**  - they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
-- **"Stifles Exploration"** - thry dismiss your ideas, limit discussion to what thry already know and accept.
+- **"Misunderstanding"** - they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
+- **"Dogmatic"**  - they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
+- **"Not transparent"** - doesn't transparently share the information
 
-2. If Participant you perceive somebody's communication as untrustworthy, you **calls it out.**
-3. Participant ehom you called out **must say "I'm sorry"** and **give up one armband.**
-4. **This participant does NOT have to agree with you**— they only acknowledge that you perceived their communication as untrustworthy.
+2. If Participant A perceives Participant B's communication as untrustworthy, they **call it out.**
+3. The participant B **must say "I'm sorry"** and **give up one armband.**
+4. **Participant B does NOT have to agree with Participant A**— they only acknowledge that you perceived their communication as untrustworthy.
 
 ✅ **Example:**
 
