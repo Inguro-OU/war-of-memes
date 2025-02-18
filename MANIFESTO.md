@@ -76,6 +76,7 @@ By strengthening **System 2 thinking**, we can shift from **egoistic selection**
 
 In memetics theory, ideas evolve through **replication, mutation, and selection**. We can accelerate this evolution by strengthening three key mental faculties represented by:
 
+- **Speak honestly**– supports accurate **meme replication**.
 - **Listen actively** – supports accurate **meme replication**.
 - **Think critically** – supports **meme selection** that multiples everyone's happiness.
 - **Explore creatively** – supports continuous **meme mutation**.
