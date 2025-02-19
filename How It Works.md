@@ -41,13 +41,13 @@ The game offers three levels of participation to suit different group sizes and 
 2. The challenger places an **armband** on the table, signaling an opportunity to earn it.
 3. The challenged participant earns the **armband** if they successfully demonstrate the demanded aspect of trustworthy communication. The challenger gives the **armband** as recognition and says  **"Thank you + [Name]"**  
 
-### 4. Give Up an Armband for Perceived Untrustworthy Communication
+### 4. Give Up an Armband for Perceived Misunderstandings
 
 1. A participant can **gives up an armband** when another participant **perceives** their communication as untrustworthy:
 
-- **"Misunderstanding"** - they disregard your perspective, make no effort to understand it, or fail to make you feel understood.
+- **"Misunderstanding"** - they disregard your perspective, make no effort to understand it or fail to make you feel understood.
 - **"Dogmatic"**  - they avoid seeking the strongest possible evidence that could prove their beliefs false, refuse to adjust their confidence in what they believe to be true based on that evidence, or deny their mistakes when the evidence requires it.
-- **"Not transparent"** - doesn't transparently share the information
+- **"Not transparent"** - they refused to transparently share their observations, feelings, and needs (as per the Non-Violent Communication Method)
 
 2. If Participant A perceives Participant B's communication as untrustworthy, they **call it out.**
 3. The participant B **must say "I'm sorry"** and **give up one armband.**
