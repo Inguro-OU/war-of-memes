@@ -14,7 +14,7 @@ Today, identities are fluid. People shift between communities, ideologies, and c
 
 **Social mobility and access to new knowledge** blur group boundaries. Any group insider once seen as **"one of us"** may quickly become **"one of them."** Moral instincts that once strengthened unity now fuel division.
 
-When identities, values, and shared knowledge are unstable, **trust is harder to sustain.** The moral instincts that once bound groups together are insufficient to sustain cooperation in a constantly changing world.
+When identities, values, and shared knowledge are unstable, **trust is harder to sustain.** The moral instincts, based on similarity and sympathy, have become insufficient to sustain trustworthy relationships in a constantly changing world.
 
 ## **3.** What are Cognitive Biases?
 
