@@ -10,7 +10,7 @@ Humans evolved to **cooperate within groups,** not to ensure fair treatment **be
 
 For most of history, people lived in **stable, close-knit groups** where trust formed naturally. **Shared culture, environment, and knowledge** reinforced cooperation. Moral instincts evolved to **curb selfishness** and strengthen **group loyalty**—but they were built for stability, not rapid change.
 
-Today, identities are fluid. People shift between communities, ideologies, and careers more than ever. **What once anchored trust—stable group membership—is now unstable.** Moral instincts, designed for cohesion, struggle to adapt to a world where loyalties constantly shift.
+Today, identities are fluid. People shift between communities, ideologies, and careers more than ever. **What once anchored trust—stable group membership—is now unstable.** Moral instincts, designed for cohesion, struggle to adapt to a world where identities and beliefs constantly shift.
 
 **Social mobility and access to new knowledge** blur group boundaries. Any group insider once seen as **"one of us"** may quickly become **"one of them."** Moral instincts that once strengthened unity now fuel division.
 
