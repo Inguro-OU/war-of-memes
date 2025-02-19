@@ -26,9 +26,9 @@ Humans have over [**200 cognitive biases**](https://en.wikipedia.org/wiki/List_o
 
 Because biases operate **below conscious awareness**, they make harmful ideas feel natural and resist correction. To be truly trustworthy communicators, we must recognize and overcome cognitive biases - this is called debiasing.
 
-The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**.
+The foundation of effective debiasing is recognizing human imperfection. We all have cognitive biases, meaning **we all make mistakes**. The most dangerous mistake is assuming any **belief, tradition, or ideology is beyond error**. Why? Because in a world where values, identities, beliefs, and knowledge are constantly changing, a dogmatic belief has the potential to create an unbridgeable mistrust. 
 
-Acknowledging our fallibility creates space for **continuous learning, improvement, and critical thinking**—key tools for resisting harmful memes.
+Acknowledging our fallibility because we all have cognitive biases is a prerequisite for **trustworthy communication**.
 
 ## 4. What Is a Meme?
 
