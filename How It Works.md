@@ -25,7 +25,8 @@ The game offers three levels of participation to suit different group sizes and 
 - **Participation Badge**: participants wear a badge to signal participation.
 - **Opt-Out Anytime**: Participants may remove their badge to exit their participation if they feel fatigued.
 
-![badge5 0_small](https://github.com/user-attachments/assets/c3c6d30d-f893-4629-8f89-f8afcdb2b6ae)
+![badge 7](https://github.com/user-attachments/assets/e5c3b87f-51f3-4e9e-9724-2463d68257c9)
+
 
 ### **2. Armbands as Gifts & Rewards**
 
